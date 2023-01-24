@@ -1,7 +1,5 @@
-from pathlib import Path
 import pandas as pd
 
-BASE_DIR = Path(__file__).parents[2]
 
 
 def get_lsoa_iod_2019() -> pd.DataFrame:
@@ -12,4 +10,5 @@ def get_lsoa_iod_2019() -> pd.DataFrame:
     Returns:
         pd.DataFrame: Pandas dataframe.
     """
-    return pd.read_csv(f"{BASE_DIR}/inputs/data/lsoa_clean_iod_2019.csv")
+    url = "https://raw.githubusercontent.com/j-gillam/geographical_iod_analysis/main/inputs/data/lsoa_clean_iod_2019.csv"
+    return pd.read_csv(url)
