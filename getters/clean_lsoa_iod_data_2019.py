@@ -10,5 +10,5 @@ def get_lsoa_iod_2019() -> pd.DataFrame:
     Returns:
         pd.DataFrame: Pandas dataframe.
     """
-    url = "https://raw.githubusercontent.com/j-gillam/geographical_iod_analysis/main/inputs/data/lsoa_clean_iod_2019.csv"
+    url = "https://raw.githubusercontent.com/j-gillam/geographical_iod_analysis/main/data/lsoa_clean_iod_2019.csv"
     return pd.read_csv(url)
