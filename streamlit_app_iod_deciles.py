@@ -107,7 +107,7 @@ if choose == "About":
         "https://opendatacommunities.org/data/societal-wellbeing/imd2019/indices"
     )
     text_geography = "https://geoportal.statistics.gov.uk/search?collection=Dataset"
-    github_repo = "https://raw.githubusercontent.com/j-gillam/uk_geojson_topojson_datasets/"  ###### CHANGE
+    github_repo = "https://raw.githubusercontent.com/j-gillam/geographical_iod_analysis"  ###### CHANGE
     st.markdown(
         f"<div> These open datasets can be found on the <a href= {text_open_data}> Open Data Community </a> and from <a href= {text_geography}> Open Geography Portal </a> . See <a href= {github_repo}> here </a> for the github repository with the linked datasets and streamlit code for this app.</div>",
         unsafe_allow_html=True,
