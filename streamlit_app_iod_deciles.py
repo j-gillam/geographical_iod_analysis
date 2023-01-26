@@ -182,12 +182,16 @@ def streamlit_asq():
             You can click on each LA to highlight it, double-click to remove the selection and hover over the map to see the deciles.
             """
             )
-
+            # Choose the colour palette:
+            colour_choice = st.selectbox(
+                "Choose a colour palette for the maps:",
+                options=list(colour_palettes.keys()),
+            )
             color_ = alt.condition(
                 la_select,
                 alt.Color(
                     f'{iod_dict["Index of Multiple Deprivation (IMD)"]}:O',
-                    scale=alt.Scale(domain=domain, range=range_),
+                    scale=colour_palettes[colour_choice],
                     title="Index of Multiple Deprivation (IMD)",
                     legend=alt.Legend(orient="top"),
                 ),
@@ -261,7 +265,7 @@ def streamlit_asq():
                 la_select,
                 alt.Color(
                     f"{iod_dict[iod_selection]}:O",
-                    scale=alt.Scale(domain=domain, range=range_),
+                    scale=colour_palettes[colour_choice],
                     title=iod_selection,
                     legend=alt.Legend(orient="top"),
                 ),
@@ -301,7 +305,7 @@ def streamlit_asq():
             )
             choro_bar = (
                 alt.Chart(la_melt)
-                .mark_bar(color=NESTA_COLOURS[0])
+                .mark_bar(color=NESTA_COLOURS[1])
                 .encode(
                     x=alt.X(
                         "decile:Q",
@@ -378,7 +382,7 @@ def streamlit_asq():
 
             compare_las = (
                 alt.Chart(la_compare)
-                .mark_bar(size=50, color=NESTA_COLOURS[0])
+                .mark_bar(size=50, color=NESTA_COLOURS[1])
                 .encode(
                     x=alt.X(
                         "decile:Q",
@@ -408,6 +412,11 @@ def streamlit_asq():
 
             You can click on each LSOA to highlight it, double-click to remove the selection and hover over the map to see the deciles.
             """
+            )
+            # Choose the colour palette:
+            colour_choice = st.selectbox(
+                "Choose a colour palette for the maps:",
+                options=list(colour_palettes.keys()),
             )
             # Select box to pick the region you wish to look at.
             region_selection = st.selectbox(
@@ -452,7 +461,7 @@ def streamlit_asq():
                 lsoa_select,
                 alt.Color(
                     f"{iod_dict[iod_selection]}:O",
-                    scale=alt.Scale(domain=domain, range=range_),
+                    scale=colour_palettes[colour_choice],
                     title=f"{iod_selection}",
                     legend=alt.Legend(orient="top"),
                 ),
