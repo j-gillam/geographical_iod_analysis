@@ -33,7 +33,16 @@ iod_dict_inv = dict(zip(iod_indices, iod_names))
 
 # Colour Pallette for the Choropleth maps
 # As we are looking at the Deciles, we will have 10 points.
+summer_palette = [ 
+    "#f94144","#f3722c","#f8961e","#f9844a","#f9c74f","#90be6d","#43aa8b","#4d908e","#577590","#277da1"
+]
+winter_palette = [ 
+    "#7400b8","#6930c3","#5e60ce","#5390d9","#4ea8de","#48bfe3","#56cfe1","#64dfdf","#72efdd","#80ffdb"
+]
 domain = [i + 1 for i in range(10)]
-# Change plasma_r to try out different pallettes.
-cmap = plt.cm.get_cmap("plasma_r", 10)
-range_ = [pltcol.rgb2hex(cmap(domain)[i]) for i in range(10)]
+colour_palettes = {
+    'Spring' : alt.Scale(domain=domain,scheme='yellowgreenblue',reverse=False),
+    'Summer' : alt.Scale(domain=domain,range=summer_palette),
+    'Autumn' : alt.Scale(domain=domain,scheme='plasma',reverse=True),
+    'Winter' : alt.Scale(domain=domain,range=winter_palette,reverse=True)
+}
