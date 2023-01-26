@@ -1,5 +1,6 @@
 import matplotlib.pylab as plt
 import matplotlib.colors as pltcol
+import altair as alt
 
 # Creating dictionaries for the IoD.
 iod_indices = [
