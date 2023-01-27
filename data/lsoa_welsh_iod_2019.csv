@@ -1,4 +1,4 @@
-lsoa11cd,lsoa_name_2,lad19cd,lad19nm,wimd_deciles,wimd_income_domain_deciles,wimd_employment_domain_deciles,wimd_health_domain_deciles,wimd_education_domain_deciles,wimd_access_to_services_domain_deciles,wimd_housing_domain_deciles,wimd_physical_environment_domain_deciles,wimd_community_safety_domain_deciles,region_name
+lsoa11cd,lsoa11nm,lad19cd,lad19nm,wimd_deciles,wimd_income_domain_deciles,wimd_employment_domain_deciles,wimd_health_domain_deciles,wimd_education_domain_deciles,wimd_access_to_services_domain_deciles,wimd_housing_domain_deciles,wimd_physical_environment_domain_deciles,wimd_community_safety_domain_deciles,region_name
 W01001939,Cardiff 032F,W06000015,Cardiff,5,10,10,10,3,2,3,1,1,South East Wales
 W01001943,Cardiff 048B,W06000015,Cardiff,7,9,10,10,2,7,10,1,1,South East Wales
 W01000922,Neath Port Talbot 007C,W06000012,Neath Port Talbot,3,3,2,2,4,4,3,2,7,Mid and South West Wales
