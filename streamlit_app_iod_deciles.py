@@ -5,11 +5,11 @@ import altair as alt
 from utils.utils_fonts_colours import *
 from utils.utils_iod_values import *
 from PIL import Image
-from getters.clean_la_iod_data_2019 import get_la_iod_2019
-from getters.clean_lsoa_iod_data_2019 import get_lsoa_iod_2019
-from getters.la_shapefiles_2019 import get_la_shapefiles_2019
+from getters.english_la_iod_data_2019 import get_english_la_iod_2019
+from getters.english_lsoa_iod_data_2019 import get_english_lsoa_iod_2019
+from getters.la_shapefiles_2019 import get_english_la_shapefiles_2019
 from getters.lsoa_shapefiles_2011 import (
-    get_lsoa_shapefiles_2011,
+    get_english_lsoa_shapefiles_2011
 )
 from utils.utils_preprocessing import preprocess_strings
 import geopandas as gpd
@@ -36,9 +36,17 @@ st.set_page_config(page_title="IoD Deciles across England", layout="wide", page_
 # Creates the Navigation bar on the side:
 with st.sidebar:
     choose = option_menu(
-        "IoD Geographical Analysis across England",
-        ["About", "LA Breakdown", "LA Comparison", "LSOA Breakdown"],
-        icons=["house", "geo-alt", "kanban", "geo-alt"],
+        "IoD Geographical Analysis",
+        ["About", "English LA Breakdown", 
+        "English LA Comparison", "English LSOA Breakdown", 
+        "Welsh LSOA Breakdown",
+        "Comparing Welsh and English IoD"
+        ],
+        icons=["house", "geo-alt", 
+        "kanban", "geo-alt",
+        "geo_alt",
+        "kanban"
+        ],
         default_index=0,
         orientation="vertical",
         styles={
@@ -71,7 +79,7 @@ if choose == "About":
         st.image(nesta_logo, width=250)
 
         # How to create a title for the page:
-        st.title("Geographical Analysis of the IoD Deciles Across England")
+        st.title("Geographical Analysis of the IoD Deciles Across England and Wales")
 
         st.markdown(
             "  **website:** https://www.nesta.org/ **| email:** jess.gillam@nesta.org.uk"
@@ -80,8 +88,8 @@ if choose == "About":
     # You can use st.markdown to add text to the app:
     st.markdown(
         """
-            This app shows how open source data can be mapped geographically to identify deprivation and need across England.
-            For this example, we use the English indices of deprivation (IoD) published in 2019. The IoD are statistics on the relative
+            This app shows how open source data can be mapped geographically to identify deprivation and need across England and Wales.
+            We use the English indices of deprivation (IoD) published in 2019. The IoD are statistics on the relative
             deprivation in small areas in England. Data is available at Local Authority (LA) and Lower Super Output Area (LSOA) level.
 
             The IoD dataset provides 10 indices, with the Index of Multiple Deprivation (IMD) being a combination of the indices shown in the graphic below.
@@ -112,10 +120,11 @@ if choose == "About":
         f"<div> These open datasets can be found on the <a href= {text_open_data}> Open Data Community </a> and from <a href= {text_geography}> Open Geography Portal </a> . See <a href= {github_repo}> here </a> for the github repository with the linked datasets and streamlit code for this app.</div>",
         unsafe_allow_html=True,
     )
+    st.markdown("The Welsh IoD's [IN PROGRESS]")
 
 
 # As we want it to be password protected, this creates a function which means the rest of the app can only run if you've typed the password in.
-def streamlit_asq():
+def streamlit_iod():
     # Sets a spinner so we know that the report is updating as we change the user selections.
     with st.spinner("Updating Report..."):
 
@@ -149,8 +158,8 @@ def streamlit_asq():
                 "Income Deprivation Affecting Older People Index (IDAOPI)",
             ]
         # Loading in the IoD data at LA and LSOA level (query to insure we are only looking at the English Regions).
-        data = get_la_iod_2019().query("region_name in @st.session_state.region_filter")
-        lsoa_data = get_lsoa_iod_2019().query(
+        data = get_english_la_iod_2019().query("region_name in @st.session_state.region_filter")
+        lsoa_data = get_english_lsoa_iod_2019().query(
             "region_name in @st.session_state.region_filter"
         )
 
@@ -164,7 +173,7 @@ def streamlit_asq():
             .assign(iod_name=lambda df: df.iod.replace(iod_dict_inv))
         )
 
-        geodata_la = get_la_shapefiles_2019()
+        geodata_la = get_english_la_shapefiles_2019()
 
         # For the LA Breakdown page:
         if choose == "LA Breakdown":
@@ -455,7 +464,7 @@ def streamlit_asq():
                     preprocess_strings(pd.Series(st.session_state.region_filter)),
                 )
             )
-            geodata_lsoa = get_lsoa_shapefiles_2011(region_dict[region_selection])
+            geodata_lsoa = get_english_lsoa_shapefiles_2011(region_dict[region_selection])
             lsoa_select = alt.selection_single(fields=["lsoa11nm"])
             color_lsoa = alt.condition(
                 lsoa_select,
