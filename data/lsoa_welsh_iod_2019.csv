@@ -1,0 +1,1910 @@
+lsoa11cd,lsoa_name_2,lad19cd,lad19nm,wimd_deciles,wimd_income_domain_deciles,wimd_employment_domain_deciles,wimd_health_domain_deciles,wimd_education_domain_deciles,wimd_access_to_services_domain_deciles,wimd_housing_domain_deciles,wimd_physical_environment_domain_deciles,wimd_community_safety_domain_deciles,region_name
+W01001939,Cardiff 032F,W06000015,Cardiff,5,10,10,10,3,2,3,1,1,South East Wales
+W01001943,Cardiff 048B,W06000015,Cardiff,7,9,10,10,2,7,10,1,1,South East Wales
+W01000922,Neath Port Talbot 007C,W06000012,Neath Port Talbot,3,3,2,2,4,4,3,2,7,Mid and South West Wales
+W01000032,Isle of Anglesey 002D,W06000001,Isle of Anglesey,6,5,5,8,5,2,6,9,10,North Wales
+W01000049,Gwynedd 016B,W06000002,Gwynedd,6,6,5,9,4,7,2,10,3,North Wales
+W01000004,Isle of Anglesey 001B,W06000001,Isle of Anglesey,6,6,6,7,5,2,7,10,7,North Wales
+W01000798,Swansea 010C,W06000011,Swansea,6,7,4,5,4,9,9,5,6,Mid and South West Wales
+W01000175,Conwy 003D,W06000003,Conwy,10,10,10,10,8,8,9,10,10,North Wales
+W01001721,Cardiff 032A,W06000015,Cardiff,5,10,10,6,1,3,1,3,8,South East Wales
+W01001945,Cardiff 048D,W06000015,Cardiff,9,10,10,10,5,8,9,2,6,South East Wales
+W01001554,Monmouthshire 004C,W06000021,Monmouthshire,8,8,8,9,10,8,2,2,3,South East Wales
+W01000069,Gwynedd 013A,W06000002,Gwynedd,8,7,7,8,6,2,8,7,9,North Wales
+W01000861,Swansea 027D,W06000011,Swansea,10,10,10,7,9,9,5,9,6,Mid and South West Wales
+W01000051,Gwynedd 015A,W06000002,Gwynedd,7,5,6,6,5,7,7,5,5,North Wales
+W01001199,Rhondda Cynon Taf 027E,W06000016,Rhondda Cynon Taf,9,8,8,8,7,10,8,7,8,South East Wales
+W01001307,Merthyr Tydfil 004C,W06000024,Merthyr Tydfil,1,1,1,1,4,3,1,2,2,South East Wales
+W01000328,Flintshire 011C,W06000005,Flintshire,3,4,6,3,1,5,1,2,2,North Wales
+W01000954,Neath Port Talbot 005C,W06000012,Neath Port Talbot,6,6,6,4,3,9,6,4,8,Mid and South West Wales
+W01000905,Neath Port Talbot 006D,W06000012,Neath Port Talbot,7,6,6,7,6,7,10,4,9,Mid and South West Wales
+W01001719,Cardiff 028B,W06000015,Cardiff,8,10,10,9,8,8,1,2,7,South East Wales
+W01000114,Gwynedd 009D,W06000002,Gwynedd,6,7,8,8,6,1,2,10,8,North Wales
+W01000048,Gwynedd 016A,W06000002,Gwynedd,5,5,6,6,4,2,7,7,6,North Wales
+W01000565,Pembrokeshire 002B,W06000009,Pembrokeshire,6,4,5,7,4,4,8,9,6,Mid and South West Wales
+W01000628,Carmarthenshire 024A,W06000010,Carmarthenshire,6,7,7,4,5,8,7,2,2,Mid and South West Wales
+W01000067,Gwynedd 016D,W06000002,Gwynedd,7,8,6,8,7,3,5,5,3,North Wales
+W01000550,Ceredigion 011G,W06000008,Ceredigion,5,6,5,7,4,2,5,4,3,Mid and South West Wales
+W01000057,Gwynedd 016C,W06000002,Gwynedd,5,8,8,9,7,1,1,7,9,North Wales
+W01000950,Neath Port Talbot 018B,W06000012,Neath Port Talbot,4,5,4,5,3,5,2,2,4,Mid and South West Wales
+W01000856,Swansea 022D,W06000011,Swansea,2,2,1,3,7,5,9,10,7,Mid and South West Wales
+W01001506,Torfaen 010A,W06000020,Torfaen,2,2,1,2,3,5,3,4,1,South East Wales
+W01000851,Swansea 021C,W06000011,Swansea,5,4,4,5,4,5,3,8,6,Mid and South West Wales
+W01000949,Neath Port Talbot 018A,W06000012,Neath Port Talbot,6,6,5,6,4,3,6,5,5,Mid and South West Wales
+W01000976,Bridgend 003A,W06000013,Bridgend,2,2,2,3,2,4,3,10,5,South East Wales
+W01000205,Denbighshire 016B,W06000004,Denbighshire,7,8,9,8,5,1,4,5,8,North Wales
+W01000005,Isle of Anglesey 005A,W06000001,Isle of Anglesey,6,5,7,8,2,7,5,8,5,North Wales
+W01001183,Rhondda Cynon Taf 021B,W06000016,Rhondda Cynon Taf,2,3,2,2,2,3,3,6,2,South East Wales
+W01000339,Flintshire 019D,W06000005,Flintshire,6,7,8,7,6,2,2,9,7,North Wales
+W01000809,Swansea 008A,W06000011,Swansea,4,4,4,3,4,8,3,4,3,Mid and South West Wales
+W01001926,Conwy 011F,W06000003,Conwy,8,9,9,8,6,2,8,9,8,North Wales
+W01000579,Pembrokeshire 003A,W06000009,Pembrokeshire,7,7,8,9,5,1,4,10,10,Mid and South West Wales
+W01001451,Blaenau Gwent 007B,W06000019,Blaenau Gwent,2,2,2,2,2,8,3,3,2,South East Wales
+W01000883,Neath Port Talbot 016A,W06000012,Neath Port Talbot,8,9,7,6,4,10,10,2,5,Mid and South West Wales
+W01000871,Swansea 026B,W06000011,Swansea,5,5,6,6,6,4,1,3,4,Mid and South West Wales
+W01000044,Isle of Anglesey 004F,W06000001,Isle of Anglesey,9,9,8,8,9,5,9,8,10,North Wales
+W01000019,Isle of Anglesey 005C,W06000001,Isle of Anglesey,7,7,6,7,4,6,7,6,7,North Wales
+W01000898,Neath Port Talbot 014A,W06000012,Neath Port Talbot,5,6,5,4,4,3,6,9,7,Mid and South West Wales
+W01000540,Ceredigion 005E,W06000008,Ceredigion,6,6,6,6,8,1,2,9,9,Mid and South West Wales
+W01000971,Neath Port Talbot 004G,W06000012,Neath Port Talbot,5,5,4,4,4,6,5,4,7,Mid and South West Wales
+W01000185,Conwy 015E,W06000003,Conwy,7,6,7,8,6,1,5,8,9,North Wales
+W01001160,Rhondda Cynon Taf 029A,W06000016,Rhondda Cynon Taf,9,9,9,6,6,9,8,7,9,South East Wales
+W01000692,Carmarthenshire 019C,W06000010,Carmarthenshire,7,6,6,5,6,10,8,2,9,Mid and South West Wales
+W01000892,Neath Port Talbot 015D,W06000012,Neath Port Talbot,8,7,6,7,7,9,8,5,7,Mid and South West Wales
+W01000362,Wrexham 006C,W06000006,Wrexham,3,2,4,4,1,7,4,10,1,North Wales
+W01001718,Cardiff 028A,W06000015,Cardiff,5,8,10,7,3,4,1,1,7,South East Wales
+W01001483,Torfaen 002B,W06000020,Torfaen,2,1,2,1,3,6,8,1,3,South East Wales
+W01000043,Isle of Anglesey 004E,W06000001,Isle of Anglesey,5,4,5,5,4,7,10,4,5,North Wales
+W01001655,Newport 002E,W06000022,Newport,9,9,9,7,8,9,9,3,6,South East Wales
+W01000508,Ceredigion 009B,W06000008,Ceredigion,5,4,4,7,5,3,2,10,9,Mid and South West Wales
+W01001837,Cardiff 030C,W06000015,Cardiff,4,6,8,5,4,3,1,1,5,South East Wales
+W01001951,Cardiff 049E,W06000015,Cardiff,6,9,10,10,4,3,9,1,1,South East Wales
+W01000360,Wrexham 019D,W06000006,Wrexham,4,5,5,4,1,6,6,3,7,North Wales
+W01000566,Pembrokeshire 002C,W06000009,Pembrokeshire,5,4,4,6,3,7,7,10,5,Mid and South West Wales
+W01000918,Neath Port Talbot 002A,W06000012,Neath Port Talbot,7,6,5,5,5,7,9,7,8,Mid and South West Wales
+W01001933,Gwynedd 017F,W06000002,Gwynedd,7,8,9,10,7,1,4,6,9,North Wales
+W01001244,Rhondda Cynon Taf 025B,W06000016,Rhondda Cynon Taf,8,8,8,6,5,8,10,7,6,South East Wales
+W01000034,Isle of Anglesey 004B,W06000001,Isle of Anglesey,7,6,6,7,5,4,10,10,4,North Wales
+W01000018,Isle of Anglesey 001C,W06000001,Isle of Anglesey,6,4,5,7,6,8,6,10,7,North Wales
+W01000235,Denbighshire 017D,W06000004,Denbighshire,8,7,6,6,7,10,10,4,8,North Wales
+W01000310,Flintshire 020D,W06000005,Flintshire,8,9,9,8,8,2,3,7,8,North Wales
+W01000074,Gwynedd 013B,W06000002,Gwynedd,7,6,7,7,7,2,6,8,9,North Wales
+W01001229,Rhondda Cynon Taf 017B,W06000016,Rhondda Cynon Taf,4,5,4,5,4,8,3,2,4,South East Wales
+W01000079,Gwynedd 013C,W06000002,Gwynedd,6,7,8,8,6,1,1,8,10,North Wales
+W01001720,Cardiff 028C,W06000015,Cardiff,5,9,10,7,3,4,1,1,6,South East Wales
+W01001724,Cardiff 032C,W06000015,Cardiff,5,10,10,8,1,4,1,1,8,South East Wales
+W01000162,Conwy 014C,W06000003,Conwy,6,8,8,9,7,1,2,10,9,North Wales
+W01000768,Swansea 020A,W06000011,Swansea,8,7,7,6,6,9,9,9,10,Mid and South West Wales
+W01000359,Wrexham 019C,W06000006,Wrexham,7,7,9,8,4,2,5,4,7,North Wales
+W01000337,Flintshire 009F,W06000005,Flintshire,6,7,6,6,4,10,2,5,3,North Wales
+W01000758,Swansea 017D,W06000011,Swansea,7,5,5,5,7,7,9,5,6,Mid and South West Wales
+W01001027,Bridgend 017C,W06000013,Bridgend,8,6,6,6,8,6,9,3,10,South East Wales
+W01000167,Conwy 011C,W06000003,Conwy,4,3,4,4,2,7,3,8,4,North Wales
+W01000176,Conwy 011D,W06000003,Conwy,4,4,5,4,3,9,3,7,3,North Wales
+W01001947,Cardiff 048E,W06000015,Cardiff,9,10,10,10,7,8,10,2,2,South East Wales
+W01000574,Pembrokeshire 015A,W06000009,Pembrokeshire,6,8,7,9,6,1,8,5,9,Mid and South West Wales
+W01000916,Neath Port Talbot 010E,W06000012,Neath Port Talbot,6,7,6,5,5,7,2,3,9,Mid and South West Wales
+W01001866,Cardiff 016A,W06000015,Cardiff,2,2,2,2,2,5,7,2,1,South East Wales
+W01001201,Rhondda Cynon Taf 014B,W06000016,Rhondda Cynon Taf,1,1,1,1,3,5,2,6,2,South East Wales
+W01000911,Neath Port Talbot 009C,W06000012,Neath Port Talbot,9,9,7,7,8,5,9,8,10,Mid and South West Wales
+W01000275,Flintshire 007C,W06000005,Flintshire,8,8,8,8,5,9,5,6,4,North Wales
+W01000969,Neath Port Talbot 009D,W06000012,Neath Port Talbot,9,9,8,8,9,5,9,8,10,Mid and South West Wales
+W01000391,Wrexham 003D,W06000006,Wrexham,8,8,7,5,5,8,7,9,5,North Wales
+W01000062,Gwynedd 001A,W06000002,Gwynedd,5,8,9,5,5,2,1,7,1,North Wales
+W01000567,Pembrokeshire 002D,W06000009,Pembrokeshire,5,4,5,7,4,5,4,8,6,Mid and South West Wales
+W01001519,Torfaen 007A,W06000020,Torfaen,1,1,1,1,2,3,5,1,1,South East Wales
+W01000699,Carmarthenshire 015C,W06000010,Carmarthenshire,8,8,8,7,7,2,7,9,9,Mid and South West Wales
+W01000876,Swansea 026E,W06000011,Swansea,8,10,10,8,6,4,1,9,9,Mid and South West Wales
+W01001596,Monmouthshire 006E,W06000021,Monmouthshire,8,8,8,8,10,9,5,1,9,South East Wales
+W01001136,The Vale of Glamorgan 003D,W06000014,Vale of Glamorgan,9,9,9,9,7,5,7,7,8,South East Wales
+W01001683,Newport 006D,W06000022,Newport,6,6,7,7,6,7,4,1,3,South East Wales
+W01001712,Cardiff 040D,W06000015,Cardiff,6,7,7,6,7,8,1,1,6,South East Wales
+W01001726,Cardiff 028E,W06000015,Cardiff,6,7,9,6,6,6,1,1,5,South East Wales
+W01001901,Powys 017F,W06000023,Powys,9,8,8,9,6,4,9,8,9,Mid and South West Wales
+W01001861,Cardiff 034D,W06000015,Cardiff,6,8,8,9,9,8,1,1,2,South East Wales
+W01001930,Wrexham 019F,W06000006,Wrexham,6,7,8,8,5,1,3,7,8,North Wales
+W01001958,Swansea 025H,W06000011,Swansea,6,7,7,8,3,3,10,3,3,Mid and South West Wales
+W01000137,Conwy 015C,W06000003,Conwy,7,9,9,10,9,1,2,7,9,North Wales
+W01000901,Neath Port Talbot 014D,W06000012,Neath Port Talbot,4,3,3,3,3,7,7,8,7,Mid and South West Wales
+W01000381,Wrexham 012A,W06000006,Wrexham,3,4,4,3,3,4,2,10,3,North Wales
+W01000696,Carmarthenshire 012C,W06000010,Carmarthenshire,5,6,5,7,5,2,4,7,8,Mid and South West Wales
+W01000107,Gwynedd 010E,W06000002,Gwynedd,6,6,7,8,7,1,4,5,7,North Wales
+W01000331,Flintshire 015F,W06000005,Flintshire,7,8,9,6,4,7,4,2,6,North Wales
+W01000116,Gwynedd 017D,W06000002,Gwynedd,8,7,8,7,8,3,8,9,8,North Wales
+W01001329,Caerphilly 014C,W06000018,Caerphilly,4,5,5,4,2,9,2,8,4,South East Wales
+W01000305,Flintshire 003F,W06000005,Flintshire,6,5,5,5,4,8,5,10,5,North Wales
+W01000052,Gwynedd 004A,W06000002,Gwynedd,9,9,10,7,8,4,5,10,10,North Wales
+W01000556,Pembrokeshire 008B,W06000009,Pembrokeshire,7,7,7,8,8,1,8,9,10,Mid and South West Wales
+W01000341,Wrexham 009A,W06000006,Wrexham,6,5,5,6,4,6,6,10,2,North Wales
+W01000821,Swansea 009E,W06000011,Swansea,5,4,4,4,5,9,6,5,4,Mid and South West Wales
+W01000572,Pembrokeshire 005D,W06000009,Pembrokeshire,7,7,7,5,7,6,5,4,2,Mid and South West Wales
+W01000635,Carmarthenshire 025A,W06000010,Carmarthenshire,7,7,7,7,6,7,6,2,6,Mid and South West Wales
+W01000126,Conwy 009A,W06000003,Conwy,8,6,7,7,8,10,5,10,4,North Wales
+W01000228,Denbighshire 004C,W06000004,Denbighshire,1,2,1,1,3,6,4,10,2,North Wales
+W01000651,Carmarthenshire 020A,W06000010,Carmarthenshire,7,6,6,6,5,8,7,3,4,Mid and South West Wales
+W01000038,Isle of Anglesey 009D,W06000001,Isle of Anglesey,4,5,5,5,4,2,3,9,8,North Wales
+W01000131,Conwy 012D,W06000003,Conwy,9,8,9,9,5,6,9,10,8,North Wales
+W01000179,Conwy 010F,W06000003,Conwy,9,8,7,7,7,7,8,8,7,North Wales
+W01000075,Gwynedd 002C,W06000002,Gwynedd,4,5,6,4,4,3,2,9,2,North Wales
+W01000277,Flintshire 008B,W06000005,Flintshire,9,8,9,8,6,10,10,10,6,North Wales
+W01000532,Ceredigion 007B,W06000008,Ceredigion,6,8,8,9,7,1,2,7,10,Mid and South West Wales
+W01000903,Neath Port Talbot 006B,W06000012,Neath Port Talbot,10,10,7,9,10,7,9,8,10,Mid and South West Wales
+W01000415,Wrexham 007C,W06000006,Wrexham,9,7,7,8,8,10,10,9,2,North Wales
+W01000721,Carmarthenshire 027C,W06000010,Carmarthenshire,7,7,7,7,5,2,6,8,10,Mid and South West Wales
+W01000193,Denbighshire 015A,W06000004,Denbighshire,4,5,6,5,3,2,3,2,6,North Wales
+W01000466,Powys 010C,W06000023,Powys,9,6,7,9,6,9,10,7,7,Mid and South West Wales
+W01000262,Flintshire 017C,W06000005,Flintshire,4,4,4,3,1,8,6,10,4,North Wales
+W01000772,Swansea 018A,W06000011,Swansea,9,8,9,9,10,4,10,10,10,Mid and South West Wales
+W01001561,Monmouthshire 003A,W06000021,Monmouthshire,10,10,9,8,10,8,10,7,10,South East Wales
+W01000746,Swansea 025C,W06000011,Swansea,3,3,4,7,2,2,1,6,2,Mid and South West Wales
+W01000409,Wrexham 017E,W06000006,Wrexham,1,1,1,1,1,4,7,8,2,North Wales
+W01000915,Neath Port Talbot 010D,W06000012,Neath Port Talbot,5,6,6,4,4,7,4,1,8,Mid and South West Wales
+W01000608,Pembrokeshire 015D,W06000009,Pembrokeshire,4,4,4,5,2,8,2,3,2,Mid and South West Wales
+W01000571,Pembrokeshire 006A,W06000009,Pembrokeshire,6,5,6,5,3,6,7,8,3,Mid and South West Wales
+W01000822,Swansea 009F,W06000011,Swansea,7,6,5,5,5,8,9,7,7,Mid and South West Wales
+W01000041,Isle of Anglesey 006D,W06000001,Isle of Anglesey,2,1,2,3,2,2,7,10,2,North Wales
+W01001615,Newport 005B,W06000022,Newport,5,5,6,6,3,7,5,1,2,South East Wales
+W01000920,Neath Port Talbot 011A,W06000012,Neath Port Talbot,3,3,3,1,2,4,3,6,8,Mid and South West Wales
+W01000639,Carmarthenshire 007C,W06000010,Carmarthenshire,4,4,4,5,4,5,5,9,2,Mid and South West Wales
+W01000878,Swansea 007F,W06000011,Swansea,7,7,6,7,5,6,5,10,7,Mid and South West Wales
+W01000165,Conwy 006C,W06000003,Conwy,10,10,9,10,9,8,9,10,7,North Wales
+W01000870,Swansea 024D,W06000011,Swansea,9,9,8,9,8,8,2,9,6,Mid and South West Wales
+W01000223,Denbighshire 009B,W06000004,Denbighshire,8,8,7,6,8,6,10,5,2,North Wales
+W01000749,Swansea 026A,W06000011,Swansea,4,4,5,4,6,4,1,2,4,Mid and South West Wales
+W01000295,Flintshire 005D,W06000005,Flintshire,8,8,8,6,7,9,4,8,7,North Wales
+W01001367,Caerphilly 019B,W06000018,Caerphilly,6,5,6,5,3,10,3,5,4,South East Wales
+W01001403,Caerphilly 011C,W06000018,Caerphilly,6,5,5,7,5,8,7,6,1,South East Wales
+W01000379,Wrexham 004C,W06000006,Wrexham,2,2,2,2,2,4,5,9,2,North Wales
+W01000979,Bridgend 015A,W06000013,Bridgend,7,6,6,6,6,7,9,5,9,South East Wales
+W01000840,Swansea 030D,W06000011,Swansea,10,10,10,10,10,10,9,10,10,Mid and South West Wales
+W01001756,Cardiff 025B,W06000015,Cardiff,6,8,9,6,4,3,1,2,7,South East Wales
+W01000760,Swansea 013A,W06000011,Swansea,4,4,4,4,3,3,9,4,2,Mid and South West Wales
+W01000913,Neath Port Talbot 010B,W06000012,Neath Port Talbot,4,5,3,5,4,9,2,4,3,Mid and South West Wales
+W01000965,Neath Port Talbot 002C,W06000012,Neath Port Talbot,3,4,3,3,2,6,5,6,7,Mid and South West Wales
+W01000440,Powys 020A,W06000023,Powys,8,10,10,10,9,1,10,5,10,Mid and South West Wales
+W01000076,Gwynedd 001B,W06000002,Gwynedd,6,7,8,9,4,7,2,10,1,North Wales
+W01001211,Rhondda Cynon Taf 008C,W06000016,Rhondda Cynon Taf,3,2,3,2,3,4,2,5,7,South East Wales
+W01000899,Neath Port Talbot 014B,W06000012,Neath Port Talbot,9,8,7,6,8,10,10,6,9,Mid and South West Wales
+W01000854,Swansea 022B,W06000011,Swansea,10,10,9,10,9,9,10,8,7,Mid and South West Wales
+W01000868,Swansea 024B,W06000011,Swansea,10,10,10,8,8,10,8,9,6,Mid and South West Wales
+W01000952,Neath Port Talbot 018D,W06000012,Neath Port Talbot,4,5,5,4,4,7,1,1,3,Mid and South West Wales
+W01001000,Bridgend 010B,W06000013,Bridgend,7,6,6,6,6,8,9,6,7,South East Wales
+W01000510,Ceredigion 009D,W06000008,Ceredigion,2,2,1,4,6,7,3,9,2,Mid and South West Wales
+W01000943,Neath Port Talbot 012D,W06000012,Neath Port Talbot,9,9,7,9,8,8,9,9,6,Mid and South West Wales
+W01000174,Conwy 003C,W06000003,Conwy,10,10,9,10,8,10,8,10,10,North Wales
+W01000316,Flintshire 016D,W06000005,Flintshire,10,10,10,10,9,9,9,9,10,North Wales
+W01000660,Carmarthenshire 026B,W06000010,Carmarthenshire,2,2,1,2,3,2,3,6,4,Mid and South West Wales
+W01001582,Monmouthshire 011D,W06000021,Monmouthshire,7,7,8,8,6,4,8,2,5,South East Wales
+W01001287,Rhondda Cynon Taf 014F,W06000016,Rhondda Cynon Taf,3,2,3,2,2,7,3,3,4,South East Wales
+W01000040,Isle of Anglesey 004D,W06000001,Isle of Anglesey,7,8,8,8,9,2,5,7,6,North Wales
+W01001014,Bridgend 002A,W06000013,Bridgend,2,3,2,1,4,6,3,4,2,South East Wales
+W01001022,Bridgend 014B,W06000013,Bridgend,1,1,1,2,1,2,5,3,4,South East Wales
+W01000534,Ceredigion 011B,W06000008,Ceredigion,8,8,9,8,9,1,8,8,7,Mid and South West Wales
+W01001839,Cardiff 030E,W06000015,Cardiff,5,6,9,4,7,6,1,1,4,South East Wales
+W01000047,Gwynedd 011A,W06000002,Gwynedd,7,8,7,8,8,2,3,8,9,North Wales
+W01000082,Gwynedd 015C,W06000002,Gwynedd,6,7,8,8,7,1,1,7,9,North Wales
+W01000614,Pembrokeshire 008D,W06000009,Pembrokeshire,5,8,8,9,3,1,5,6,8,Mid and South West Wales
+W01001168,Rhondda Cynon Taf 004B,W06000016,Rhondda Cynon Taf,4,4,4,5,4,7,4,6,2,South East Wales
+W01001176,Rhondda Cynon Taf 013A,W06000016,Rhondda Cynon Taf,4,4,4,3,4,9,2,4,6,South East Wales
+W01000384,Wrexham 020B,W06000006,Wrexham,10,8,8,10,7,10,9,9,8,North Wales
+W01000839,Swansea 030C,W06000011,Swansea,10,9,8,9,10,7,9,10,10,Mid and South West Wales
+W01001198,Rhondda Cynon Taf 027D,W06000016,Rhondda Cynon Taf,9,8,8,8,9,10,10,5,10,South East Wales
+W01001215,Rhondda Cynon Taf 011C,W06000016,Rhondda Cynon Taf,1,2,1,2,2,7,5,1,1,South East Wales
+W01000292,Flintshire 004C,W06000005,Flintshire,3,3,5,2,2,6,3,7,3,North Wales
+W01000564,Pembrokeshire 011C,W06000009,Pembrokeshire,8,6,7,6,5,8,10,7,10,Mid and South West Wales
+W01000648,Carmarthenshire 006D,W06000010,Carmarthenshire,5,8,9,8,7,1,1,9,10,Mid and South West Wales
+W01000125,Conwy 013B,W06000003,Conwy,7,6,7,8,7,3,5,7,8,North Wales
+W01000573,Pembrokeshire 006B,W06000009,Pembrokeshire,8,7,7,7,6,7,8,6,5,Mid and South West Wales
+W01001245,Rhondda Cynon Taf 025C,W06000016,Rhondda Cynon Taf,9,10,8,7,9,9,10,2,6,South East Wales
+W01000164,Conwy 009F,W06000003,Conwy,7,6,8,8,4,7,3,10,8,North Wales
+W01000224,Denbighshire 009C,W06000004,Denbighshire,7,5,7,6,5,9,6,10,8,North Wales
+W01000225,Denbighshire 009D,W06000004,Denbighshire,7,5,5,5,6,9,7,7,6,North Wales
+W01001328,Caerphilly 014B,W06000018,Caerphilly,4,4,3,4,4,6,5,8,6,South East Wales
+W01000089,Gwynedd 011D,W06000002,Gwynedd,6,8,9,8,8,1,1,7,8,North Wales
+W01000301,Flintshire 006E,W06000005,Flintshire,7,9,8,8,7,1,1,10,8,North Wales
+W01000134,Conwy 015B,W06000003,Conwy,6,5,5,7,6,3,5,6,7,North Wales
+W01001343,Caerphilly 021B,W06000018,Caerphilly,9,8,8,9,8,9,7,5,7,South East Wales
+W01000411,Wrexham 015C,W06000006,Wrexham,3,3,3,3,2,5,8,10,2,North Wales
+W01000732,Carmarthenshire 026D,W06000010,Carmarthenshire,3,3,3,4,1,8,2,2,2,Mid and South West Wales
+W01000985,Bridgend 015C,W06000013,Bridgend,10,10,10,8,9,7,10,4,10,South East Wales
+W01000850,Swansea 021B,W06000011,Swansea,3,3,4,2,3,5,2,5,4,Mid and South West Wales
+W01000891,Neath Port Talbot 015C,W06000012,Neath Port Talbot,5,4,4,4,4,6,5,8,6,Mid and South West Wales
+W01001438,Blaenau Gwent 004A,W06000019,Blaenau Gwent,4,4,3,3,3,5,9,6,3,South East Wales
+W01000909,Neath Port Talbot 009A,W06000012,Neath Port Talbot,5,4,4,4,4,4,7,8,8,Mid and South West Wales
+W01000996,Bridgend 008A,W06000013,Bridgend,5,5,4,4,4,4,6,10,8,South East Wales
+W01001487,Torfaen 001A,W06000020,Torfaen,4,3,3,5,3,7,8,3,2,South East Wales
+W01000171,Conwy 013D,W06000003,Conwy,6,4,3,7,7,7,7,3,6,North Wales
+W01000649,Carmarthenshire 006E,W06000010,Carmarthenshire,8,9,9,9,9,1,6,7,10,Mid and South West Wales
+W01000354,Wrexham 017A,W06000006,Wrexham,7,7,6,6,4,5,6,9,5,North Wales
+W01000583,Pembrokeshire 004B,W06000009,Pembrokeshire,7,7,9,8,8,1,5,10,10,Mid and South West Wales
+W01001019,Bridgend 005D,W06000013,Bridgend,2,2,2,2,2,2,5,10,7,South East Wales
+W01000191,Denbighshire 009A,W06000004,Denbighshire,6,6,6,5,5,5,5,9,2,North Wales
+W01001276,Rhondda Cynon Taf 013D,W06000016,Rhondda Cynon Taf,1,1,1,1,2,4,1,8,2,South East Wales
+W01000456,Powys 013C,W06000023,Powys,4,5,3,6,6,1,8,4,5,Mid and South West Wales
+W01000663,Carmarthenshire 016B,W06000010,Carmarthenshire,7,6,6,6,6,3,6,7,9,Mid and South West Wales
+W01001264,Rhondda Cynon Taf 022F,W06000016,Rhondda Cynon Taf,5,10,10,7,2,3,2,2,7,South East Wales
+W01000666,Carmarthenshire 017B,W06000010,Carmarthenshire,7,6,6,5,6,9,6,3,7,Mid and South West Wales
+W01001281,Rhondda Cynon Taf 017F,W06000016,Rhondda Cynon Taf,5,5,5,3,4,7,4,2,9,South East Wales
+W01001309,Merthyr Tydfil 008E,W06000024,Merthyr Tydfil,2,2,2,1,3,3,4,8,5,South East Wales
+W01000691,Carmarthenshire 019B,W06000010,Carmarthenshire,8,6,6,6,6,8,8,10,8,Mid and South West Wales
+W01001386,Caerphilly 002E,W06000018,Caerphilly,1,1,1,1,1,2,2,6,1,South East Wales
+W01001457,Blaenau Gwent 004D,W06000019,Blaenau Gwent,1,1,1,1,1,2,7,8,1,South East Wales
+W01000587,Pembrokeshire 010A,W06000009,Pembrokeshire,4,5,4,5,3,9,6,5,1,Mid and South West Wales
+W01001479,Blaenau Gwent 006D,W06000019,Blaenau Gwent,1,1,1,1,1,2,6,6,1,South East Wales
+W01001601,Newport 006A,W06000022,Newport,1,1,2,2,4,2,2,2,1,South East Wales
+W01001643,Newport 013B,W06000022,Newport,1,1,3,1,3,4,1,1,1,South East Wales
+W01000222,Denbighshire 003C,W06000004,Denbighshire,6,5,5,5,5,5,8,7,8,North Wales
+W01000722,Carmarthenshire 012D,W06000010,Carmarthenshire,8,9,9,8,9,2,7,4,10,Mid and South West Wales
+W01001098,The Vale of Glamorgan 010B,W06000014,Vale of Glamorgan,10,10,9,9,9,10,10,3,8,South East Wales
+W01001494,Torfaen 008B,W06000020,Torfaen,9,8,8,8,6,9,8,4,8,South East Wales
+W01000371,Wrexham 008B,W06000006,Wrexham,6,5,5,5,7,10,1,10,3,North Wales
+W01000398,Wrexham 013A,W06000006,Wrexham,6,7,7,6,5,2,4,9,7,North Wales
+W01000720,Carmarthenshire 027B,W06000010,Carmarthenshire,7,6,5,5,7,5,6,6,8,Mid and South West Wales
+W01001670,Newport 009B,W06000022,Newport,10,10,10,10,9,9,10,2,7,South East Wales
+W01001776,Cardiff 021C,W06000015,Cardiff,10,9,10,10,10,10,8,2,9,South East Wales
+W01000740,Swansea 014C,W06000011,Swansea,7,6,5,4,5,9,8,7,7,Mid and South West Wales
+W01000775,Swansea 030A,W06000011,Swansea,8,10,10,10,9,1,5,10,10,Mid and South West Wales
+W01001296,Merthyr Tydfil 002B,W06000024,Merthyr Tydfil,5,6,5,5,5,5,4,6,4,South East Wales
+W01000907,Neath Port Talbot 007B,W06000012,Neath Port Talbot,3,3,2,3,3,4,8,6,9,Mid and South West Wales
+W01000843,Swansea 005E,W06000011,Swansea,8,6,7,5,7,9,8,9,7,Mid and South West Wales
+W01001011,Bridgend 012C,W06000013,Bridgend,8,7,7,5,7,8,7,5,9,South East Wales
+W01000368,Wrexham 008A,W06000006,Wrexham,10,10,9,10,9,10,9,8,9,North Wales
+W01001012,Bridgend 005A,W06000013,Bridgend,8,8,8,6,7,3,5,7,9,South East Wales
+W01001717,Cardiff 035D,W06000015,Cardiff,5,5,6,5,6,8,2,1,6,South East Wales
+W01001502,Torfaen 011E,W06000020,Torfaen,9,8,9,8,7,9,9,8,2,South East Wales
+W01001604,Newport 012D,W06000022,Newport,9,9,8,10,9,10,8,2,5,South East Wales
+W01000591,Pembrokeshire 012C,W06000009,Pembrokeshire,4,5,6,7,2,2,3,5,5,Mid and South West Wales
+W01000966,Neath Port Talbot 018E,W06000012,Neath Port Talbot,3,3,3,4,3,5,5,6,4,Mid and South West Wales
+W01001940,Cardiff 048A,W06000015,Cardiff,9,10,10,10,5,6,10,4,9,South East Wales
+W01001108,The Vale of Glamorgan 014A,W06000014,Vale of Glamorgan,8,7,7,7,8,4,9,5,8,South East Wales
+W01000010,Isle of Anglesey 002A,W06000001,Isle of Anglesey,9,8,7,9,7,7,8,9,9,North Wales
+W01000061,Gwynedd 011B,W06000002,Gwynedd,9,6,8,8,8,9,7,10,9,North Wales
+W01000385,Wrexham 014C,W06000006,Wrexham,10,9,9,7,8,9,9,10,7,North Wales
+W01000779,Swansea 012D,W06000011,Swansea,7,5,6,4,7,5,7,8,5,Mid and South West Wales
+W01000130,Conwy 012C,W06000003,Conwy,9,8,8,10,9,10,7,8,4,North Wales
+W01001214,Rhondda Cynon Taf 011B,W06000016,Rhondda Cynon Taf,8,7,7,7,7,10,9,2,6,South East Wales
+W01000133,Conwy 002A,W06000003,Conwy,9,8,9,9,7,8,9,8,7,North Wales
+W01000617,Pembrokeshire 002F,W06000009,Pembrokeshire,4,6,5,8,4,1,1,10,8,Mid and South West Wales
+W01001443,Blaenau Gwent 005A,W06000019,Blaenau Gwent,2,3,2,1,2,7,3,8,1,South East Wales
+W01001425,Caerphilly 024D,W06000018,Caerphilly,8,7,7,7,7,7,8,5,3,South East Wales
+W01000173,Conwy 003B,W06000003,Conwy,9,9,10,9,9,2,6,10,7,North Wales
+W01000261,Flintshire 014C,W06000005,Flintshire,9,8,8,7,6,9,8,10,9,North Wales
+W01001685,Newport 014B,W06000022,Newport,2,2,3,4,5,3,1,2,1,South East Wales
+W01001716,Cardiff 035C,W06000015,Cardiff,8,8,8,9,10,8,2,1,5,South East Wales
+W01000294,Flintshire 005C,W06000005,Flintshire,9,9,9,8,8,6,8,9,8,North Wales
+W01001791,Cardiff 005A,W06000015,Cardiff,8,7,7,8,8,9,6,3,6,South East Wales
+W01000416,Wrexham 007D,W06000006,Wrexham,10,10,10,10,9,10,10,7,10,North Wales
+W01000923,Neath Port Talbot 007D,W06000012,Neath Port Talbot,7,8,6,6,6,3,7,4,8,Mid and South West Wales
+W01000640,Carmarthenshire 007D,W06000010,Carmarthenshire,10,10,9,9,9,6,10,8,5,Mid and South West Wales
+W01000792,Swansea 004B,W06000011,Swansea,10,9,9,9,9,8,10,7,9,Mid and South West Wales
+W01001091,The Vale of Glamorgan 010A,W06000014,Vale of Glamorgan,10,9,9,8,8,10,10,6,7,South East Wales
+W01001435,Blaenau Gwent 008A,W06000019,Blaenau Gwent,3,5,4,3,3,8,1,2,2,South East Wales
+W01001750,Cardiff 031A,W06000015,Cardiff,2,1,1,2,5,7,4,4,3,South East Wales
+W01000376,Wrexham 003C,W06000006,Wrexham,9,8,9,6,6,6,7,10,5,North Wales
+W01001895,Cardiff 010D,W06000015,Cardiff,2,3,1,2,7,4,7,4,3,South East Wales
+W01001672,Newport 009C,W06000022,Newport,7,6,7,5,8,7,8,2,6,South East Wales
+W01001952,Cardiff 049F,W06000015,Cardiff,3,4,3,5,6,4,4,1,1,South East Wales
+W01000629,Carmarthenshire 024B,W06000010,Carmarthenshire,4,4,4,4,4,7,2,2,3,Mid and South West Wales
+W01000388,Wrexham 008E,W06000006,Wrexham,9,7,7,8,8,10,6,8,7,North Wales
+W01001888,Cardiff 010A,W06000015,Cardiff,8,7,7,8,9,6,9,3,6,South East Wales
+W01001942,Cardiff 049B,W06000015,Cardiff,2,2,3,3,4,3,1,2,2,South East Wales
+W01000124,Conwy 012A,W06000003,Conwy,7,8,8,9,7,1,2,9,9,North Wales
+W01000633,Carmarthenshire 021B,W06000010,Carmarthenshire,3,3,2,4,3,4,6,3,2,Mid and South West Wales
+W01000465,Powys 018E,W06000023,Powys,9,10,10,10,10,2,4,10,10,Mid and South West Wales
+W01000609,Pembrokeshire 014D,W06000009,Pembrokeshire,9,8,6,9,7,6,9,5,10,Mid and South West Wales
+W01000177,Conwy 011E,W06000003,Conwy,7,5,7,7,6,3,5,10,6,North Wales
+W01001106,The Vale of Glamorgan 011A,W06000014,Vale of Glamorgan,10,9,10,10,9,10,10,3,9,South East Wales
+W01001196,Rhondda Cynon Taf 027B,W06000016,Rhondda Cynon Taf,10,9,8,8,8,10,10,7,10,South East Wales
+W01001668,Newport 010D,W06000022,Newport,1,1,2,4,1,5,6,3,1,South East Wales
+W01000410,Wrexham 014D,W06000006,Wrexham,6,5,5,6,5,9,3,9,3,North Wales
+W01000678,Carmarthenshire 002C,W06000010,Carmarthenshire,4,5,6,6,6,1,3,2,8,Mid and South West Wales
+W01001574,Monmouthshire 011C,W06000021,Monmouthshire,10,9,9,9,9,7,10,2,9,South East Wales
+W01000190,Conwy 014D,W06000003,Conwy,7,8,9,9,9,1,2,9,9,North Wales
+W01000309,Flintshire 019C,W06000005,Flintshire,7,6,7,5,6,4,4,6,8,North Wales
+W01000011,Isle of Anglesey 008B,W06000001,Isle of Anglesey,8,8,7,10,9,10,2,9,1,North Wales
+W01000313,Flintshire 016A,W06000005,Flintshire,7,6,7,8,4,7,5,5,6,North Wales
+W01001786,Cardiff 023B,W06000015,Cardiff,5,5,6,6,5,8,2,2,3,South East Wales
+W01000315,Flintshire 016C,W06000005,Flintshire,7,6,5,6,6,8,8,5,2,North Wales
+W01000706,Carmarthenshire 025C,W06000010,Carmarthenshire,4,4,4,3,3,7,6,6,4,Mid and South West Wales
+W01000364,Wrexham 006E,W06000006,Wrexham,7,7,6,6,6,10,2,10,2,North Wales
+W01001782,Cardiff 026D,W06000015,Cardiff,10,10,10,10,10,10,8,2,5,South East Wales
+W01001793,Cardiff 002A,W06000015,Cardiff,10,10,10,10,9,10,10,3,10,South East Wales
+W01000029,Isle of Anglesey 003C,W06000001,Isle of Anglesey,2,2,2,3,3,6,5,10,2,North Wales
+W01000431,Powys 014A,W06000023,Powys,6,6,6,8,5,4,3,8,6,Mid and South West Wales
+W01000932,Neath Port Talbot 019A,W06000012,Neath Port Talbot,3,3,3,5,3,4,7,3,1,Mid and South West Wales
+W01000154,Conwy 003A,W06000003,Conwy,10,9,9,8,9,7,9,10,8,North Wales
+W01000042,Isle of Anglesey 008D,W06000001,Isle of Anglesey,8,7,7,7,7,6,8,10,5,North Wales
+W01000807,Swansea 003B,W06000011,Swansea,9,9,7,8,8,6,8,7,9,Mid and South West Wales
+W01000181,Conwy 008D,W06000003,Conwy,10,9,9,9,9,10,10,10,9,North Wales
+W01000736,Swansea 028A,W06000011,Swansea,10,10,9,10,10,10,9,9,10,Mid and South West Wales
+W01000737,Swansea 028B,W06000011,Swansea,10,9,9,9,10,8,9,9,10,Mid and South West Wales
+W01000782,Swansea 023C,W06000011,Swansea,10,8,8,9,8,10,9,9,10,Mid and South West Wales
+W01000944,Neath Port Talbot 002B,W06000012,Neath Port Talbot,3,4,3,3,4,4,3,6,7,Mid and South West Wales
+W01001034,Bridgend 003F,W06000013,Bridgend,3,3,2,3,3,7,2,2,5,South East Wales
+W01000220,Denbighshire 001C,W06000004,Denbighshire,5,5,3,4,4,6,8,4,6,North Wales
+W01000523,Ceredigion 001C,W06000008,Ceredigion,7,8,8,9,7,1,3,5,9,Mid and South West Wales
+W01000747,Swansea 024A,W06000011,Swansea,4,4,6,4,6,5,1,5,5,Mid and South West Wales
+W01001753,Cardiff 031C,W06000015,Cardiff,1,1,1,1,2,3,5,4,4,South East Wales
+W01000231,Denbighshire 017A,W06000004,Denbighshire,5,4,4,3,4,7,5,10,5,North Wales
+W01000059,Gwynedd 006A,W06000002,Gwynedd,2,2,2,3,3,3,4,9,1,North Wales
+W01001928,Conwy 010H,W06000003,Conwy,1,1,1,1,3,4,6,3,1,North Wales
+W01000434,Powys 007A,W06000023,Powys,6,8,8,7,6,1,3,6,10,Mid and South West Wales
+W01000459,Powys 014D,W06000023,Powys,6,8,8,10,7,1,3,5,6,Mid and South West Wales
+W01000613,Pembrokeshire 001E,W06000009,Pembrokeshire,6,6,7,9,8,1,2,6,9,Mid and South West Wales
+W01000815,Swansea 003E,W06000011,Swansea,9,9,7,8,8,7,7,6,6,Mid and South West Wales
+W01000643,Carmarthenshire 006A,W06000010,Carmarthenshire,6,5,5,4,5,5,8,7,6,Mid and South West Wales
+W01001348,Caerphilly 009A,W06000018,Caerphilly,3,2,2,4,2,5,7,7,2,South East Wales
+W01000785,Swansea 007B,W06000011,Swansea,10,10,9,9,9,8,10,10,10,Mid and South West Wales
+W01000793,Swansea 004C,W06000011,Swansea,10,10,9,9,10,4,10,9,8,Mid and South West Wales
+W01000054,Gwynedd 007A,W06000002,Gwynedd,8,8,8,8,8,2,6,8,4,North Wales
+W01000552,Ceredigion 011D,W06000008,Ceredigion,7,8,9,8,8,1,5,8,10,Mid and South West Wales
+W01000073,Gwynedd 008A,W06000002,Gwynedd,8,8,8,8,8,2,4,8,9,North Wales
+W01001474,Blaenau Gwent 003C,W06000019,Blaenau Gwent,3,3,2,3,3,2,9,5,2,South East Wales
+W01000667,Carmarthenshire 023C,W06000010,Carmarthenshire,6,7,5,5,4,4,9,3,7,Mid and South West Wales
+W01001832,Cardiff 033C,W06000015,Cardiff,3,7,8,8,1,3,1,1,3,South East Wales
+W01000698,Carmarthenshire 015B,W06000010,Carmarthenshire,6,6,4,4,5,8,3,8,8,Mid and South West Wales
+W01001929,Wrexham 012F,W06000006,Wrexham,3,4,4,5,2,4,1,3,1,North Wales
+W01000127,Conwy 009B,W06000003,Conwy,1,1,1,2,3,6,6,9,3,North Wales
+W01000561,Pembrokeshire 001D,W06000009,Pembrokeshire,7,6,8,9,7,1,3,10,9,Mid and South West Wales
+W01000003,Isle of Anglesey 001A,W06000001,Isle of Anglesey,3,3,3,4,4,5,5,10,4,North Wales
+W01000017,Isle of Anglesey 003B,W06000001,Isle of Anglesey,3,2,3,4,2,5,6,10,2,North Wales
+W01000569,Pembrokeshire 005B,W06000009,Pembrokeshire,7,6,8,7,5,2,10,9,6,Mid and South West Wales
+W01000753,Swansea 002D,W06000011,Swansea,4,3,4,4,4,6,4,7,6,Mid and South West Wales
+W01000334,Flintshire 009C,W06000005,Flintshire,5,5,6,5,3,10,2,4,5,North Wales
+W01000143,Conwy 007B,W06000003,Conwy,3,3,3,4,4,6,1,9,3,North Wales
+W01000080,Gwynedd 014C,W06000002,Gwynedd,8,6,8,10,7,2,4,10,7,North Wales
+W01000585,Pembrokeshire 007B,W06000009,Pembrokeshire,7,8,9,9,9,1,3,6,8,Mid and South West Wales
+W01000100,Gwynedd 010B,W06000002,Gwynedd,8,7,9,9,8,1,4,9,9,North Wales
+W01000806,Swansea 003A,W06000011,Swansea,6,5,5,6,6,7,6,3,6,Mid and South West Wales
+W01000828,Swansea 018B,W06000011,Swansea,9,10,9,9,10,3,7,7,9,Mid and South West Wales
+W01000859,Swansea 027B,W06000011,Swansea,10,9,6,9,10,9,10,8,9,Mid and South West Wales
+W01000877,Swansea 007E,W06000011,Swansea,9,8,7,6,8,7,7,5,8,Mid and South West Wales
+W01001072,The Vale of Glamorgan 009E,W06000014,Vale of Glamorgan,10,9,9,9,9,10,10,4,8,South East Wales
+W01000875,Swansea 026D,W06000011,Swansea,6,8,8,5,8,4,1,2,5,Mid and South West Wales
+W01000320,Flintshire 002B,W06000005,Flintshire,3,3,4,3,2,2,6,10,4,North Wales
+W01000356,Wrexham 017C,W06000006,Wrexham,3,4,4,2,2,4,5,4,5,North Wales
+W01000765,Swansea 015C,W06000011,Swansea,4,4,5,5,4,10,2,2,6,Mid and South West Wales
+W01000908,Neath Port Talbot 006E,W06000012,Neath Port Talbot,9,8,7,8,9,6,8,6,10,Mid and South West Wales
+W01001090,The Vale of Glamorgan 006E,W06000014,Vale of Glamorgan,9,10,10,10,10,3,8,5,5,South East Wales
+W01000170,Conwy 013C,W06000003,Conwy,8,7,7,8,7,5,5,10,6,North Wales
+W01000480,Powys 008A,W06000023,Powys,2,3,3,4,2,2,4,4,1,Mid and South West Wales
+W01000745,Swansea 025B,W06000011,Swansea,2,3,4,2,5,4,1,3,1,Mid and South West Wales
+W01000595,Pembrokeshire 007C,W06000009,Pembrokeshire,7,6,5,5,6,8,4,9,7,Mid and South West Wales
+W01000586,Pembrokeshire 006C,W06000009,Pembrokeshire,3,3,4,4,2,3,8,6,7,Mid and South West Wales
+W01001002,Bridgend 010D,W06000013,Bridgend,2,2,2,1,3,4,7,7,4,South East Wales
+W01000200,Denbighshire 008A,W06000004,Denbighshire,8,7,7,7,6,10,3,10,8,North Wales
+W01001134,The Vale of Glamorgan 008F,W06000014,Vale of Glamorgan,10,9,9,8,10,5,10,6,10,South East Wales
+W01001193,Rhondda Cynon Taf 030A,W06000016,Rhondda Cynon Taf,10,9,9,9,8,8,9,5,10,South East Wales
+W01000852,Swansea 021D,W06000011,Swansea,4,4,4,4,4,7,3,7,4,Mid and South West Wales
+W01001194,Rhondda Cynon Taf 030B,W06000016,Rhondda Cynon Taf,10,10,10,9,9,8,10,3,9,South East Wales
+W01001126,The Vale of Glamorgan 005E,W06000014,Vale of Glamorgan,9,7,8,9,8,9,7,4,7,South East Wales
+W01000619,Pembrokeshire 016B,W06000009,Pembrokeshire,7,7,7,7,7,2,8,5,6,Mid and South West Wales
+W01000258,Flintshire 006A,W06000005,Flintshire,8,7,8,7,6,2,6,10,7,North Wales
+W01000347,Wrexham 006A,W06000006,Wrexham,8,8,9,7,6,6,5,10,5,North Wales
+W01000607,Pembrokeshire 015C,W06000009,Pembrokeshire,3,2,3,3,2,3,8,6,4,Mid and South West Wales
+W01001304,Merthyr Tydfil 006D,W06000024,Merthyr Tydfil,6,6,5,5,4,8,2,5,7,South East Wales
+W01000363,Wrexham 006D,W06000006,Wrexham,8,6,6,5,7,10,7,10,7,North Wales
+W01000365,Wrexham 011C,W06000006,Wrexham,8,7,8,8,6,5,3,10,5,North Wales
+W01001223,Rhondda Cynon Taf 031C,W06000016,Rhondda Cynon Taf,10,10,9,8,9,10,10,3,10,South East Wales
+W01001225,Rhondda Cynon Taf 031E,W06000016,Rhondda Cynon Taf,10,10,10,10,10,9,10,5,10,South East Wales
+W01001324,Merthyr Tydfil 003E,W06000024,Merthyr Tydfil,6,6,4,5,6,7,6,9,5,South East Wales
+W01001191,Rhondda Cynon Taf 031A,W06000016,Rhondda Cynon Taf,9,9,9,7,7,9,9,3,9,South East Wales
+W01001327,Caerphilly 014A,W06000018,Caerphilly,6,7,6,5,5,7,2,4,2,South East Wales
+W01000887,Neath Port Talbot 005A,W06000012,Neath Port Talbot,4,4,4,4,4,2,8,3,8,Mid and South West Wales
+W01000946,Neath Port Talbot 004B,W06000012,Neath Port Talbot,4,4,4,4,5,4,7,6,3,Mid and South West Wales
+W01000383,Wrexham 020A,W06000006,Wrexham,8,9,9,9,8,2,8,7,1,North Wales
+W01000555,Pembrokeshire 008A,W06000009,Pembrokeshire,8,9,8,9,8,1,9,8,8,Mid and South West Wales
+W01000654,Carmarthenshire 023B,W06000010,Carmarthenshire,3,4,3,4,3,8,3,2,1,Mid and South West Wales
+W01001018,Bridgend 002D,W06000013,Bridgend,2,3,2,1,3,7,3,6,3,South East Wales
+W01001252,Rhondda Cynon Taf 024D,W06000016,Rhondda Cynon Taf,9,9,8,7,9,6,8,8,10,South East Wales
+W01000361,Wrexham 019E,W06000006,Wrexham,5,5,5,6,4,6,4,6,5,North Wales
+W01000601,Pembrokeshire 013B,W06000009,Pembrokeshire,1,1,1,2,1,2,4,5,1,Mid and South West Wales
+W01001472,Blaenau Gwent 003A,W06000019,Blaenau Gwent,6,7,5,6,7,4,7,3,4,South East Wales
+W01000730,Carmarthenshire 018D,W06000010,Carmarthenshire,3,3,4,4,4,2,6,2,7,Mid and South West Wales
+W01000455,Powys 013B,W06000023,Powys,5,3,4,5,3,6,7,9,5,Mid and South West Wales
+W01000935,Neath Port Talbot 008B,W06000012,Neath Port Talbot,1,1,1,2,2,6,2,2,2,Mid and South West Wales
+W01001188,Rhondda Cynon Taf 001C,W06000016,Rhondda Cynon Taf,1,1,1,1,2,8,6,5,3,South East Wales
+W01001277,Rhondda Cynon Taf 028D,W06000016,Rhondda Cynon Taf,9,9,9,8,6,10,7,3,8,South East Wales
+W01001799,Cardiff 001D,W06000015,Cardiff,10,10,9,9,10,8,10,3,9,South East Wales
+W01001842,Cardiff 003B,W06000015,Cardiff,10,9,10,10,10,10,10,3,6,South East Wales
+W01000597,Pembrokeshire 002E,W06000009,Pembrokeshire,8,8,8,9,6,3,3,9,9,Mid and South West Wales
+W01000968,Neath Port Talbot 019D,W06000012,Neath Port Talbot,4,4,4,4,3,8,6,2,6,Mid and South West Wales
+W01001504,Torfaen 013A,W06000020,Torfaen,6,6,6,4,6,4,3,4,6,South East Wales
+W01000888,Neath Port Talbot 004A,W06000012,Neath Port Talbot,7,6,6,6,6,5,6,8,8,Mid and South West Wales
+W01001165,Rhondda Cynon Taf 019B,W06000016,Rhondda Cynon Taf,4,5,4,3,4,8,4,3,6,South East Wales
+W01000593,Pembrokeshire 010C,W06000009,Pembrokeshire,5,4,5,6,2,5,8,5,6,Mid and South West Wales
+W01001202,Rhondda Cynon Taf 009C,W06000016,Rhondda Cynon Taf,1,1,1,1,2,5,3,5,2,South East Wales
+W01000673,Carmarthenshire 027F,W06000010,Carmarthenshire,5,6,5,8,7,2,2,2,8,Mid and South West Wales
+W01000697,Carmarthenshire 015A,W06000010,Carmarthenshire,5,5,5,4,3,9,4,7,4,Mid and South West Wales
+W01000997,Bridgend 012A,W06000013,Bridgend,7,6,5,5,6,7,6,7,8,South East Wales
+W01001246,Rhondda Cynon Taf 025D,W06000016,Rhondda Cynon Taf,7,6,5,5,6,9,7,7,4,South East Wales
+W01001354,Caerphilly 014D,W06000018,Caerphilly,7,6,6,7,5,8,5,8,6,South East Wales
+W01001520,Torfaen 007B,W06000020,Torfaen,6,6,7,5,5,7,3,2,3,South East Wales
+W01001826,Cardiff 024B,W06000015,Cardiff,9,10,10,9,9,9,5,2,8,South East Wales
+W01001576,Monmouthshire 004D,W06000021,Monmouthshire,6,5,7,7,3,9,5,1,6,South East Wales
+W01001674,Newport 009E,W06000022,Newport,6,6,6,5,5,9,8,3,5,South East Wales
+W01001187,Rhondda Cynon Taf 001B,W06000016,Rhondda Cynon Taf,4,5,3,4,3,8,4,5,5,South East Wales
+W01000615,Pembrokeshire 011E,W06000009,Pembrokeshire,8,7,7,7,7,5,9,4,8,Mid and South West Wales
+W01000616,Pembrokeshire 011F,W06000009,Pembrokeshire,8,6,7,9,7,7,5,5,6,Mid and South West Wales
+W01001890,Cardiff 021D,W06000015,Cardiff,9,10,9,8,9,8,8,2,8,South East Wales
+W01001754,Cardiff 031D,W06000015,Cardiff,6,6,6,6,7,8,4,1,4,South East Wales
+W01000771,Swansea 020D,W06000011,Swansea,8,7,7,9,8,4,7,10,9,Mid and South West Wales
+W01000087,Gwynedd 004C,W06000002,Gwynedd,9,7,9,6,9,9,7,10,8,North Wales
+W01000778,Swansea 012C,W06000011,Swansea,8,7,6,6,9,10,7,5,8,Mid and South West Wales
+W01000136,Conwy 006B,W06000003,Conwy,9,7,8,10,5,8,8,10,8,North Wales
+W01001380,Caerphilly 010A,W06000018,Caerphilly,7,7,6,5,6,9,6,4,5,South East Wales
+W01001860,Cardiff 034C,W06000015,Cardiff,7,7,8,9,10,9,1,1,4,South East Wales
+W01001119,The Vale of Glamorgan 003B,W06000014,Vale of Glamorgan,8,9,9,10,9,1,8,5,8,South East Wales
+W01000068,Gwynedd 016E,W06000002,Gwynedd,7,6,5,6,5,7,6,9,6,North Wales
+W01000110,Gwynedd 006D,W06000002,Gwynedd,7,6,6,6,6,3,9,10,7,North Wales
+W01000728,Carmarthenshire 003D,W06000010,Carmarthenshire,5,8,8,8,7,1,1,9,8,Mid and South West Wales
+W01000121,Conwy 015A,W06000003,Conwy,7,8,9,9,7,1,2,5,5,North Wales
+W01001023,Bridgend 014C,W06000013,Bridgend,2,3,1,2,2,3,5,3,2,South East Wales
+W01000755,Swansea 017A,W06000011,Swansea,5,5,5,6,4,5,5,4,2,Mid and South West Wales
+W01001283,Rhondda Cynon Taf 015D,W06000016,Rhondda Cynon Taf,4,5,5,5,3,2,8,3,6,South East Wales
+W01001161,Rhondda Cynon Taf 029B,W06000016,Rhondda Cynon Taf,8,7,7,4,6,8,9,7,8,South East Wales
+W01001356,Caerphilly 006A,W06000018,Caerphilly,8,8,9,7,7,8,4,1,8,South East Wales
+W01001878,Cardiff 011B,W06000015,Cardiff,6,4,6,5,4,9,9,3,3,South East Wales
+W01000153,Conwy 009D,W06000003,Conwy,7,7,6,6,6,4,7,10,5,North Wales
+W01001056,Bridgend 007D,W06000013,Bridgend,5,5,5,4,4,8,9,8,4,South East Wales
+W01000210,Denbighshire 016E,W06000004,Denbighshire,7,7,8,8,7,2,6,9,5,North Wales
+W01000139,Conwy 007A,W06000003,Conwy,9,7,8,7,8,10,8,10,2,North Wales
+W01000245,Denbighshire 010A,W06000004,Denbighshire,9,7,7,8,8,9,7,9,6,North Wales
+W01000267,Flintshire 017F,W06000005,Flintshire,9,8,8,8,8,8,8,10,8,North Wales
+W01000230,Denbighshire 017F,W06000004,Denbighshire,7,6,6,6,6,8,7,8,8,North Wales
+W01000037,Isle of Anglesey 003G,W06000001,Isle of Anglesey,6,4,4,5,4,7,9,10,5,North Wales
+W01001397,Caerphilly 019E,W06000018,Caerphilly,8,7,5,6,5,8,8,9,8,South East Wales
+W01000291,Flintshire 005B,W06000005,Flintshire,7,6,6,6,6,4,9,9,7,North Wales
+W01000297,Flintshire 003D,W06000005,Flintshire,7,5,6,4,5,9,8,9,7,North Wales
+W01000166,Conwy 006D,W06000003,Conwy,6,6,7,5,4,4,6,7,5,North Wales
+W01000276,Flintshire 008A,W06000005,Flintshire,9,7,10,7,5,9,8,8,8,North Wales
+W01000246,Denbighshire 010B,W06000004,Denbighshire,6,5,5,4,3,10,7,6,7,North Wales
+W01000787,Swansea 016C,W06000011,Swansea,3,3,3,4,3,6,2,6,2,Mid and South West Wales
+W01000929,Neath Port Talbot 020D,W06000012,Neath Port Talbot,3,2,2,3,4,2,6,4,8,Mid and South West Wales
+W01001341,Caerphilly 020B,W06000018,Caerphilly,2,2,2,2,2,8,4,5,4,South East Wales
+W01001420,Caerphilly 022D,W06000018,Caerphilly,8,8,7,8,8,8,8,2,7,South East Wales
+W01000308,Flintshire 020C,W06000005,Flintshire,7,6,8,7,5,4,3,10,6,North Wales
+W01001352,Caerphilly 007A,W06000018,Caerphilly,2,2,3,3,1,9,3,6,4,South East Wales
+W01000389,Wrexham 017D,W06000006,Wrexham,7,7,8,7,7,2,5,9,7,North Wales
+W01001537,Torfaen 007E,W06000020,Torfaen,8,8,8,5,6,8,9,7,4,South East Wales
+W01001559,Monmouthshire 008A,W06000021,Monmouthshire,8,8,7,7,5,9,7,6,7,South East Wales
+W01000351,Wrexham 005A,W06000006,Wrexham,6,5,6,6,3,7,6,10,3,North Wales
+W01000422,Wrexham 008F,W06000006,Wrexham,7,7,6,6,6,7,7,8,5,North Wales
+W01000500,Powys 003C,W06000023,Powys,6,6,6,7,5,2,7,8,7,Mid and South West Wales
+W01000518,Ceredigion 003C,W06000008,Ceredigion,6,6,6,6,9,3,5,5,2,Mid and South West Wales
+W01000407,Wrexham 016C,W06000006,Wrexham,9,10,10,9,8,2,8,8,3,North Wales
+W01001606,Newport 008A,W06000022,Newport,8,9,8,8,6,9,9,1,5,South East Wales
+W01001139,Rhondda Cynon Taf 005C,W06000016,Rhondda Cynon Taf,5,4,4,3,4,8,4,8,5,South East Wales
+W01000470,Powys 001D,W06000023,Powys,7,8,9,8,7,1,4,8,9,Mid and South West Wales
+W01001396,Caerphilly 023D,W06000018,Caerphilly,2,2,2,2,2,3,5,2,3,South East Wales
+W01001231,Rhondda Cynon Taf 017D,W06000016,Rhondda Cynon Taf,3,3,3,2,3,4,3,2,5,South East Wales
+W01000627,Carmarthenshire 013C,W06000010,Carmarthenshire,6,6,5,8,5,2,6,7,8,Mid and South West Wales
+W01000653,Carmarthenshire 023A,W06000010,Carmarthenshire,6,6,5,6,8,10,6,3,2,Mid and South West Wales
+W01000473,Powys 004C,W06000023,Powys,7,6,6,5,6,6,8,9,7,Mid and South West Wales
+W01000488,Powys 006C,W06000023,Powys,7,9,10,10,7,1,4,7,10,Mid and South West Wales
+W01001364,Caerphilly 012B,W06000018,Caerphilly,1,1,1,1,1,5,5,6,3,South East Wales
+W01001320,Merthyr Tydfil 007C,W06000024,Merthyr Tydfil,5,5,3,4,5,6,5,8,7,South East Wales
+W01000731,Carmarthenshire 017C,W06000010,Carmarthenshire,7,6,6,6,6,7,5,9,9,Mid and South West Wales
+W01000735,Carmarthenshire 027D,W06000010,Carmarthenshire,7,7,8,7,7,2,7,4,9,Mid and South West Wales
+W01001490,Torfaen 001D,W06000020,Torfaen,5,4,6,6,4,10,2,3,2,South East Wales
+W01001671,Newport 016D,W06000022,Newport,5,4,4,3,6,8,9,2,5,South East Wales
+W01001447,Blaenau Gwent 002B,W06000019,Blaenau Gwent,2,2,2,2,2,3,3,6,4,South East Wales
+W01001619,Newport 003C,W06000022,Newport,1,1,1,1,1,3,7,4,1,South East Wales
+W01000467,Powys 010D,W06000023,Powys,9,7,6,8,8,9,6,10,6,Mid and South West Wales
+W01001925,Carmarthenshire 023F,W06000010,Carmarthenshire,5,5,5,7,5,4,8,1,5,Mid and South West Wales
+W01001322,Merthyr Tydfil 007E,W06000024,Merthyr Tydfil,3,4,3,3,3,8,2,3,4,South East Wales
+W01001710,Cardiff 040B,W06000015,Cardiff,4,3,6,5,6,8,1,1,7,South East Wales
+W01000664,Carmarthenshire 016C,W06000010,Carmarthenshire,6,7,5,6,6,3,6,4,8,Mid and South West Wales
+W01000679,Carmarthenshire 002D,W06000010,Carmarthenshire,6,5,6,8,5,9,3,2,6,Mid and South West Wales
+W01000684,Carmarthenshire 005D,W06000010,Carmarthenshire,6,8,8,9,8,1,4,8,10,Mid and South West Wales
+W01000150,Conwy 005B,W06000003,Conwy,5,4,5,5,4,3,10,2,5,North Wales
+W01000808,Swansea 003C,W06000011,Swansea,7,7,5,6,7,9,5,6,3,Mid and South West Wales
+W01000686,Carmarthenshire 001B,W06000010,Carmarthenshire,6,7,7,7,6,1,3,8,9,Mid and South West Wales
+W01001894,Cardiff 010C,W06000015,Cardiff,10,10,9,9,9,9,8,2,9,South East Wales
+W01001631,Newport 017C,W06000022,Newport,8,8,8,6,6,10,9,4,7,South East Wales
+W01000201,Denbighshire 008B,W06000004,Denbighshire,5,3,4,4,5,7,6,7,6,North Wales
+W01000217,Denbighshire 008C,W06000004,Denbighshire,5,3,5,5,3,9,4,10,7,North Wales
+W01000408,Wrexham 013D,W06000006,Wrexham,5,4,5,5,3,3,8,10,5,North Wales
+W01000766,Swansea 015D,W06000011,Swansea,6,5,6,6,5,9,3,3,4,Mid and South West Wales
+W01001829,Cardiff 033A,W06000015,Cardiff,4,5,8,5,4,7,1,1,3,South East Wales
+W01001743,Cardiff 043B,W06000015,Cardiff,8,7,8,6,6,6,10,4,5,South East Wales
+W01000117,Gwynedd 017E,W06000002,Gwynedd,4,4,4,3,4,6,6,4,8,North Wales
+W01000129,Conwy 012B,W06000003,Conwy,4,3,4,5,6,5,9,3,4,North Wales
+W01000841,Swansea 005C,W06000011,Swansea,5,4,4,4,5,6,6,7,8,Mid and South West Wales
+W01000774,Swansea 005B,W06000011,Swansea,6,5,5,4,5,9,6,10,4,Mid and South West Wales
+W01000919,Neath Port Talbot 020A,W06000012,Neath Port Talbot,5,6,4,5,5,2,4,8,9,Mid and South West Wales
+W01000889,Neath Port Talbot 015A,W06000012,Neath Port Talbot,6,7,4,7,6,6,8,3,6,Mid and South West Wales
+W01001101,The Vale of Glamorgan 013E,W06000014,Vale of Glamorgan,5,4,4,5,5,8,3,1,5,South East Wales
+W01000152,Conwy 005D,W06000003,Conwy,4,4,3,3,3,8,9,3,5,North Wales
+W01001111,The Vale of Glamorgan 011E,W06000014,Vale of Glamorgan,5,3,4,4,4,5,8,8,8,South East Wales
+W01000959,Neath Port Talbot 017E,W06000012,Neath Port Talbot,6,5,5,5,5,8,8,8,4,Mid and South West Wales
+W01001228,Rhondda Cynon Taf 021D,W06000016,Rhondda Cynon Taf,6,6,5,5,8,5,7,3,1,South East Wales
+W01001458,Blaenau Gwent 004E,W06000019,Blaenau Gwent,5,5,5,5,5,8,3,6,3,South East Wales
+W01000813,Swansea 008D,W06000011,Swansea,7,7,6,6,7,10,4,3,4,Mid and South West Wales
+W01000917,Neath Port Talbot 010F,W06000012,Neath Port Talbot,7,8,7,6,7,2,8,7,6,Mid and South West Wales
+W01000580,Pembrokeshire 009B,W06000009,Pembrokeshire,9,8,9,8,7,3,7,8,10,Mid and South West Wales
+W01001684,Newport 006E,W06000022,Newport,5,6,7,7,3,6,2,1,5,South East Wales
+W01001310,Merthyr Tydfil 002E,W06000024,Merthyr Tydfil,6,6,5,5,6,6,4,4,4,South East Wales
+W01001077,The Vale of Glamorgan 004C,W06000014,Vale of Glamorgan,7,6,7,6,7,5,7,4,5,South East Wales
+W01001437,Blaenau Gwent 008C,W06000019,Blaenau Gwent,6,6,4,5,5,10,2,6,3,South East Wales
+W01000012,Isle of Anglesey 006B,W06000001,Isle of Anglesey,8,7,7,6,8,9,10,10,3,North Wales
+W01000039,Isle of Anglesey 004C,W06000001,Isle of Anglesey,8,8,9,7,9,1,7,6,8,North Wales
+W01001226,Rhondda Cynon Taf 031F,W06000016,Rhondda Cynon Taf,7,5,6,4,7,9,7,6,10,South East Wales
+W01000095,Gwynedd 012C,W06000002,Gwynedd,8,6,7,8,7,7,6,10,7,North Wales
+W01001230,Rhondda Cynon Taf 017C,W06000016,Rhondda Cynon Taf,7,6,6,5,7,8,4,7,9,South East Wales
+W01001831,Cardiff 030A,W06000015,Cardiff,5,5,7,7,6,7,1,1,3,South East Wales
+W01000006,Isle of Anglesey 006A,W06000001,Isle of Anglesey,6,7,6,7,7,2,3,10,8,North Wales
+W01001240,Rhondda Cynon Taf 026C,W06000016,Rhondda Cynon Taf,7,8,7,5,7,5,7,3,6,South East Wales
+W01001432,Caerphilly 013D,W06000018,Caerphilly,7,6,6,6,6,7,7,6,6,South East Wales
+W01001917,Rhondda Cynon Taf 023G,W06000016,Rhondda Cynon Taf,5,6,5,4,4,7,5,3,7,South East Wales
+W01000243,Denbighshire 014B,W06000004,Denbighshire,8,6,7,7,8,9,5,8,5,North Wales
+W01000007,Isle of Anglesey 009A,W06000001,Isle of Anglesey,6,7,7,8,7,2,1,9,7,North Wales
+W01000009,Isle of Anglesey 007C,W06000001,Isle of Anglesey,5,5,5,6,5,2,2,9,8,North Wales
+W01000031,Isle of Anglesey 001E,W06000001,Isle of Anglesey,5,5,5,7,7,1,2,9,9,North Wales
+W01001368,Caerphilly 019C,W06000018,Caerphilly,3,2,3,3,3,6,4,4,4,South East Wales
+W01001452,Blaenau Gwent 007C,W06000019,Blaenau Gwent,7,8,7,7,5,2,4,9,4,South East Wales
+W01001621,Newport 003E,W06000022,Newport,1,1,1,1,1,4,7,7,1,South East Wales
+W01000024,Isle of Anglesey 007E,W06000001,Isle of Anglesey,6,6,7,7,6,2,4,10,5,North Wales
+W01001556,Monmouthshire 006B,W06000021,Monmouthshire,7,8,6,6,7,2,9,7,9,South East Wales
+W01000252,Flintshire 010A,W06000005,Flintshire,8,9,8,7,5,5,8,6,8,North Wales
+W01000088,Gwynedd 007B,W06000002,Gwynedd,6,6,7,8,8,1,3,6,8,North Wales
+W01000122,Conwy 014A,W06000003,Conwy,6,8,8,9,7,1,2,5,8,North Wales
+W01000077,Gwynedd 001C,W06000002,Gwynedd,5,6,8,6,5,6,1,1,3,North Wales
+W01001757,Cardiff 025C,W06000015,Cardiff,7,7,9,8,9,7,1,2,5,South East Wales
+W01001953,Cardiff 005G,W06000015,Cardiff,7,6,7,5,7,8,4,4,6,South East Wales
+W01000025,Isle of Anglesey 009B,W06000001,Isle of Anglesey,7,7,7,7,7,3,6,8,6,North Wales
+W01000845,Swansea 001A,W06000011,Swansea,9,8,8,7,9,9,7,7,8,Mid and South West Wales
+W01000070,Gwynedd 012A,W06000002,Gwynedd,7,7,8,9,8,1,2,7,9,North Wales
+W01000113,Gwynedd 009C,W06000002,Gwynedd,5,5,6,5,5,2,5,9,5,North Wales
+W01000148,Conwy 015D,W06000003,Conwy,7,5,7,6,5,6,6,8,7,North Wales
+W01000147,Conwy 001C,W06000003,Conwy,6,5,6,7,7,3,6,6,5,North Wales
+W01000202,Denbighshire 015B,W06000004,Denbighshire,7,9,10,10,9,1,1,9,9,North Wales
+W01001748,Cardiff 027B,W06000015,Cardiff,3,4,4,3,2,8,3,4,6,South East Wales
+W01000306,Flintshire 002A,W06000005,Flintshire,4,3,4,5,3,8,9,9,1,North Wales
+W01001482,Torfaen 002A,W06000020,Torfaen,2,3,3,1,2,3,3,6,4,South East Wales
+W01000314,Flintshire 016B,W06000005,Flintshire,4,4,3,6,3,9,4,6,1,North Wales
+W01000259,Flintshire 017A,W06000005,Flintshire,5,4,6,4,5,6,7,8,3,North Wales
+W01000535,Ceredigion 008C,W06000008,Ceredigion,4,6,6,6,6,1,1,6,7,Mid and South West Wales
+W01001485,Torfaen 002D,W06000020,Torfaen,2,2,2,2,2,3,7,9,1,South East Wales
+W01000330,Flintshire 015E,W06000005,Flintshire,5,4,6,5,2,8,6,3,6,North Wales
+W01001488,Torfaen 001B,W06000020,Torfaen,2,2,2,2,1,5,3,4,4,South East Wales
+W01000207,Denbighshire 015C,W06000004,Denbighshire,7,9,9,9,8,1,1,7,10,North Wales
+W01000256,Flintshire 015B,W06000005,Flintshire,8,6,8,7,5,9,9,7,8,North Wales
+W01000265,Flintshire 012B,W06000005,Flintshire,8,9,9,7,7,4,8,4,6,North Wales
+W01000209,Denbighshire 016D,W06000004,Denbighshire,6,5,7,7,5,2,5,9,6,North Wales
+W01000496,Powys 021B,W06000023,Powys,5,5,5,5,6,1,3,8,7,Mid and South West Wales
+W01001751,Cardiff 027D,W06000015,Cardiff,1,1,1,2,3,3,7,4,2,South East Wales
+W01001807,Cardiff 007B,W06000015,Cardiff,1,1,2,1,1,4,3,1,3,South East Wales
+W01000505,Powys 021E,W06000023,Powys,5,5,4,4,7,2,7,4,5,Mid and South West Wales
+W01000605,Pembrokeshire 013F,W06000009,Pembrokeshire,4,5,5,5,2,2,3,6,6,Mid and South West Wales
+W01001503,Torfaen 009B,W06000020,Torfaen,2,2,3,2,2,5,4,4,2,South East Wales
+W01000636,Carmarthenshire 025B,W06000010,Carmarthenshire,4,4,4,3,3,5,7,9,6,Mid and South West Wales
+W01001886,Cardiff 016D,W06000015,Cardiff,1,1,1,1,1,3,6,1,2,South East Wales
+W01001767,Cardiff 044D,W06000015,Cardiff,3,3,6,3,3,7,1,1,5,South East Wales
+W01000763,Swansea 015A,W06000011,Swansea,4,3,5,6,2,8,1,3,7,Mid and South West Wales
+W01000874,Swansea 024F,W06000011,Swansea,9,9,10,9,10,8,1,8,7,Mid and South West Wales
+W01000279,Flintshire 008C,W06000005,Flintshire,8,8,7,6,6,8,6,10,7,North Wales
+W01000281,Flintshire 008D,W06000005,Flintshire,8,7,7,7,5,10,7,9,8,North Wales
+W01000269,Flintshire 020A,W06000005,Flintshire,7,6,6,5,5,9,4,10,8,North Wales
+W01000227,Denbighshire 004B,W06000004,Denbighshire,6,4,5,5,6,8,5,6,7,North Wales
+W01000509,Ceredigion 009C,W06000008,Ceredigion,5,4,4,6,5,3,9,10,7,Mid and South West Wales
+W01000377,Wrexham 004A,W06000006,Wrexham,8,7,8,6,5,7,5,10,6,North Wales
+W01000458,Powys 002C,W06000023,Powys,8,8,9,8,9,2,7,3,7,Mid and South West Wales
+W01000945,Neath Port Talbot 014E,W06000012,Neath Port Talbot,4,4,3,3,4,2,7,9,9,Mid and South West Wales
+W01000428,Powys 005A,W06000023,Powys,7,9,10,10,5,1,4,8,9,Mid and South West Wales
+W01000447,Powys 007C,W06000023,Powys,7,8,9,10,8,1,3,6,8,Mid and South West Wales
+W01000319,Flintshire 016G,W06000005,Flintshire,6,6,4,7,4,7,8,10,3,North Wales
+W01000582,Pembrokeshire 004A,W06000009,Pembrokeshire,5,7,9,9,8,1,1,10,10,Mid and South West Wales
+W01000472,Powys 012C,W06000023,Powys,8,9,8,7,7,2,6,9,10,Mid and South West Wales
+W01000448,Powys 011B,W06000023,Powys,7,6,6,7,4,4,8,10,6,Mid and South West Wales
+W01000481,Powys 008B,W06000023,Powys,8,8,9,7,8,2,9,4,7,Mid and South West Wales
+W01001834,Cardiff 033E,W06000015,Cardiff,3,4,5,4,5,5,1,1,3,South East Wales
+W01001923,Carmarthenshire 026G,W06000010,Carmarthenshire,3,4,5,5,2,2,7,2,4,Mid and South West Wales
+W01000349,Wrexham 011A,W06000006,Wrexham,6,6,6,5,5,5,9,9,2,North Wales
+W01000393,Wrexham 009C,W06000006,Wrexham,6,5,6,5,4,9,6,9,1,North Wales
+W01000947,Neath Port Talbot 004C,W06000012,Neath Port Talbot,4,3,3,4,3,5,4,9,8,Mid and South West Wales
+W01000630,Carmarthenshire 024C,W06000010,Carmarthenshire,5,5,4,5,5,6,2,6,3,Mid and South West Wales
+W01000091,Gwynedd 001D,W06000002,Gwynedd,1,1,1,1,2,4,8,10,1,North Wales
+W01000719,Carmarthenshire 010E,W06000010,Carmarthenshire,5,5,4,6,6,5,1,8,7,Mid and South West Wales
+W01001957,Swansea 025G,W06000011,Swansea,3,3,5,3,5,4,3,2,1,Mid and South West Wales
+W01000547,Ceredigion 009G,W06000008,Ceredigion,7,6,7,9,10,1,7,10,10,Mid and South West Wales
+W01000558,Pembrokeshire 001A,W06000009,Pembrokeshire,7,7,7,8,7,1,4,7,9,Mid and South West Wales
+W01000970,Neath Port Talbot 005D,W06000012,Neath Port Talbot,4,5,4,4,4,5,3,3,9,Mid and South West Wales
+W01001063,The Vale of Glamorgan 012A,W06000014,Vale of Glamorgan,4,5,5,4,4,9,1,4,2,South East Wales
+W01001526,Torfaen 010B,W06000020,Torfaen,2,2,2,2,2,4,7,3,2,South East Wales
+W01001175,Rhondda Cynon Taf 009A,W06000016,Rhondda Cynon Taf,4,4,3,4,7,10,1,4,8,South East Wales
+W01001919,Bridgend 017F,W06000013,Bridgend,10,10,10,10,9,10,10,8,10,South East Wales
+W01000695,Carmarthenshire 012B,W06000010,Carmarthenshire,3,4,4,3,3,2,5,2,8,Mid and South West Wales
+W01000624,Carmarthenshire 005A,W06000010,Carmarthenshire,8,8,8,8,9,1,5,6,10,Mid and South West Wales
+W01000400,Wrexham 005C,W06000006,Wrexham,6,4,6,4,5,6,7,9,4,North Wales
+W01000676,Carmarthenshire 004A,W06000010,Carmarthenshire,8,9,9,10,8,1,5,8,8,Mid and South West Wales
+W01000581,Pembrokeshire 003B,W06000009,Pembrokeshire,7,8,8,9,7,1,4,10,10,Mid and South West Wales
+W01001182,Rhondda Cynon Taf 021A,W06000016,Rhondda Cynon Taf,4,4,5,4,2,5,2,9,2,South East Wales
+W01000723,Carmarthenshire 012E,W06000010,Carmarthenshire,5,6,6,6,5,1,3,1,8,Mid and South West Wales
+W01000754,Swansea 002E,W06000011,Swansea,5,4,3,4,4,8,7,7,5,Mid and South West Wales
+W01000727,Carmarthenshire 019E,W06000010,Carmarthenshire,8,7,6,5,6,5,10,10,10,Mid and South West Wales
+W01000927,Neath Port Talbot 020B,W06000012,Neath Port Talbot,5,6,5,3,5,3,4,4,8,Mid and South West Wales
+W01000618,Pembrokeshire 003D,W06000009,Pembrokeshire,7,8,9,9,7,1,3,4,9,Mid and South West Wales
+W01000767,Swansea 015E,W06000011,Swansea,3,3,2,3,2,6,6,4,3,Mid and South West Wales
+W01000489,Powys 017A,W06000023,Powys,6,6,6,6,7,4,6,3,6,Mid and South West Wales
+W01000953,Neath Port Talbot 005B,W06000012,Neath Port Talbot,3,3,3,3,5,4,5,4,8,Mid and South West Wales
+W01001642,Newport 013A,W06000022,Newport,2,3,3,5,2,5,2,1,1,South East Wales
+W01001249,Rhondda Cynon Taf 024A,W06000016,Rhondda Cynon Taf,4,3,3,3,3,7,7,6,4,South East Wales
+W01001050,Bridgend 008D,W06000013,Bridgend,3,3,3,2,4,10,4,6,2,South East Wales
+W01001093,The Vale of Glamorgan 013C,W06000014,Vale of Glamorgan,3,3,2,3,4,4,7,4,3,South East Wales
+W01001910,The Vale of Glamorgan 012G,W06000014,Vale of Glamorgan,2,2,2,2,5,9,1,4,1,South East Wales
+W01000178,Conwy 010E,W06000003,Conwy,2,2,2,2,3,6,4,6,2,North Wales
+W01000501,Powys 003D,W06000023,Powys,6,6,6,8,5,3,5,8,6,Mid and South West Wales
+W01000634,Carmarthenshire 021C,W06000010,Carmarthenshire,7,5,5,8,7,5,9,6,7,Mid and South West Wales
+W01000519,Ceredigion 010A,W06000008,Ceredigion,6,7,8,7,8,1,3,10,10,Mid and South West Wales
+W01001032,Bridgend 018B,W06000013,Bridgend,9,8,9,8,9,6,8,9,10,South East Wales
+W01000675,Carmarthenshire 012A,W06000010,Carmarthenshire,7,8,8,8,8,1,3,6,9,Mid and South West Wales
+W01000544,Ceredigion 007C,W06000008,Ceredigion,6,5,7,9,5,9,1,4,5,Mid and South West Wales
+W01000378,Wrexham 004B,W06000006,Wrexham,2,2,3,2,1,6,5,9,1,North Wales
+W01000545,Ceredigion 007D,W06000008,Ceredigion,6,8,8,10,7,1,5,7,9,Mid and South West Wales
+W01001285,Rhondda Cynon Taf 014D,W06000016,Rhondda Cynon Taf,4,5,4,4,2,8,3,4,3,South East Wales
+W01001065,The Vale of Glamorgan 012B,W06000014,Vale of Glamorgan,5,5,6,5,4,10,1,3,2,South East Wales
+W01000575,Pembrokeshire 008C,W06000009,Pembrokeshire,6,6,6,5,5,2,8,6,8,Mid and South West Wales
+W01000680,Carmarthenshire 011A,W06000010,Carmarthenshire,7,7,7,8,8,3,9,1,8,Mid and South West Wales
+W01000784,Swansea 007A,W06000011,Swansea,8,7,6,6,9,7,8,8,9,Mid and South West Wales
+W01001313,Merthyr Tydfil 006F,W06000024,Merthyr Tydfil,4,4,3,5,4,9,1,1,6,South East Wales
+W01001477,Blaenau Gwent 009E,W06000019,Blaenau Gwent,4,4,5,5,4,6,2,6,3,South East Wales
+W01000662,Carmarthenshire 016A,W06000010,Carmarthenshire,6,6,5,6,6,3,7,5,7,Mid and South West Wales
+W01000690,Carmarthenshire 019A,W06000010,Carmarthenshire,7,7,6,6,7,4,8,5,8,Mid and South West Wales
+W01001216,Rhondda Cynon Taf 011D,W06000016,Rhondda Cynon Taf,3,3,3,3,3,7,2,2,7,South East Wales
+W01000700,Carmarthenshire 027G,W06000010,Carmarthenshire,7,8,8,8,9,1,6,7,9,Mid and South West Wales
+W01001665,Newport 008D,W06000022,Newport,4,3,5,3,4,7,6,1,4,South East Wales
+W01000671,Carmarthenshire 018B,W06000010,Carmarthenshire,6,6,5,7,6,2,5,7,7,Mid and South West Wales
+W01001749,Cardiff 027C,W06000015,Cardiff,4,3,4,4,4,5,7,5,4,South East Wales
+W01000803,Swansea 002F,W06000011,Swansea,6,6,7,7,7,1,4,5,6,Mid and South West Wales
+W01001121,The Vale of Glamorgan 014E,W06000014,Vale of Glamorgan,5,4,4,4,5,9,5,7,5,South East Wales
+W01001258,Rhondda Cynon Taf 019E,W06000016,Rhondda Cynon Taf,3,4,4,4,3,8,3,1,1,South East Wales
+W01000926,Neath Port Talbot 003C,W06000012,Neath Port Talbot,6,5,5,4,6,8,7,2,8,Mid and South West Wales
+W01000704,Carmarthenshire 022B,W06000010,Carmarthenshire,7,7,6,7,8,7,9,2,5,Mid and South West Wales
+W01000906,Neath Port Talbot 007A,W06000012,Neath Port Talbot,8,7,7,7,8,6,10,5,7,Mid and South West Wales
+W01000829,Swansea 018C,W06000011,Swansea,7,6,5,5,6,8,7,8,9,Mid and South West Wales
+W01001250,Rhondda Cynon Taf 024B,W06000016,Rhondda Cynon Taf,5,6,5,4,5,2,7,6,2,South East Wales
+W01000984,Bridgend 016D,W06000013,Bridgend,8,6,7,7,7,6,10,7,10,South East Wales
+W01001289,Merthyr Tydfil 006A,W06000024,Merthyr Tydfil,3,4,3,4,2,3,1,9,5,South East Wales
+W01001263,Rhondda Cynon Taf 022E,W06000016,Rhondda Cynon Taf,5,8,8,6,2,3,2,4,8,South East Wales
+W01001863,Cardiff 022A,W06000015,Cardiff,5,5,6,7,3,10,3,1,4,South East Wales
+W01000986,Bridgend 007A,W06000013,Bridgend,6,6,6,4,6,4,10,7,5,South East Wales
+W01000998,Bridgend 011A,W06000013,Bridgend,8,9,10,7,7,2,9,6,7,South East Wales
+W01000955,Neath Port Talbot 004E,W06000012,Neath Port Talbot,7,6,6,7,8,4,9,7,9,Mid and South West Wales
+W01001016,Bridgend 005C,W06000013,Bridgend,6,6,4,4,6,4,6,5,8,South East Wales
+W01000022,Isle of Anglesey 004A,W06000001,Isle of Anglesey,5,6,7,6,5,1,2,9,8,North Wales
+W01001455,Blaenau Gwent 008F,W06000019,Blaenau Gwent,3,4,3,3,3,7,4,6,3,South East Wales
+W01000974,Bridgend 006A,W06000013,Bridgend,7,7,6,5,6,8,4,1,7,South East Wales
+W01001461,Blaenau Gwent 007F,W06000019,Blaenau Gwent,3,3,3,3,3,5,4,3,1,South East Wales
+W01000065,Gwynedd 009B,W06000002,Gwynedd,4,4,4,5,3,7,2,5,3,North Wales
+W01000454,Powys 013A,W06000023,Powys,2,3,1,3,4,6,6,8,1,Mid and South West Wales
+W01000198,Denbighshire 011B,W06000004,Denbighshire,1,1,1,1,1,4,5,8,3,North Wales
+W01001143,Rhondda Cynon Taf 012A,W06000016,Rhondda Cynon Taf,6,6,6,5,5,5,5,5,4,South East Wales
+W01001122,The Vale of Glamorgan 014F,W06000014,Vale of Glamorgan,9,7,8,8,6,6,9,8,9,South East Wales
+W01001678,Newport 005D,W06000022,Newport,3,3,2,5,4,5,8,1,1,South East Wales
+W01001102,The Vale of Glamorgan 013F,W06000014,Vale of Glamorgan,7,5,5,5,8,10,4,7,6,South East Wales
+W01001146,Rhondda Cynon Taf 012D,W06000016,Rhondda Cynon Taf,6,7,5,5,4,8,3,6,7,South East Wales
+W01001787,Cardiff 023C,W06000015,Cardiff,3,3,4,3,3,3,2,1,5,South East Wales
+W01001128,The Vale of Glamorgan 001C,W06000014,Vale of Glamorgan,9,9,9,10,9,4,9,7,10,South East Wales
+W01001372,Caerphilly 022B,W06000018,Caerphilly,7,7,6,6,5,10,7,1,4,South East Wales
+W01000026,Isle of Anglesey 005D,W06000001,Isle of Anglesey,5,6,5,6,5,1,6,10,10,North Wales
+W01000111,Gwynedd 007C,W06000002,Gwynedd,4,4,4,5,4,3,3,10,1,North Wales
+W01000145,Conwy 008B,W06000003,Conwy,5,4,4,5,5,5,7,8,3,North Wales
+W01001407,Caerphilly 016A,W06000018,Caerphilly,7,7,7,6,6,7,4,4,3,South East Wales
+W01001439,Blaenau Gwent 004B,W06000019,Blaenau Gwent,7,7,6,4,5,7,7,5,6,South East Wales
+W01001109,The Vale of Glamorgan 011C,W06000014,Vale of Glamorgan,8,7,7,6,8,5,8,4,9,South East Wales
+W01000219,Denbighshire 001B,W06000004,Denbighshire,5,4,5,4,5,6,5,4,6,North Wales
+W01000312,Flintshire 011B,W06000005,Flintshire,5,5,6,5,3,8,3,2,7,North Wales
+W01000412,Wrexham 015D,W06000006,Wrexham,5,6,5,5,6,3,4,8,3,North Wales
+W01001135,The Vale of Glamorgan 003C,W06000014,Vale of Glamorgan,9,10,10,10,8,3,9,4,6,South East Wales
+W01001316,Merthyr Tydfil 005B,W06000024,Merthyr Tydfil,8,7,7,6,7,5,4,6,8,South East Wales
+W01000528,Ceredigion 008B,W06000008,Ceredigion,5,5,4,7,4,3,6,10,4,Mid and South West Wales
+W01000756,Swansea 017B,W06000011,Swansea,2,2,1,1,4,3,8,9,2,Mid and South West Wales
+W01001875,Cardiff 037C,W06000015,Cardiff,3,3,4,4,2,5,7,1,1,South East Wales
+W01001553,Monmouthshire 004B,W06000021,Monmouthshire,7,7,7,7,7,2,9,4,7,South East Wales
+W01001900,Neath Port Talbot 020G,W06000012,Neath Port Talbot,3,3,2,2,4,6,3,8,6,Mid and South West Wales
+W01000237,Denbighshire 006B,W06000004,Denbighshire,1,1,1,1,1,2,2,1,1,North Wales
+W01000835,Swansea 013E,W06000011,Swansea,1,1,1,1,1,8,8,5,1,Mid and South West Wales
+W01001575,Monmouthshire 005D,W06000021,Monmouthshire,7,9,10,10,8,1,2,7,6,South East Wales
+W01000142,Conwy 010D,W06000003,Conwy,10,10,9,8,9,5,10,10,9,North Wales
+W01000250,Flintshire 014B,W06000005,Flintshire,10,9,9,8,6,9,8,10,9,North Wales
+W01000981,Bridgend 016B,W06000013,Bridgend,1,1,1,1,2,2,9,3,4,South East Wales
+W01000216,Denbighshire 002D,W06000004,Denbighshire,3,3,3,3,5,7,5,6,2,North Wales
+W01001584,Monmouthshire 008B,W06000021,Monmouthshire,7,6,7,5,6,7,8,3,7,South East Wales
+W01000937,Neath Port Talbot 013E,W06000012,Neath Port Talbot,2,3,2,2,2,5,5,1,5,Mid and South West Wales
+W01001260,Rhondda Cynon Taf 014C,W06000016,Rhondda Cynon Taf,1,1,1,1,2,2,3,3,3,South East Wales
+W01001142,Rhondda Cynon Taf 005F,W06000016,Rhondda Cynon Taf,2,2,2,2,2,7,1,2,3,South East Wales
+W01001208,Rhondda Cynon Taf 006E,W06000016,Rhondda Cynon Taf,2,3,1,3,4,7,2,7,5,South East Wales
+W01000342,Wrexham 009B,W06000006,Wrexham,3,2,3,3,4,5,5,8,4,North Wales
+W01000140,Conwy 010B,W06000003,Conwy,4,3,4,7,4,3,3,10,3,North Wales
+W01000157,Conwy 004C,W06000003,Conwy,4,3,3,5,5,5,6,6,4,North Wales
+W01000405,Wrexham 015B,W06000006,Wrexham,3,2,4,3,2,7,2,9,2,North Wales
+W01001342,Caerphilly 021A,W06000018,Caerphilly,9,9,9,7,8,10,10,2,7,South East Wales
+W01001261,Rhondda Cynon Taf 018F,W06000016,Rhondda Cynon Taf,2,2,2,2,3,5,1,4,3,South East Wales
+W01000273,Flintshire 007A,W06000005,Flintshire,4,4,5,5,2,9,3,5,3,North Wales
+W01000602,Pembrokeshire 013C,W06000009,Pembrokeshire,5,5,4,4,4,6,6,5,2,Mid and South West Wales
+W01000717,Carmarthenshire 016E,W06000010,Carmarthenshire,5,5,4,5,4,5,7,4,7,Mid and South West Wales
+W01001333,Caerphilly 018D,W06000018,Caerphilly,2,2,3,2,2,6,1,9,4,South East Wales
+W01000724,Carmarthenshire 011C,W06000010,Carmarthenshire,5,5,4,5,5,2,4,8,10,Mid and South West Wales
+W01001882,Cardiff 011C,W06000015,Cardiff,7,6,8,6,5,10,10,1,6,South East Wales
+W01001417,Caerphilly 008D,W06000018,Caerphilly,9,9,8,6,7,9,10,4,6,South East Wales
+W01000374,Wrexham 003A,W06000006,Wrexham,4,4,4,3,2,5,5,10,3,North Wales
+W01000401,Wrexham 005D,W06000006,Wrexham,4,3,5,5,3,8,5,10,1,North Wales
+W01001371,Caerphilly 022A,W06000018,Caerphilly,2,2,2,2,1,3,6,2,2,South East Wales
+W01000536,Ceredigion 011E,W06000008,Ceredigion,4,5,6,8,5,1,1,6,9,Mid and South West Wales
+W01000637,Carmarthenshire 007A,W06000010,Carmarthenshire,4,3,4,3,4,4,5,8,5,Mid and South West Wales
+W01000656,Carmarthenshire 010A,W06000010,Carmarthenshire,4,3,3,4,4,6,4,6,7,Mid and South West Wales
+W01001184,Rhondda Cynon Taf 026A,W06000016,Rhondda Cynon Taf,6,6,7,5,6,7,5,2,6,South East Wales
+W01000478,Powys 009A,W06000023,Powys,3,2,3,2,2,3,9,9,3,Mid and South West Wales
+W01001399,Caerphilly 023E,W06000018,Caerphilly,8,6,6,6,8,8,9,2,8,South East Wales
+W01000282,Flintshire 010C,W06000005,Flintshire,10,10,10,10,8,9,10,9,9,North Wales
+W01000525,Ceredigion 011A,W06000008,Ceredigion,10,10,10,10,10,6,10,10,9,Mid and South West Wales
+W01001495,Torfaen 008C,W06000020,Torfaen,8,7,7,6,6,7,10,4,5,South East Wales
+W01001555,Monmouthshire 006A,W06000021,Monmouthshire,9,10,9,10,10,1,9,7,9,South East Wales
+W01000718,Carmarthenshire 010D,W06000010,Carmarthenshire,4,4,3,3,5,9,3,7,7,Mid and South West Wales
+W01001366,Caerphilly 019A,W06000018,Caerphilly,6,6,5,5,5,7,7,3,8,South East Wales
+W01001505,Torfaen 013B,W06000020,Torfaen,8,8,7,7,7,5,7,4,5,South East Wales
+W01001745,Cardiff 043D,W06000015,Cardiff,9,8,9,8,8,7,9,3,6,South East Wales
+W01000770,Swansea 020C,W06000011,Swansea,10,9,9,9,9,10,9,8,10,Mid and South West Wales
+W01001654,Newport 002D,W06000022,Newport,8,8,7,7,7,10,6,4,7,South East Wales
+W01001893,Cardiff 010B,W06000015,Cardiff,7,6,7,7,7,7,6,3,5,South East Wales
+W01000837,Swansea 004D,W06000011,Swansea,10,10,10,10,10,6,10,8,9,Mid and South West Wales
+W01000853,Swansea 022A,W06000011,Swansea,10,9,9,9,10,10,7,5,8,Mid and South West Wales
+W01001747,Cardiff 027A,W06000015,Cardiff,8,6,7,8,7,10,8,4,8,South East Wales
+W01000858,Swansea 027A,W06000011,Swansea,10,10,10,10,10,10,3,7,8,Mid and South West Wales
+W01000102,Gwynedd 002E,W06000002,Gwynedd,9,9,9,7,10,5,7,10,3,North Wales
+W01000479,Powys 009B,W06000023,Powys,3,3,4,3,2,5,7,8,3,Mid and South West Wales
+W01001375,Caerphilly 001B,W06000018,Caerphilly,2,2,1,1,3,8,4,2,1,South East Wales
+W01001385,Caerphilly 002D,W06000018,Caerphilly,2,2,2,1,2,3,2,8,2,South East Wales
+W01001406,Caerphilly 001D,W06000018,Caerphilly,2,2,1,3,2,6,5,6,2,South East Wales
+W01000890,Neath Port Talbot 015B,W06000012,Neath Port Talbot,10,10,8,9,9,10,9,5,10,Mid and South West Wales
+W01000904,Neath Port Talbot 006C,W06000012,Neath Port Talbot,10,10,9,10,9,9,10,7,10,Mid and South West Wales
+W01001041,Bridgend 013C,W06000013,Bridgend,10,10,7,8,9,7,10,7,9,South East Wales
+W01001416,Caerphilly 008C,W06000018,Caerphilly,6,5,4,4,6,7,8,5,5,South East Wales
+W01000141,Conwy 010C,W06000003,Conwy,9,7,7,8,8,6,10,10,8,North Wales
+W01000155,Conwy 004A,W06000003,Conwy,9,7,6,8,9,10,8,9,6,North Wales
+W01001752,Cardiff 031B,W06000015,Cardiff,8,8,9,6,7,10,8,3,3,South East Wales
+W01001470,Blaenau Gwent 001D,W06000019,Blaenau Gwent,6,7,6,7,5,5,9,3,3,South East Wales
+W01000568,Pembrokeshire 005A,W06000009,Pembrokeshire,3,3,2,3,4,6,4,5,1,Mid and South West Wales
+W01000264,Flintshire 012A,W06000005,Flintshire,9,8,9,8,7,10,10,10,5,North Wales
+W01001279,Rhondda Cynon Taf 028F,W06000016,Rhondda Cynon Taf,1,1,1,1,1,6,4,7,3,South East Wales
+W01001511,Torfaen 005B,W06000020,Torfaen,6,5,6,4,5,8,5,5,7,South East Wales
+W01001580,Monmouthshire 002E,W06000021,Monmouthshire,6,5,4,6,7,5,6,6,5,South East Wales
+W01001060,The Vale of Glamorgan 015B,W06000014,Vale of Glamorgan,10,10,9,10,10,7,7,10,9,South East Wales
+W01001075,The Vale of Glamorgan 004A,W06000014,Vale of Glamorgan,10,9,9,10,9,10,8,6,8,South East Wales
+W01001593,Monmouthshire 008E,W06000021,Monmouthshire,6,5,6,5,4,5,7,4,6,South East Wales
+W01000266,Flintshire 017E,W06000005,Flintshire,9,9,9,8,6,8,5,7,6,North Wales
+W01000002,Isle of Anglesey 007B,W06000001,Isle of Anglesey,7,6,7,7,9,4,2,10,9,North Wales
+W01000761,Swansea 013B,W06000011,Swansea,4,4,5,5,3,9,5,7,1,Mid and South West Wales
+W01001295,Merthyr Tydfil 002A,W06000024,Merthyr Tydfil,1,2,1,1,2,3,2,1,2,South East Wales
+W01001414,Caerphilly 008A,W06000018,Caerphilly,2,2,2,2,2,6,5,3,2,South East Wales
+W01001301,Merthyr Tydfil 008C,W06000024,Merthyr Tydfil,1,1,1,1,2,3,4,7,2,South East Wales
+W01000053,Gwynedd 004B,W06000002,Gwynedd,7,9,10,9,9,2,1,8,8,North Wales
+W01001464,Blaenau Gwent 009A,W06000019,Blaenau Gwent,2,2,1,1,3,3,4,7,5,South East Wales
+W01000289,Flintshire 005A,W06000005,Flintshire,9,8,9,8,7,6,9,9,5,North Wales
+W01000299,Flintshire 019A,W06000005,Flintshire,9,9,10,9,9,2,8,9,9,North Wales
+W01001664,Newport 010A,W06000022,Newport,1,1,2,3,1,4,7,1,1,South East Wales
+W01000641,Carmarthenshire 008A,W06000010,Carmarthenshire,3,4,2,4,4,4,2,7,1,Mid and South West Wales
+W01000399,Wrexham 013B,W06000006,Wrexham,9,10,10,9,10,2,3,10,7,North Wales
+W01001629,Newport 017A,W06000022,Newport,6,6,5,7,5,6,9,3,3,South East Wales
+W01000757,Swansea 017C,W06000011,Swansea,5,4,3,4,4,6,9,9,4,Mid and South West Wales
+W01000248,Denbighshire 008D,W06000004,Denbighshire,7,9,10,9,9,1,1,10,8,North Wales
+W01001132,The Vale of Glamorgan 008D,W06000014,Vale of Glamorgan,10,9,10,9,9,9,10,8,10,South East Wales
+W01001294,Merthyr Tydfil 003B,W06000024,Merthyr Tydfil,10,10,9,8,9,7,8,6,10,South East Wales
+W01000432,Powys 014B,W06000023,Powys,9,8,9,9,9,3,10,7,6,Mid and South West Wales
+W01001349,Caerphilly 009B,W06000018,Caerphilly,10,9,8,9,9,10,10,6,6,South East Wales
+W01001533,Torfaen 012B,W06000020,Torfaen,10,10,10,9,10,6,10,7,8,South East Wales
+W01000665,Carmarthenshire 017A,W06000010,Carmarthenshire,9,9,8,9,8,7,7,9,9,Mid and South West Wales
+W01000311,Flintshire 011A,W06000005,Flintshire,7,6,7,6,6,6,6,7,6,North Wales
+W01001689,Newport 019D,W06000022,Newport,1,1,1,1,1,2,7,1,1,South East Wales
+W01001741,Cardiff 039E,W06000015,Cardiff,1,1,1,1,1,3,1,4,2,South East Wales
+W01001744,Cardiff 043C,W06000015,Cardiff,1,1,1,2,1,3,4,4,3,South East Wales
+W01001811,Cardiff 009A,W06000015,Cardiff,1,1,1,1,1,4,3,1,1,South East Wales
+W01001468,Blaenau Gwent 005E,W06000019,Blaenau Gwent,2,3,2,2,2,6,4,7,2,South East Wales
+W01001813,Cardiff 017D,W06000015,Cardiff,1,1,1,2,4,5,5,2,2,South East Wales
+W01001476,Blaenau Gwent 009D,W06000019,Blaenau Gwent,2,2,2,3,2,3,1,5,2,South East Wales
+W01001591,Monmouthshire 011E,W06000021,Monmouthshire,10,10,10,10,9,7,10,2,9,South East Wales
+W01000739,Swansea 014B,W06000011,Swansea,3,2,4,2,3,6,3,3,4,Mid and South West Wales
+W01001636,Newport 020A,W06000022,Newport,10,10,10,10,10,7,10,2,6,South East Wales
+W01001777,Cardiff 001A,W06000015,Cardiff,10,10,10,10,10,8,10,3,8,South East Wales
+W01000869,Swansea 024C,W06000011,Swansea,5,5,4,6,9,6,2,7,2,Mid and South West Wales
+W01001755,Cardiff 025A,W06000015,Cardiff,8,9,10,9,8,10,1,2,3,South East Wales
+W01001758,Cardiff 025D,W06000015,Cardiff,8,9,10,8,9,9,1,1,7,South East Wales
+W01001498,Torfaen 011B,W06000020,Torfaen,2,2,3,2,2,8,8,4,2,South East Wales
+W01000751,Swansea 002B,W06000011,Swansea,9,9,8,7,9,9,8,8,9,Mid and South West Wales
+W01001007,Bridgend 009D,W06000013,Bridgend,5,4,5,3,5,5,6,2,8,South East Wales
+W01001838,Cardiff 030D,W06000015,Cardiff,6,7,9,6,8,8,1,2,5,South East Wales
+W01001620,Newport 003D,W06000022,Newport,2,3,3,2,1,3,6,4,1,South East Wales
+W01001660,Newport 018B,W06000022,Newport,2,2,4,2,2,3,1,1,1,South East Wales
+W01000977,Bridgend 003B,W06000013,Bridgend,3,2,3,2,2,3,6,9,7,South East Wales
+W01001038,Bridgend 011C,W06000013,Bridgend,5,5,5,3,7,4,6,4,6,South East Wales
+W01000764,Swansea 015B,W06000011,Swansea,4,4,6,4,3,7,2,3,5,Mid and South West Wales
+W01001779,Cardiff 026A,W06000015,Cardiff,10,10,10,10,10,10,10,2,6,South East Wales
+W01001780,Cardiff 026B,W06000015,Cardiff,10,10,9,10,10,10,9,3,8,South East Wales
+W01001794,Cardiff 001C,W06000015,Cardiff,10,9,10,10,10,10,10,2,10,South East Wales
+W01001676,Newport 007B,W06000022,Newport,2,4,3,5,2,5,1,1,1,South East Wales
+W01001051,Bridgend 008E,W06000013,Bridgend,5,3,4,4,5,9,6,9,6,South East Wales
+W01001798,Cardiff 002D,W06000015,Cardiff,10,9,9,9,10,9,10,5,10,South East Wales
+W01001950,Cardiff 049D,W06000015,Cardiff,10,9,10,10,7,8,8,4,6,South East Wales
+W01001956,Swansea 023E,W06000011,Swansea,10,10,10,9,10,10,9,8,10,Mid and South West Wales
+W01000135,Conwy 006A,W06000003,Conwy,10,9,8,10,10,9,10,9,10,North Wales
+W01001876,Cardiff 037D,W06000015,Cardiff,1,1,1,1,1,4,1,1,3,South East Wales
+W01001879,Cardiff 013A,W06000015,Cardiff,1,1,2,1,2,7,8,2,1,South East Wales
+W01001931,Wrexham 012G,W06000006,Wrexham,1,2,2,2,1,5,1,5,1,North Wales
+W01001764,Cardiff 044A,W06000015,Cardiff,2,2,6,2,5,5,1,1,3,South East Wales
+W01000333,Flintshire 009B,W06000005,Flintshire,1,2,2,1,1,5,3,2,1,North Wales
+W01000413,Wrexham 010C,W06000006,Wrexham,1,1,1,1,1,2,4,5,1,North Wales
+W01000244,Denbighshire 014C,W06000004,Denbighshire,10,10,10,9,10,9,10,10,10,North Wales
+W01001164,Rhondda Cynon Taf 019A,W06000016,Rhondda Cynon Taf,5,4,4,5,4,10,3,4,5,South East Wales
+W01000759,Swansea 012A,W06000011,Swansea,9,7,7,5,9,9,9,10,8,Mid and South West Wales
+W01001269,Rhondda Cynon Taf 010A,W06000016,Rhondda Cynon Taf,5,5,4,6,5,9,7,1,3,South East Wales
+W01000268,Flintshire 013B,W06000005,Flintshire,10,10,10,9,10,9,10,8,7,North Wales
+W01000346,Wrexham 018B,W06000006,Wrexham,7,9,10,9,8,1,2,7,7,North Wales
+W01000776,Swansea 030B,W06000011,Swansea,9,10,9,10,10,2,6,9,10,Mid and South West Wales
+W01001908,Monmouthshire 010G,W06000021,Monmouthshire,6,5,6,5,5,4,8,4,6,South East Wales
+W01001815,Cardiff 008D,W06000015,Cardiff,8,6,8,7,7,10,7,1,8,South East Wales
+W01000796,Swansea 006B,W06000011,Swansea,9,9,8,8,8,5,6,3,10,Mid and South West Wales
+W01000429,Powys 010A,W06000023,Powys,7,9,9,10,9,1,5,6,10,Mid and South West Wales
+W01000321,Flintshire 014D,W06000005,Flintshire,10,10,10,9,9,10,10,10,10,North Wales
+W01000324,Flintshire 012D,W06000005,Flintshire,10,10,10,10,10,7,9,10,10,North Wales
+W01001010,Bridgend 012B,W06000013,Bridgend,3,3,2,2,6,5,8,3,8,South East Wales
+W01000882,Swansea 029D,W06000011,Swansea,4,3,2,5,4,5,6,10,6,Mid and South West Wales
+W01001877,Cardiff 011A,W06000015,Cardiff,8,8,8,6,5,9,9,1,7,South East Wales
+W01000425,Wrexham 010E,W06000006,Wrexham,1,1,1,1,1,3,5,9,1,North Wales
+W01000511,Ceredigion 009E,W06000008,Ceredigion,1,1,1,3,4,2,1,4,1,Mid and South West Wales
+W01000600,Pembrokeshire 013A,W06000009,Pembrokeshire,1,2,1,3,1,6,1,4,1,Mid and South West Wales
+W01000928,Neath Port Talbot 020C,W06000012,Neath Port Talbot,4,4,3,4,3,10,5,5,8,Mid and South West Wales
+W01000450,Powys 014C,W06000023,Powys,7,10,10,10,8,1,2,6,9,Mid and South West Wales
+W01000023,Isle of Anglesey 007D,W06000001,Isle of Anglesey,6,5,7,4,5,2,6,10,8,North Wales
+W01000326,Flintshire 018B,W06000005,Flintshire,10,9,10,8,9,9,9,4,9,North Wales
+W01001318,Merthyr Tydfil 005D,W06000024,Merthyr Tydfil,5,7,5,5,5,6,3,1,4,South East Wales
+W01001903,Powys 018F,W06000023,Powys,8,8,8,9,9,2,4,8,8,Mid and South West Wales
+W01001043,Bridgend 004E,W06000013,Bridgend,3,3,2,1,3,7,2,8,4,South East Wales
+W01000948,Neath Port Talbot 004D,W06000012,Neath Port Talbot,4,5,4,4,4,8,9,4,1,Mid and South West Wales
+W01001788,Cardiff 023D,W06000015,Cardiff,2,1,1,2,4,6,4,1,4,South East Wales
+W01000708,Carmarthenshire 025E,W06000010,Carmarthenshire,1,1,1,1,2,6,4,9,3,Mid and South West Wales
+W01000033,Isle of Anglesey 003E,W06000001,Isle of Anglesey,2,2,1,2,2,3,9,10,1,North Wales
+W01001346,Caerphilly 020D,W06000018,Caerphilly,5,4,5,5,4,8,4,6,4,South East Wales
+W01000825,Swansea 031C,W06000011,Swansea,9,8,9,9,10,10,4,8,7,Mid and South West Wales
+W01000090,Gwynedd 002D,W06000002,Gwynedd,2,1,4,2,2,2,6,10,3,North Wales
+W01000987,Bridgend 007B,W06000013,Bridgend,4,3,4,3,3,6,4,3,7,South East Wales
+W01000020,Isle of Anglesey 002B,W06000001,Isle of Anglesey,8,9,8,9,9,1,4,10,9,North Wales
+W01000327,Flintshire 018C,W06000005,Flintshire,10,9,10,9,9,9,4,10,8,North Wales
+W01000343,Wrexham 007A,W06000006,Wrexham,10,10,9,10,9,10,10,8,10,North Wales
+W01000460,Powys 006B,W06000023,Powys,7,7,9,8,8,1,2,8,9,Mid and South West Wales
+W01000101,Gwynedd 013D,W06000002,Gwynedd,8,7,7,6,6,5,3,10,7,North Wales
+W01001137,Rhondda Cynon Taf 005A,W06000016,Rhondda Cynon Taf,3,2,2,3,3,6,4,3,5,South East Wales
+W01000989,Bridgend 013A,W06000013,Bridgend,9,8,9,9,8,5,9,9,6,South East Wales
+W01001359,Caerphilly 006D,W06000018,Caerphilly,5,6,5,5,5,7,3,3,4,South East Wales
+W01001006,Bridgend 009C,W06000013,Bridgend,9,10,9,7,8,7,9,7,10,South East Wales
+W01001037,Bridgend 013B,W06000013,Bridgend,9,10,9,6,9,6,9,6,6,South East Wales
+W01001001,Bridgend 010C,W06000013,Bridgend,4,4,4,5,3,5,8,5,5,South East Wales
+W01001009,Bridgend 004C,W06000013,Bridgend,4,5,5,2,3,3,2,6,6,South East Wales
+W01000149,Conwy 005A,W06000003,Conwy,2,2,2,2,1,7,5,3,2,North Wales
+W01001389,Caerphilly 007E,W06000018,Caerphilly,5,5,5,4,5,9,4,4,4,South East Wales
+W01000064,Gwynedd 002A,W06000002,Gwynedd,6,5,5,6,7,5,4,7,3,North Wales
+W01000482,Powys 008C,W06000023,Powys,7,8,7,9,8,2,5,6,5,Mid and South West Wales
+W01000502,Powys 021C,W06000023,Powys,7,7,4,5,8,8,8,4,5,Mid and South West Wales
+W01001478,Blaenau Gwent 006C,W06000019,Blaenau Gwent,5,5,5,6,6,8,3,6,1,South East Wales
+W01001153,Rhondda Cynon Taf 002C,W06000016,Rhondda Cynon Taf,3,2,2,3,2,9,8,4,5,South East Wales
+W01000810,Swansea 003D,W06000011,Swansea,1,1,1,1,2,3,7,5,2,Mid and South West Wales
+W01001232,Rhondda Cynon Taf 020D,W06000016,Rhondda Cynon Taf,3,3,3,4,3,6,5,3,4,South East Wales
+W01000562,Pembrokeshire 002A,W06000009,Pembrokeshire,7,8,9,10,8,1,4,9,9,Mid and South West Wales
+W01000296,Flintshire 003C,W06000005,Flintshire,2,2,2,1,1,5,4,9,3,North Wales
+W01000498,Powys 003A,W06000023,Powys,2,2,3,4,1,1,3,9,1,Mid and South West Wales
+W01000104,Gwynedd 008C,W06000002,Gwynedd,6,4,5,5,8,9,5,10,5,North Wales
+W01001493,Torfaen 008A,W06000020,Torfaen,5,5,4,4,4,6,6,1,7,South East Wales
+W01001066,The Vale of Glamorgan 015D,W06000014,Vale of Glamorgan,4,4,4,4,4,8,6,4,3,South East Wales
+W01001247,Rhondda Cynon Taf 016C,W06000016,Rhondda Cynon Taf,3,3,3,3,3,8,3,3,6,South East Wales
+W01000741,Swansea 014D,W06000011,Swansea,2,2,2,2,4,6,4,7,2,Mid and South West Wales
+W01001099,The Vale of Glamorgan 013D,W06000014,Vale of Glamorgan,4,3,4,4,4,6,9,4,6,South East Wales
+W01001302,Merthyr Tydfil 006B,W06000024,Merthyr Tydfil,3,3,4,2,2,4,1,3,5,South East Wales
+W01000158,Conwy 004D,W06000003,Conwy,8,7,6,8,8,7,9,9,6,North Wales
+W01000817,Swansea 009A,W06000011,Swansea,1,1,1,1,1,3,7,9,1,Mid and South West Wales
+W01000831,Swansea 013D,W06000011,Swansea,1,1,1,2,1,4,5,5,2,Mid and South West Wales
+W01000788,Swansea 016D,W06000011,Swansea,2,2,1,2,2,8,2,5,1,Mid and South West Wales
+W01000844,Swansea 005F,W06000011,Swansea,2,2,1,2,3,4,5,9,7,Mid and South West Wales
+W01000203,Denbighshire 013A,W06000004,Denbighshire,8,9,9,10,10,1,4,9,9,North Wales
+W01000833,Swansea 011C,W06000011,Swansea,1,1,1,1,1,3,4,7,2,Mid and South West Wales
+W01000848,Swansea 001D,W06000011,Swansea,2,2,3,2,3,6,4,4,7,Mid and South West Wales
+W01001035,Bridgend 014E,W06000013,Bridgend,2,2,2,2,5,3,1,4,2,South East Wales
+W01001069,The Vale of Glamorgan 012C,W06000014,Vale of Glamorgan,2,2,2,2,3,9,2,3,1,South East Wales
+W01001048,Bridgend 008B,W06000013,Bridgend,9,7,7,6,7,10,7,8,7,South East Wales
+W01001338,Caerphilly 004C,W06000018,Caerphilly,3,4,3,3,2,9,1,5,2,South East Wales
+W01001171,Rhondda Cynon Taf 017A,W06000016,Rhondda Cynon Taf,4,5,4,5,4,3,4,3,6,South East Wales
+W01001189,Rhondda Cynon Taf 029C,W06000016,Rhondda Cynon Taf,4,3,3,2,5,10,5,6,7,South East Wales
+W01001233,Rhondda Cynon Taf 001F,W06000016,Rhondda Cynon Taf,4,6,5,3,3,2,8,9,3,South East Wales
+W01001256,Rhondda Cynon Taf 019C,W06000016,Rhondda Cynon Taf,4,4,5,3,4,9,1,2,6,South East Wales
+W01000109,Gwynedd 012E,W06000002,Gwynedd,6,4,5,6,6,7,5,5,6,North Wales
+W01001286,Rhondda Cynon Taf 014E,W06000016,Rhondda Cynon Taf,4,4,4,3,4,9,2,1,5,South East Wales
+W01001073,The Vale of Glamorgan 015E,W06000014,Vale of Glamorgan,2,2,1,2,2,5,6,2,2,South East Wales
+W01001314,Merthyr Tydfil 005A,W06000024,Merthyr Tydfil,4,5,5,4,5,3,3,2,6,South East Wales
+W01001374,Caerphilly 001A,W06000018,Caerphilly,3,3,2,2,2,9,3,6,5,South East Wales
+W01000118,Gwynedd 007D,W06000002,Gwynedd,6,6,7,8,7,2,2,2,6,North Wales
+W01000577,Pembrokeshire 007A,W06000009,Pembrokeshire,7,8,8,9,8,1,6,5,10,Mid and South West Wales
+W01001104,The Vale of Glamorgan 004E,W06000014,Vale of Glamorgan,9,9,8,8,9,5,7,4,3,South East Wales
+W01000957,Neath Port Talbot 017D,W06000012,Neath Port Talbot,1,1,1,1,2,4,6,10,3,Mid and South West Wales
+W01001081,The Vale of Glamorgan 007A,W06000014,Vale of Glamorgan,1,1,1,1,2,6,6,1,2,South East Wales
+W01000242,Denbighshire 014A,W06000004,Denbighshire,6,5,5,5,6,6,5,6,6,North Wales
+W01001094,The Vale of Glamorgan 007C,W06000014,Vale of Glamorgan,2,1,2,3,1,5,8,5,4,South East Wales
+W01001097,The Vale of Glamorgan 007F,W06000014,Vale of Glamorgan,2,1,3,2,1,6,3,8,3,South East Wales
+W01001095,The Vale of Glamorgan 007D,W06000014,Vale of Glamorgan,1,1,1,1,1,6,5,5,3,South East Wales
+W01001144,Rhondda Cynon Taf 012B,W06000016,Rhondda Cynon Taf,1,1,1,1,1,2,2,9,3,South East Wales
+W01001166,Rhondda Cynon Taf 016A,W06000016,Rhondda Cynon Taf,1,1,2,2,2,4,1,8,5,South East Wales
+W01001388,Caerphilly 007D,W06000018,Caerphilly,3,2,2,3,2,7,5,7,1,South East Wales
+W01001393,Caerphilly 019D,W06000018,Caerphilly,3,3,2,3,2,7,6,3,4,South East Wales
+W01001207,Rhondda Cynon Taf 006D,W06000016,Rhondda Cynon Taf,1,1,1,2,1,3,6,4,4,South East Wales
+W01001321,Merthyr Tydfil 007D,W06000024,Merthyr Tydfil,4,4,4,3,3,6,3,8,4,South East Wales
+W01001107,The Vale of Glamorgan 011B,W06000014,Vale of Glamorgan,9,8,8,8,9,10,8,7,5,South East Wales
+W01001331,Caerphilly 018B,W06000018,Caerphilly,4,3,3,3,3,9,3,6,8,South East Wales
+W01001551,Monmouthshire 010C,W06000021,Monmouthshire,5,5,5,3,4,7,5,3,7,South East Wales
+W01001138,Rhondda Cynon Taf 005B,W06000016,Rhondda Cynon Taf,2,1,1,2,2,6,4,7,4,South East Wales
+W01000623,Pembrokeshire 004D,W06000009,Pembrokeshire,7,9,9,9,8,1,6,10,10,Mid and South West Wales
+W01001222,Rhondda Cynon Taf 001E,W06000016,Rhondda Cynon Taf,1,1,1,1,1,2,4,8,3,South East Wales
+W01001237,Rhondda Cynon Taf 022B,W06000016,Rhondda Cynon Taf,2,2,2,1,1,4,3,6,6,South East Wales
+W01001449,Blaenau Gwent 002D,W06000019,Blaenau Gwent,3,3,2,3,4,8,7,5,2,South East Wales
+W01001454,Blaenau Gwent 008E,W06000019,Blaenau Gwent,3,3,3,3,2,3,2,8,2,South East Wales
+W01000645,Carmarthenshire 006C,W06000010,Carmarthenshire,7,7,6,6,6,5,3,6,7,Mid and South West Wales
+W01001589,Monmouthshire 010E,W06000021,Monmouthshire,5,4,4,6,4,9,9,2,6,South East Wales
+W01001292,Merthyr Tydfil 004A,W06000024,Merthyr Tydfil,1,1,1,1,2,2,5,6,2,South East Wales
+W01000682,Carmarthenshire 005B,W06000010,Carmarthenshire,7,8,8,10,9,1,4,7,10,Mid and South West Wales
+W01001170,Rhondda Cynon Taf 004D,W06000016,Rhondda Cynon Taf,9,9,7,6,6,10,9,4,6,South East Wales
+W01000345,Wrexham 018A,W06000006,Wrexham,8,9,9,8,9,1,9,3,10,North Wales
+W01000769,Swansea 020B,W06000011,Swansea,10,9,8,9,10,9,10,10,10,Mid and South West Wales
+W01000247,Denbighshire 010C,W06000004,Denbighshire,6,7,6,6,7,2,5,6,8,North Wales
+W01001355,Caerphilly 015A,W06000018,Caerphilly,4,4,3,3,5,5,6,6,4,South East Wales
+W01001398,Caerphilly 024A,W06000018,Caerphilly,9,8,9,6,9,10,10,5,8,South East Wales
+W01001702,Cardiff 045A,W06000015,Cardiff,3,3,3,4,2,5,9,5,5,South East Wales
+W01001299,Merthyr Tydfil 008A,W06000024,Merthyr Tydfil,1,1,1,1,1,2,5,9,1,South East Wales
+W01001303,Merthyr Tydfil 006C,W06000024,Merthyr Tydfil,1,1,1,1,1,2,1,1,3,South East Wales
+W01001267,Rhondda Cynon Taf 007C,W06000016,Rhondda Cynon Taf,2,2,1,2,2,3,2,7,6,South East Wales
+W01001298,Merthyr Tydfil 002D,W06000024,Merthyr Tydfil,2,3,2,1,4,7,2,4,2,South East Wales
+W01001363,Caerphilly 012A,W06000018,Caerphilly,4,4,4,3,3,6,5,4,4,South East Wales
+W01001644,Newport 013C,W06000022,Newport,5,5,8,5,3,7,2,1,2,South East Wales
+W01000712,Carmarthenshire 015D,W06000010,Carmarthenshire,7,7,6,6,6,8,4,4,9,Mid and South West Wales
+W01000404,Wrexham 018D,W06000006,Wrexham,8,8,9,8,8,2,6,9,9,North Wales
+W01001868,Cardiff 022D,W06000015,Cardiff,3,2,3,3,2,8,7,2,3,South East Wales
+W01000716,Carmarthenshire 016D,W06000010,Carmarthenshire,7,8,7,7,6,4,3,3,8,Mid and South West Wales
+W01001523,Torfaen 004C,W06000020,Torfaen,4,4,4,4,3,5,2,5,3,South East Wales
+W01001325,Caerphilly 003A,W06000018,Caerphilly,2,3,2,2,2,4,5,7,2,South East Wales
+W01000439,Powys 007B,W06000023,Powys,8,9,10,9,8,1,6,5,10,Mid and South West Wales
+W01001911,The Vale of Glamorgan 012H,W06000014,Vale of Glamorgan,3,2,3,3,2,8,2,4,6,South East Wales
+W01000527,Ceredigion 008A,W06000008,Ceredigion,8,8,8,9,7,9,1,9,2,Mid and South West Wales
+W01001404,Caerphilly 011D,W06000018,Caerphilly,9,9,8,8,8,10,8,5,9,South East Wales
+W01001759,Cardiff 046A,W06000015,Cardiff,5,4,5,4,7,7,8,1,1,South East Wales
+W01000777,Swansea 012B,W06000011,Swansea,10,8,8,7,9,10,9,7,9,Mid and South West Wales
+W01001598,Monmouthshire 010F,W06000021,Monmouthshire,4,4,4,4,3,6,5,1,6,South East Wales
+W01000056,Gwynedd 009A,W06000002,Gwynedd,3,4,4,4,4,3,1,8,2,North Wales
+W01000596,Pembrokeshire 007D,W06000009,Pembrokeshire,8,8,9,8,9,2,8,6,10,Mid and South West Wales
+W01000611,Pembrokeshire 004C,W06000009,Pembrokeshire,8,9,8,9,8,1,8,7,9,Mid and South West Wales
+W01001634,Newport 019B,W06000022,Newport,4,4,4,4,3,4,4,2,2,South East Wales
+W01001332,Caerphilly 018C,W06000018,Caerphilly,2,2,2,2,3,6,2,6,5,South East Wales
+W01001456,Blaenau Gwent 004C,W06000019,Blaenau Gwent,2,2,2,3,3,6,2,6,1,South East Wales
+W01000338,Flintshire 001C,W06000005,Flintshire,6,6,6,7,5,1,6,10,7,North Wales
+W01001040,Bridgend 009F,W06000013,Bridgend,7,7,7,6,7,4,8,6,7,South East Wales
+W01001481,Blaenau Gwent 006E,W06000019,Blaenau Gwent,2,2,1,2,4,6,7,2,1,South East Wales
+W01001491,Torfaen 004A,W06000020,Torfaen,2,3,3,2,3,5,2,7,2,South East Wales
+W01000169,Conwy 001D,W06000003,Conwy,3,4,3,4,6,4,2,4,2,North Wales
+W01000172,Conwy 013E,W06000003,Conwy,3,3,3,3,4,4,3,9,2,North Wales
+W01001361,Caerphilly 002B,W06000018,Caerphilly,1,2,1,1,1,4,4,8,4,South East Wales
+W01001531,Torfaen 003D,W06000020,Torfaen,2,3,3,2,2,4,3,3,1,South East Wales
+W01001532,Torfaen 010E,W06000020,Torfaen,2,2,3,2,1,4,4,4,2,South East Wales
+W01001648,Newport 015G,W06000022,Newport,4,5,6,5,3,9,7,1,2,South East Wales
+W01000213,Denbighshire 002A,W06000004,Denbighshire,3,2,2,3,2,6,3,9,3,North Wales
+W01000644,Carmarthenshire 006B,W06000010,Carmarthenshire,8,8,9,7,8,2,8,10,7,Mid and South West Wales
+W01001152,Rhondda Cynon Taf 002B,W06000016,Rhondda Cynon Taf,7,7,6,6,7,3,6,5,5,South East Wales
+W01001653,Newport 002C,W06000022,Newport,9,9,9,9,8,8,9,2,6,South East Wales
+W01000694,Carmarthenshire 008D,W06000010,Carmarthenshire,8,10,9,8,8,2,7,7,4,Mid and South West Wales
+W01000781,Swansea 023B,W06000011,Swansea,10,10,9,10,10,10,9,9,10,Mid and South West Wales
+W01001714,Cardiff 035A,W06000015,Cardiff,9,10,9,9,10,10,8,1,6,South East Wales
+W01001825,Cardiff 029D,W06000015,Cardiff,5,7,5,6,9,7,3,1,2,South East Wales
+W01000287,Flintshire 001A,W06000005,Flintshire,3,3,3,3,3,2,2,6,2,North Wales
+W01001546,Monmouthshire 002A,W06000021,Monmouthshire,2,2,3,2,4,5,4,4,2,South East Wales
+W01000791,Swansea 004A,W06000011,Swansea,10,10,8,8,9,7,10,8,10,Mid and South West Wales
+W01001729,Cardiff 014C,W06000015,Cardiff,9,9,9,10,9,7,10,5,3,South East Wales
+W01000001,Isle of Anglesey 007A,W06000001,Isle of Anglesey,5,5,4,7,6,2,5,10,5,North Wales
+W01000902,Neath Port Talbot 006A,W06000012,Neath Port Talbot,8,8,6,7,7,3,9,5,10,Mid and South West Wales
+W01001236,Rhondda Cynon Taf 021G,W06000016,Rhondda Cynon Taf,7,7,7,5,7,6,5,5,4,South East Wales
+W01000824,Swansea 031B,W06000011,Swansea,10,9,7,10,10,9,10,9,9,Mid and South West Wales
+W01000350,Wrexham 011B,W06000006,Wrexham,3,5,5,4,2,4,1,6,1,North Wales
+W01000515,Ceredigion 003A,W06000008,Ceredigion,3,3,2,4,4,3,5,10,6,Mid and South West Wales
+W01001899,Powys 021F,W06000023,Powys,4,5,4,3,4,3,4,4,7,Mid and South West Wales
+W01000625,Carmarthenshire 013A,W06000010,Carmarthenshire,3,3,2,2,4,5,5,5,3,Mid and South West Wales
+W01000652,Carmarthenshire 020B,W06000010,Carmarthenshire,3,4,3,3,3,4,6,7,3,Mid and South West Wales
+W01000933,Neath Port Talbot 019B,W06000012,Neath Port Talbot,8,8,9,9,8,3,10,2,5,Mid and South West Wales
+W01001773,Cardiff 012A,W06000015,Cardiff,9,8,9,8,9,10,4,2,9,South East Wales
+W01001614,Newport 005A,W06000022,Newport,2,1,1,3,2,4,8,3,4,South East Wales
+W01000657,Carmarthenshire 010B,W06000010,Carmarthenshire,3,3,3,3,4,3,8,5,7,Mid and South West Wales
+W01000123,Conwy 013A,W06000003,Conwy,5,5,4,5,7,5,4,3,4,North Wales
+W01000703,Carmarthenshire 022A,W06000010,Carmarthenshire,3,3,3,4,5,6,2,2,2,Mid and South West Wales
+W01001844,Cardiff 003D,W06000015,Cardiff,9,7,8,8,8,10,10,2,8,South East Wales
+W01000827,Swansea 031E,W06000011,Swansea,10,10,10,10,10,10,4,9,5,Mid and South West Wales
+W01001400,Caerphilly 019F,W06000018,Caerphilly,1,1,1,1,1,3,7,6,4,South East Wales
+W01000192,Denbighshire 016A,W06000004,Denbighshire,5,7,6,8,8,1,1,6,6,North Wales
+W01000705,Carmarthenshire 022C,W06000010,Carmarthenshire,3,2,3,2,3,4,4,2,4,Mid and South West Wales
+W01001005,Bridgend 009B,W06000013,Bridgend,8,8,8,6,8,10,10,2,8,South East Wales
+W01001851,Cardiff 012D,W06000015,Cardiff,9,10,9,9,10,9,7,2,7,South East Wales
+W01000855,Swansea 022C,W06000011,Swansea,10,9,8,9,10,10,9,7,8,Mid and South West Wales
+W01000253,Flintshire 003A,W06000005,Flintshire,5,5,7,5,3,4,5,7,6,North Wales
+W01001039,Bridgend 009E,W06000013,Bridgend,8,7,7,5,7,6,9,8,9,South East Wales
+W01001909,Monmouthshire 002F,W06000021,Monmouthshire,4,4,3,4,5,3,7,6,6,South East Wales
+W01001422,Caerphilly 022F,W06000018,Caerphilly,1,1,1,3,1,4,6,3,1,South East Wales
+W01000461,Powys 001A,W06000023,Powys,5,5,5,7,6,1,4,2,6,Mid and South West Wales
+W01000063,Gwynedd 005A,W06000002,Gwynedd,4,4,5,5,7,1,1,8,4,North Wales
+W01001630,Newport 017B,W06000022,Newport,2,2,2,2,3,3,9,5,4,South East Wales
+W01000513,Ceredigion 002B,W06000008,Ceredigion,5,9,8,6,5,4,1,1,1,Mid and South West Wales
+W01001705,Cardiff 045C,W06000015,Cardiff,2,1,2,2,1,4,7,6,5,South East Wales
+W01001711,Cardiff 040C,W06000015,Cardiff,2,2,3,3,3,3,2,1,2,South East Wales
+W01000799,Swansea 010D,W06000011,Swansea,3,2,3,2,3,5,7,8,4,Mid and South West Wales
+W01000872,Swansea 024E,W06000011,Swansea,10,9,10,10,10,10,5,6,8,Mid and South West Wales
+W01001804,Cardiff 015B,W06000015,Cardiff,2,2,4,2,1,5,4,2,3,South East Wales
+W01000880,Swansea 029B,W06000011,Swansea,10,9,8,10,10,10,9,3,10,Mid and South West Wales
+W01001463,Blaenau Gwent 006B,W06000019,Blaenau Gwent,7,6,5,6,7,9,2,7,5,South East Wales
+W01001492,Torfaen 012A,W06000020,Torfaen,7,6,6,6,6,7,9,5,3,South East Wales
+W01001921,Bridgend 017H,W06000013,Bridgend,9,6,7,7,9,10,10,7,10,South East Wales
+W01000818,Swansea 009B,W06000011,Swansea,3,2,3,3,3,5,5,7,3,Mid and South West Wales
+W01000838,Swansea 004E,W06000011,Swansea,3,2,2,2,3,3,9,8,7,Mid and South West Wales
+W01001459,Blaenau Gwent 007D,W06000019,Blaenau Gwent,1,1,1,2,1,2,1,4,2,South East Wales
+W01001084,The Vale of Glamorgan 002C,W06000014,Vale of Glamorgan,10,10,9,9,10,7,10,6,6,South East Wales
+W01001112,The Vale of Glamorgan 011F,W06000014,Vale of Glamorgan,10,9,10,10,10,8,10,9,10,South East Wales
+W01001120,The Vale of Glamorgan 014D,W06000014,Vale of Glamorgan,10,10,9,9,8,9,10,6,9,South East Wales
+W01001936,Ceredigion 003F,W06000008,Ceredigion,9,10,10,9,9,2,9,8,10,Mid and South West Wales
+W01001197,Rhondda Cynon Taf 027C,W06000016,Rhondda Cynon Taf,10,10,10,10,10,8,10,5,10,South East Wales
+W01001500,Torfaen 011D,W06000020,Torfaen,10,10,8,8,9,10,10,3,9,South East Wales
+W01000590,Pembrokeshire 012B,W06000009,Pembrokeshire,5,5,4,5,4,6,9,6,7,Mid and South West Wales
+W01001509,Torfaen 013D,W06000020,Torfaen,10,10,10,10,10,10,10,1,9,South East Wales
+W01001944,Cardiff 048C,W06000015,Cardiff,9,9,10,10,8,7,10,1,8,South East Wales
+W01001627,Newport 001E,W06000022,Newport,10,10,9,10,10,10,10,2,8,South East Wales
+W01000599,Pembrokeshire 009D,W06000009,Pembrokeshire,5,4,5,5,4,3,5,8,7,Mid and South West Wales
+W01000978,Bridgend 004B,W06000013,Bridgend,3,4,4,2,4,7,1,7,7,South East Wales
+W01001810,Cardiff 017B,W06000015,Cardiff,2,1,3,1,1,4,3,2,5,South East Wales
+W01001607,Newport 015A,W06000022,Newport,1,1,2,1,1,5,2,2,1,South East Wales
+W01000650,Carmarthenshire 002B,W06000010,Carmarthenshire,5,7,8,8,7,1,1,7,10,Mid and South West Wales
+W01000036,Isle of Anglesey 003F,W06000001,Isle of Anglesey,2,2,2,4,2,6,5,9,2,North Wales
+W01001673,Newport 009D,W06000022,Newport,10,10,9,9,10,9,10,4,10,South East Wales
+W01000221,Denbighshire 003B,W06000004,Denbighshire,4,3,4,4,3,6,7,5,7,North Wales
+W01001771,Cardiff 018C,W06000015,Cardiff,10,10,10,10,10,10,8,2,9,South East Wales
+W01000846,Swansea 001B,W06000011,Swansea,5,4,4,5,6,10,6,1,5,Mid and South West Wales
+W01001507,Torfaen 008D,W06000020,Torfaen,7,6,6,7,7,7,7,2,7,South East Wales
+W01001778,Cardiff 001B,W06000015,Cardiff,10,10,10,10,10,9,10,1,9,South East Wales
+W01000015,Isle of Anglesey 008C,W06000001,Isle of Anglesey,9,8,8,6,9,10,10,8,9,North Wales
+W01000119,Gwynedd 004D,W06000002,Gwynedd,9,8,8,8,9,5,4,9,8,North Wales
+W01001854,Cardiff 004D,W06000015,Cardiff,10,9,9,9,10,10,9,2,9,South East Wales
+W01000212,Denbighshire 003A,W06000004,Denbighshire,9,7,7,7,7,9,9,10,8,North Wales
+W01001058,Bridgend 006C,W06000013,Bridgend,8,7,6,5,7,9,6,8,8,South East Wales
+W01001118,The Vale of Glamorgan 014C,W06000014,Vale of Glamorgan,8,7,7,7,7,6,9,7,9,South East Wales
+W01000270,Flintshire 006B,W06000005,Flintshire,9,10,10,10,9,1,4,9,10,North Wales
+W01000980,Bridgend 016A,W06000013,Bridgend,5,5,5,4,5,6,9,3,8,South East Wales
+W01001914,Rhondda Cynon Taf 023F,W06000016,Rhondda Cynon Taf,10,9,9,7,8,8,10,4,9,South East Wales
+W01000280,Flintshire 010B,W06000005,Flintshire,9,8,8,7,8,5,9,10,9,North Wales
+W01001915,Rhondda Cynon Taf 027F,W06000016,Rhondda Cynon Taf,10,10,10,10,10,10,10,5,8,South East Wales
+W01000300,Flintshire 019B,W06000005,Flintshire,9,9,10,9,9,3,6,9,10,North Wales
+W01001918,Bridgend 017E,W06000013,Bridgend,10,10,9,10,10,10,10,8,10,South East Wales
+W01000323,Flintshire 012C,W06000005,Flintshire,9,9,10,10,9,2,9,8,9,North Wales
+W01001151,Rhondda Cynon Taf 003C,W06000016,Rhondda Cynon Taf,8,8,6,5,8,8,10,3,5,South East Wales
+W01001157,Rhondda Cynon Taf 028A,W06000016,Rhondda Cynon Taf,8,8,7,5,7,10,9,3,8,South East Wales
+W01001920,Bridgend 017G,W06000013,Bridgend,10,9,9,10,10,9,10,10,10,South East Wales
+W01001033,Bridgend 003E,W06000013,Bridgend,5,5,4,6,5,10,4,1,6,South East Wales
+W01000441,Powys 005B,W06000023,Powys,9,10,10,9,8,1,7,9,9,Mid and South West Wales
+W01000493,Powys 017E,W06000023,Powys,9,10,10,10,7,4,8,8,8,Mid and South West Wales
+W01001227,Rhondda Cynon Taf 021C,W06000016,Rhondda Cynon Taf,8,8,6,8,10,4,7,6,8,South East Wales
+W01000549,Ceredigion 001E,W06000008,Ceredigion,9,9,10,9,9,1,8,9,10,Mid and South West Wales
+W01000715,Carmarthenshire 013E,W06000010,Carmarthenshire,9,8,6,9,7,8,7,5,9,Mid and South West Wales
+W01000726,Carmarthenshire 019D,W06000010,Carmarthenshire,9,10,9,8,9,4,10,5,10,Mid and South West Wales
+W01000816,Swansea 003F,W06000011,Swansea,9,9,9,8,9,6,10,6,7,Mid and South West Wales
+W01000471,Powys 014E,W06000023,Powys,6,7,6,9,7,1,3,6,8,Mid and South West Wales
+W01000013,Isle of Anglesey 005B,W06000001,Isle of Anglesey,10,10,9,10,10,4,9,10,10,North Wales
+W01001088,The Vale of Glamorgan 006C,W06000014,Vale of Glamorgan,5,4,4,5,5,5,8,2,8,South East Wales
+W01000180,Conwy 008C,W06000003,Conwy,10,10,8,9,10,7,10,10,7,North Wales
+W01000195,Denbighshire 012A,W06000004,Denbighshire,10,10,10,9,9,10,10,8,10,North Wales
+W01000284,Flintshire 013C,W06000005,Flintshire,10,10,10,10,9,8,9,5,10,North Wales
+W01000910,Neath Port Talbot 009B,W06000012,Neath Port Talbot,9,9,7,6,7,7,9,5,9,Mid and South West Wales
+W01000956,Neath Port Talbot 004F,W06000012,Neath Port Talbot,9,9,8,7,9,8,8,4,10,Mid and South West Wales
+W01000990,Bridgend 017B,W06000013,Bridgend,3,3,2,1,5,4,8,8,8,South East Wales
+W01000182,Conwy 007D,W06000003,Conwy,2,2,1,3,4,8,4,10,1,North Wales
+W01001172,Rhondda Cynon Taf 020A,W06000016,Rhondda Cynon Taf,5,5,4,4,6,6,5,5,3,South East Wales
+W01001026,Bridgend 012D,W06000013,Bridgend,3,3,4,2,4,6,6,4,6,South East Wales
+W01000226,Denbighshire 004A,W06000004,Denbighshire,2,2,3,1,2,6,6,4,5,North Wales
+W01000290,Flintshire 004B,W06000005,Flintshire,2,2,2,1,2,4,5,8,1,North Wales
+W01000487,Powys 012E,W06000023,Powys,6,6,6,6,5,2,8,9,7,Mid and South West Wales
+W01001609,Newport 015B,W06000022,Newport,1,1,2,1,1,5,6,2,1,South East Wales
+W01001052,Bridgend 008F,W06000013,Bridgend,3,2,2,3,5,7,7,6,7,South East Wales
+W01000492,Powys 017D,W06000023,Powys,6,7,7,7,8,9,1,3,1,Mid and South West Wales
+W01001178,Rhondda Cynon Taf 023A,W06000016,Rhondda Cynon Taf,5,4,4,3,5,6,5,7,7,South East Wales
+W01000293,Flintshire 004D,W06000005,Flintshire,4,5,5,4,3,2,2,4,4,North Wales
+W01000332,Flintshire 009A,W06000005,Flintshire,4,5,6,4,3,2,2,1,2,North Wales
+W01000406,Wrexham 013C,W06000006,Wrexham,2,2,3,3,1,4,3,10,3,North Wales
+W01001242,Rhondda Cynon Taf 030D,W06000016,Rhondda Cynon Taf,8,9,6,6,9,9,10,4,3,South East Wales
+W01001515,Torfaen 006B,W06000020,Torfaen,7,7,7,6,7,9,2,6,3,South East Wales
+W01001080,The Vale of Glamorgan 012F,W06000014,Vale of Glamorgan,3,2,3,3,3,9,4,2,2,South East Wales
+W01001145,Rhondda Cynon Taf 012C,W06000016,Rhondda Cynon Taf,3,3,4,2,4,5,3,6,4,South East Wales
+W01000386,Wrexham 015A,W06000006,Wrexham,4,4,4,2,3,8,7,9,3,North Wales
+W01000286,Flintshire 013E,W06000005,Flintshire,10,10,10,10,9,9,10,4,7,North Wales
+W01001392,Caerphilly 009D,W06000018,Caerphilly,8,8,6,6,7,8,8,7,6,South East Wales
+W01000402,Wrexham 011D,W06000006,Wrexham,4,5,6,5,5,6,1,9,1,North Wales
+W01000303,Flintshire 018A,W06000005,Flintshire,10,10,10,10,10,5,10,9,10,North Wales
+W01000983,Bridgend 015B,W06000013,Bridgend,9,7,9,7,8,8,10,6,10,South East Wales
+W01001565,Monmouthshire 006D,W06000021,Monmouthshire,8,9,9,9,10,1,3,4,8,South East Wales
+W01001154,Rhondda Cynon Taf 003D,W06000016,Rhondda Cynon Taf,3,3,2,2,4,4,5,6,6,South East Wales
+W01001273,Rhondda Cynon Taf 010E,W06000016,Rhondda Cynon Taf,5,5,3,5,7,9,3,2,8,South East Wales
+W01000419,Wrexham 016D,W06000006,Wrexham,4,4,5,4,6,3,8,6,4,North Wales
+W01001633,Newport 019A,W06000022,Newport,1,1,3,1,1,3,6,3,1,South East Wales
+W01001177,Rhondda Cynon Taf 009B,W06000016,Rhondda Cynon Taf,3,3,2,3,5,5,2,5,7,South East Wales
+W01000516,Ceredigion 003B,W06000008,Ceredigion,4,3,4,3,3,3,4,10,5,Mid and South West Wales
+W01000655,Carmarthenshire 020C,W06000010,Carmarthenshire,2,2,3,3,2,3,4,3,5,Mid and South West Wales
+W01001105,The Vale of Glamorgan 001A,W06000014,Vale of Glamorgan,9,10,10,10,10,1,8,7,9,South East Wales
+W01000677,Carmarthenshire 004B,W06000010,Carmarthenshire,4,3,3,5,6,9,3,3,7,Mid and South West Wales
+W01001360,Caerphilly 002A,W06000018,Caerphilly,5,6,5,4,5,5,2,10,4,South East Wales
+W01001646,Newport 015E,W06000022,Newport,1,2,3,2,1,3,4,1,1,South East Wales
+W01001691,Newport 011D,W06000022,Newport,1,2,2,1,3,6,1,1,1,South East Wales
+W01000894,Neath Port Talbot 013A,W06000012,Neath Port Talbot,4,5,3,4,4,4,4,3,6,Mid and South West Wales
+W01001025,Bridgend 003D,W06000013,Bridgend,4,4,4,2,3,10,4,5,5,South East Wales
+W01001185,Rhondda Cynon Taf 022A,W06000016,Rhondda Cynon Taf,3,3,2,2,2,7,6,3,7,South East Wales
+W01001446,Blaenau Gwent 002A,W06000019,Blaenau Gwent,5,6,5,4,4,9,6,3,3,South East Wales
+W01001703,Cardiff 045B,W06000015,Cardiff,1,1,1,1,1,4,4,4,4,South East Wales
+W01001737,Cardiff 039A,W06000015,Cardiff,1,1,1,1,1,2,1,2,1,South East Wales
+W01001259,Rhondda Cynon Taf 018E,W06000016,Rhondda Cynon Taf,3,3,3,3,3,7,3,7,5,South East Wales
+W01001044,Bridgend 019C,W06000013,Bridgend,4,3,3,3,5,5,8,6,5,South East Wales
+W01000752,Swansea 002C,W06000011,Swansea,2,2,2,2,2,5,3,10,5,Mid and South West Wales
+W01000560,Pembrokeshire 001C,W06000009,Pembrokeshire,6,8,7,8,8,1,1,8,9,Mid and South West Wales
+W01001272,Rhondda Cynon Taf 010D,W06000016,Rhondda Cynon Taf,3,3,2,4,3,6,4,4,7,South East Wales
+W01000598,Pembrokeshire 009C,W06000009,Pembrokeshire,6,5,5,6,4,10,10,8,6,Mid and South West Wales
+W01001149,Rhondda Cynon Taf 003A,W06000016,Rhondda Cynon Taf,4,4,3,4,4,6,4,6,3,South East Wales
+W01001746,Cardiff 041D,W06000015,Cardiff,1,1,1,2,2,5,3,1,1,South East Wales
+W01001213,Rhondda Cynon Taf 011A,W06000016,Rhondda Cynon Taf,4,4,3,3,5,10,2,1,4,South East Wales
+W01001190,Rhondda Cynon Taf 029D,W06000016,Rhondda Cynon Taf,9,9,9,8,8,8,9,1,7,South East Wales
+W01001319,Merthyr Tydfil 007B,W06000024,Merthyr Tydfil,9,9,9,8,8,5,9,6,10,South East Wales
+W01000814,Swansea 008E,W06000011,Swansea,2,2,2,1,2,4,2,5,2,Mid and South West Wales
+W01000307,Flintshire 020B,W06000005,Flintshire,10,10,10,9,9,7,7,9,5,North Wales
+W01000317,Flintshire 016E,W06000005,Flintshire,10,10,10,10,10,10,10,10,10,North Wales
+W01000674,Carmarthenshire 027A,W06000010,Carmarthenshire,6,8,9,9,8,1,2,10,10,Mid and South West Wales
+W01000325,Flintshire 010D,W06000005,Flintshire,10,9,10,8,9,6,10,9,10,North Wales
+W01000387,Wrexham 008D,W06000006,Wrexham,10,10,9,9,9,10,9,8,7,North Wales
+W01001351,Caerphilly 005D,W06000018,Caerphilly,9,9,8,9,10,7,9,7,5,South East Wales
+W01001357,Caerphilly 006B,W06000018,Caerphilly,9,8,8,7,7,8,9,5,7,South East Wales
+W01001497,Torfaen 011A,W06000020,Torfaen,3,3,3,3,3,8,6,4,2,South East Wales
+W01001785,Cardiff 023A,W06000015,Cardiff,1,1,2,2,2,7,5,1,3,South East Wales
+W01001867,Cardiff 016B,W06000015,Cardiff,1,1,2,1,1,4,4,2,1,South East Wales
+W01001881,Cardiff 013C,W06000015,Cardiff,1,1,1,1,2,4,8,3,1,South East Wales
+W01000713,Carmarthenshire 015E,W06000010,Carmarthenshire,6,6,4,5,6,7,6,6,10,Mid and South West Wales
+W01001541,Torfaen 004F,W06000020,Torfaen,3,4,4,3,4,2,2,6,4,South East Wales
+W01001592,Monmouthshire 008D,W06000021,Monmouthshire,3,2,4,2,3,3,7,4,5,South East Wales
+W01000098,Gwynedd 006C,W06000002,Gwynedd,1,1,1,2,1,2,4,10,2,North Wales
+W01000897,Neath Port Talbot 013D,W06000012,Neath Port Talbot,2,3,2,2,1,4,2,1,2,Mid and South West Wales
+W01000239,Denbighshire 004D,W06000004,Denbighshire,1,1,1,1,1,2,1,5,1,North Wales
+W01000925,Neath Port Talbot 003B,W06000012,Neath Port Talbot,2,3,3,2,2,3,6,1,7,Mid and South West Wales
+W01001812,Cardiff 017C,W06000015,Cardiff,3,2,5,5,3,4,4,3,5,South East Wales
+W01000936,Neath Port Talbot 012A,W06000012,Neath Port Talbot,2,1,2,3,1,3,5,2,5,Mid and South West Wales
+W01001220,Rhondda Cynon Taf 018D,W06000016,Rhondda Cynon Taf,4,4,4,4,3,8,3,5,4,South East Wales
+W01001581,Monmouthshire 005E,W06000021,Monmouthshire,8,9,9,9,9,2,7,4,9,South East Wales
+W01000241,Denbighshire 004F,W06000004,Denbighshire,1,1,1,1,1,5,2,5,1,North Wales
+W01000151,Conwy 005C,W06000003,Conwy,3,3,4,3,3,4,8,3,3,North Wales
+W01000951,Neath Port Talbot 018C,W06000012,Neath Port Talbot,2,3,2,2,4,6,1,2,2,Mid and South West Wales
+W01001234,Rhondda Cynon Taf 021E,W06000016,Rhondda Cynon Taf,4,5,5,3,5,3,4,3,4,South East Wales
+W01000353,Wrexham 010B,W06000006,Wrexham,1,1,2,1,1,5,4,8,1,North Wales
+W01001262,Rhondda Cynon Taf 022D,W06000016,Rhondda Cynon Taf,4,5,6,3,3,4,1,3,3,South East Wales
+W01000414,Wrexham 010D,W06000006,Wrexham,1,1,2,1,1,3,5,9,1,North Wales
+W01000504,Powys 021D,W06000023,Powys,1,1,1,1,2,4,8,10,3,Mid and South West Wales
+W01000804,Swansea 028C,W06000011,Swansea,10,10,10,10,10,7,10,5,9,Mid and South West Wales
+W01000860,Swansea 027C,W06000011,Swansea,10,10,10,10,10,8,9,6,9,Mid and South West Wales
+W01001036,Bridgend 017D,W06000013,Bridgend,10,9,9,9,10,7,10,7,5,South East Wales
+W01001571,Monmouthshire 001D,W06000021,Monmouthshire,7,8,6,8,9,1,6,8,6,South East Wales
+W01001626,Newport 001D,W06000022,Newport,8,7,5,8,8,10,10,4,3,South East Wales
+W01000820,Swansea 009D,W06000011,Swansea,6,6,4,4,6,9,7,5,5,Mid and South West Wales
+W01001297,Merthyr Tydfil 002C,W06000024,Merthyr Tydfil,4,5,4,3,4,6,2,4,5,South East Wales
+W01001677,Newport 007C,W06000022,Newport,7,7,9,7,6,10,5,1,3,South East Wales
+W01000184,Conwy 005E,W06000003,Conwy,3,3,3,2,3,5,8,2,2,North Wales
+W01000199,Denbighshire 011C,W06000004,Denbighshire,3,4,4,6,3,2,2,8,2,North Wales
+W01001305,Merthyr Tydfil 003C,W06000024,Merthyr Tydfil,4,6,3,5,6,6,3,1,3,South East Wales
+W01001415,Caerphilly 008B,W06000018,Caerphilly,4,5,3,2,5,7,5,5,6,South East Wales
+W01000352,Wrexham 010A,W06000006,Wrexham,3,3,3,2,3,6,8,6,2,North Wales
+W01001722,Cardiff 028D,W06000015,Cardiff,7,9,10,7,7,5,1,1,7,South East Wales
+W01000973,Neath Port Talbot 020F,W06000012,Neath Port Talbot,2,3,2,2,3,7,6,2,5,Mid and South West Wales
+W01000738,Swansea 014A,W06000011,Swansea,1,1,1,1,1,4,4,9,4,Mid and South West Wales
+W01000863,Swansea 019B,W06000011,Swansea,1,1,1,1,1,2,4,6,3,Mid and South West Wales
+W01001858,Cardiff 034A,W06000015,Cardiff,7,7,8,8,10,7,3,1,3,South East Wales
+W01000847,Swansea 001C,W06000011,Swansea,6,6,5,6,6,4,5,1,6,Mid and South West Wales
+W01001637,Newport 016B,W06000022,Newport,8,8,9,7,8,8,6,2,6,South East Wales
+W01000373,Wrexham 005B,W06000006,Wrexham,3,2,3,3,2,7,4,10,3,North Wales
+W01001775,Cardiff 021B,W06000015,Cardiff,8,8,8,7,8,10,6,1,7,South East Wales
+W01001423,Caerphilly 024B,W06000018,Caerphilly,9,10,9,7,9,8,8,1,5,South East Wales
+W01001859,Cardiff 034B,W06000015,Cardiff,7,7,7,7,10,9,2,1,6,South East Wales
+W01000711,Carmarthenshire 021E,W06000010,Carmarthenshire,3,2,2,3,3,4,4,8,4,Mid and South West Wales
+W01001424,Caerphilly 024C,W06000018,Caerphilly,4,4,5,4,5,6,2,4,2,South East Wales
+W01001440,Blaenau Gwent 001A,W06000019,Blaenau Gwent,4,3,3,5,3,6,6,7,5,South East Wales
+W01001709,Cardiff 040A,W06000015,Cardiff,5,5,6,6,7,7,2,1,4,South East Wales
+W01001180,Rhondda Cynon Taf 015A,W06000016,Rhondda Cynon Taf,1,1,1,1,1,2,6,8,4,South East Wales
+W01001426,Caerphilly 024E,W06000018,Caerphilly,9,9,8,10,9,9,9,4,3,South East Wales
+W01001450,Blaenau Gwent 007A,W06000019,Blaenau Gwent,4,4,3,4,5,6,4,5,4,South East Wales
+W01001221,Rhondda Cynon Taf 001D,W06000016,Rhondda Cynon Taf,1,1,1,1,1,4,8,5,4,South East Wales
+W01001522,Torfaen 007D,W06000020,Torfaen,4,4,3,3,5,5,7,3,3,South East Wales
+W01001789,Cardiff 023E,W06000015,Cardiff,8,8,7,7,8,10,6,1,4,South East Wales
+W01000750,Swansea 002A,W06000011,Swansea,3,3,2,3,3,5,6,9,7,Mid and South West Wales
+W01000999,Bridgend 010A,W06000013,Bridgend,3,3,3,3,2,5,8,8,7,South East Wales
+W01001239,Rhondda Cynon Taf 026B,W06000016,Rhondda Cynon Taf,1,1,1,1,1,4,8,6,4,South East Wales
+W01001067,The Vale of Glamorgan 009A,W06000014,Vale of Glamorgan,2,1,2,1,2,4,9,3,4,South East Wales
+W01001527,Torfaen 010C,W06000020,Torfaen,4,3,3,3,7,7,7,5,3,South East Wales
+W01001927,Conwy 010G,W06000003,Conwy,5,4,5,5,5,4,10,4,6,North Wales
+W01000027,Isle of Anglesey 009C,W06000001,Isle of Anglesey,5,6,7,6,6,2,2,9,8,North Wales
+W01001020,Bridgend 002E,W06000013,Bridgend,3,3,2,2,4,5,7,2,5,South East Wales
+W01001255,Rhondda Cynon Taf 023E,W06000016,Rhondda Cynon Taf,1,2,1,1,1,3,7,5,4,South East Wales
+W01001070,The Vale of Glamorgan 009C,W06000014,Vale of Glamorgan,2,2,2,3,3,6,1,3,2,South East Wales
+W01001210,Rhondda Cynon Taf 008B,W06000016,Rhondda Cynon Taf,2,3,1,2,1,6,3,8,7,South East Wales
+W01000078,Gwynedd 011C,W06000002,Gwynedd,5,4,6,7,6,1,2,10,7,North Wales
+W01001632,Newport 017D,W06000022,Newport,4,3,4,4,3,4,8,4,2,South East Wales
+W01001140,Rhondda Cynon Taf 005D,W06000016,Rhondda Cynon Taf,3,3,2,4,2,5,3,5,4,South East Wales
+W01001167,Rhondda Cynon Taf 016B,W06000016,Rhondda Cynon Taf,3,4,3,4,3,5,3,6,4,South East Wales
+W01000233,Denbighshire 017C,W06000004,Denbighshire,5,4,5,3,5,9,5,10,5,North Wales
+W01001536,Torfaen 009C,W06000020,Torfaen,1,1,2,1,2,4,6,8,2,South East Wales
+W01001217,Rhondda Cynon Taf 018A,W06000016,Rhondda Cynon Taf,2,2,2,2,2,7,3,7,3,South East Wales
+W01001652,Newport 002B,W06000022,Newport,1,1,1,1,1,3,8,5,2,South East Wales
+W01001434,Caerphilly 013F,W06000018,Caerphilly,9,10,9,8,10,6,9,2,2,South East Wales
+W01001650,Newport 004E,W06000022,Newport,4,4,5,4,3,7,8,5,5,South East Wales
+W01001661,Newport 018C,W06000022,Newport,1,1,2,1,1,2,1,2,1,South East Wales
+W01001681,Newport 006B,W06000022,Newport,1,1,2,2,3,3,2,1,1,South East Wales
+W01000546,Ceredigion 009F,W06000008,Ceredigion,5,5,5,7,7,2,2,7,7,Mid and South West Wales
+W01001282,Rhondda Cynon Taf 015C,W06000016,Rhondda Cynon Taf,2,2,2,2,2,5,2,6,5,South East Wales
+W01001688,Newport 019C,W06000022,Newport,4,4,5,5,3,7,9,1,2,South East Wales
+W01001508,Torfaen 013C,W06000020,Torfaen,9,9,6,8,8,7,9,3,7,South East Wales
+W01001713,Cardiff 040E,W06000015,Cardiff,4,4,5,6,7,9,1,1,5,South East Wales
+W01000085,Gwynedd 017C,W06000002,Gwynedd,4,5,4,6,6,1,3,5,7,North Wales
+W01001181,Rhondda Cynon Taf 015B,W06000016,Rhondda Cynon Taf,3,3,2,2,3,3,6,8,4,South East Wales
+W01001687,Newport 014D,W06000022,Newport,1,2,1,3,2,5,1,2,1,South East Wales
+W01001271,Rhondda Cynon Taf 010C,W06000016,Rhondda Cynon Taf,3,3,2,2,3,5,2,5,4,South East Wales
+W01000132,Conwy 001A,W06000003,Conwy,4,4,2,6,6,9,5,5,4,North Wales
+W01001186,Rhondda Cynon Taf 001A,W06000016,Rhondda Cynon Taf,6,5,4,4,6,9,9,2,7,South East Wales
+W01001707,Cardiff 041C,W06000015,Cardiff,1,1,2,1,1,4,4,3,2,South East Wales
+W01001317,Merthyr Tydfil 005C,W06000024,Merthyr Tydfil,3,3,3,2,4,2,5,4,5,South East Wales
+W01001054,Bridgend 018F,W06000013,Bridgend,10,9,10,8,10,5,10,10,9,South East Wales
+W01001738,Cardiff 039B,W06000015,Cardiff,1,1,1,1,1,2,2,5,1,South East Wales
+W01000563,Pembrokeshire 011B,W06000009,Pembrokeshire,5,6,6,6,6,1,3,5,10,Mid and South West Wales
+W01000146,Conwy 001B,W06000003,Conwy,4,4,3,6,7,5,1,7,1,North Wales
+W01001315,Merthyr Tydfil 004D,W06000024,Merthyr Tydfil,2,4,2,4,4,4,1,2,1,South East Wales
+W01001742,Cardiff 043A,W06000015,Cardiff,1,1,1,1,1,4,1,2,1,South East Wales
+W01001808,Cardiff 007C,W06000015,Cardiff,1,1,2,1,1,5,4,1,2,South East Wales
+W01001856,Cardiff 042B,W06000015,Cardiff,1,2,2,1,2,3,1,1,2,South East Wales
+W01001378,Caerphilly 013B,W06000018,Caerphilly,3,3,3,4,3,6,4,7,3,South East Wales
+W01001884,Cardiff 013D,W06000015,Cardiff,1,1,1,1,1,2,9,4,1,South East Wales
+W01001377,Caerphilly 013A,W06000018,Caerphilly,6,6,5,6,5,9,5,6,4,South East Wales
+W01000168,Conwy 002B,W06000003,Conwy,4,3,3,5,3,5,3,6,4,North Wales
+W01001382,Caerphilly 010C,W06000018,Caerphilly,6,6,5,5,7,9,7,4,4,South East Wales
+W01000016,Isle of Anglesey 003A,W06000001,Isle of Anglesey,1,1,1,2,2,7,3,7,1,North Wales
+W01000144,Conwy 007C,W06000003,Conwy,1,1,1,1,2,5,1,10,1,North Wales
+W01001441,Blaenau Gwent 001B,W06000019,Blaenau Gwent,2,2,2,1,2,2,6,8,2,South East Wales
+W01001484,Torfaen 002C,W06000020,Torfaen,6,6,6,5,5,6,4,7,3,South East Wales
+W01000218,Denbighshire 001A,W06000004,Denbighshire,4,3,3,3,3,6,6,4,3,North Wales
+W01001387,Caerphilly 007C,W06000018,Caerphilly,3,3,3,3,3,5,2,6,3,South East Wales
+W01000229,Denbighshire 017E,W06000004,Denbighshire,4,3,2,4,4,4,8,8,8,North Wales
+W01000423,Wrexham 012D,W06000006,Wrexham,4,4,5,4,2,3,6,10,1,North Wales
+W01001467,Blaenau Gwent 005D,W06000019,Blaenau Gwent,2,2,3,1,2,3,4,8,1,South East Wales
+W01001865,Cardiff 022C,W06000015,Cardiff,8,8,8,7,6,8,7,1,4,South East Wales
+W01001429,Caerphilly 001F,W06000018,Caerphilly,3,3,2,4,5,6,6,3,1,South East Wales
+W01000621,Pembrokeshire 016D,W06000009,Pembrokeshire,5,6,6,6,5,2,5,4,2,Mid and South West Wales
+W01001588,Monmouthshire 010D,W06000021,Monmouthshire,9,9,8,7,8,9,9,2,7,South East Wales
+W01000632,Carmarthenshire 021A,W06000010,Carmarthenshire,5,4,3,7,5,8,6,4,4,Mid and South West Wales
+W01000533,Ceredigion 010D,W06000008,Ceredigion,4,4,4,7,6,2,4,9,6,Mid and South West Wales
+W01001444,Blaenau Gwent 005B,W06000019,Blaenau Gwent,3,3,3,3,2,6,7,3,3,South East Wales
+W01001599,Monmouthshire 004F,W06000021,Monmouthshire,6,5,7,7,4,3,8,2,6,South East Wales
+W01001471,Blaenau Gwent 001E,W06000019,Blaenau Gwent,2,2,2,2,1,4,6,4,4,South East Wales
+W01000236,Denbighshire 006A,W06000004,Denbighshire,1,1,1,1,2,4,2,2,1,North Wales
+W01001806,Cardiff 015D,W06000015,Cardiff,6,6,6,6,5,6,5,3,3,South East Wales
+W01000683,Carmarthenshire 005C,W06000010,Carmarthenshire,4,6,6,9,7,1,1,8,10,Mid and South West Wales
+W01000773,Swansea 005A,W06000011,Swansea,4,5,4,2,6,8,4,5,4,Mid and South West Wales
+W01000931,Neath Port Talbot 020E,W06000012,Neath Port Talbot,4,4,3,3,4,8,2,7,7,Mid and South West Wales
+W01000995,Bridgend 001E,W06000013,Bridgend,4,4,4,3,4,8,3,3,5,South East Wales
+W01001501,Torfaen 009A,W06000020,Torfaen,2,2,2,2,1,5,7,8,2,South East Wales
+W01001663,Newport 008C,W06000022,Newport,2,2,5,3,1,5,8,1,1,South East Wales
+W01001690,Newport 013D,W06000022,Newport,2,3,4,4,2,7,1,1,2,South East Wales
+W01001013,Bridgend 005B,W06000013,Bridgend,4,4,3,3,5,4,9,7,9,South East Wales
+W01001539,Torfaen 009E,W06000020,Torfaen,3,3,4,2,1,7,5,7,3,South East Wales
+W01001148,Rhondda Cynon Taf 002A,W06000016,Rhondda Cynon Taf,4,4,3,5,5,8,1,1,2,South East Wales
+W01001628,Newport 001F,W06000022,Newport,3,2,2,4,6,5,9,3,4,South East Wales
+W01000304,Flintshire 003E,W06000005,Flintshire,1,1,1,2,1,8,4,10,1,North Wales
+W01001639,Newport 004A,W06000022,Newport,9,9,10,10,10,7,10,2,6,South East Wales
+W01001761,Cardiff 046C,W06000015,Cardiff,2,2,3,2,3,5,1,1,4,South East Wales
+W01001651,Newport 002A,W06000022,Newport,9,10,9,9,8,8,9,2,8,South East Wales
+W01001784,Cardiff 026F,W06000015,Cardiff,9,8,8,9,8,10,10,4,7,South East Wales
+W01001814,Cardiff 017E,W06000015,Cardiff,6,5,5,5,6,7,3,2,6,South East Wales
+W01000742,Swansea 016A,W06000011,Swansea,1,1,1,1,1,3,6,3,2,Mid and South West Wales
+W01000687,Carmarthenshire 004C,W06000010,Carmarthenshire,5,7,6,9,8,1,1,6,10,Mid and South West Wales
+W01000021,Isle of Anglesey 002C,W06000001,Isle of Anglesey,6,6,6,7,7,2,4,9,9,North Wales
+W01001805,Cardiff 015C,W06000015,Cardiff,3,3,4,3,2,4,6,2,2,South East Wales
+W01001082,The Vale of Glamorgan 002A,W06000014,Vale of Glamorgan,10,8,8,9,10,10,9,7,9,South East Wales
+W01000702,Carmarthenshire 001D,W06000010,Carmarthenshire,5,5,6,5,2,5,2,8,9,Mid and South West Wales
+W01001828,Cardiff 024D,W06000015,Cardiff,9,9,10,9,9,8,7,1,9,South East Wales
+W01001803,Cardiff 015A,W06000015,Cardiff,2,2,3,2,1,4,3,2,3,South East Wales
+W01001870,Cardiff 037A,W06000015,Cardiff,3,3,5,3,4,8,1,1,2,South East Wales
+W01001889,Cardiff 020B,W06000015,Cardiff,7,7,5,7,9,8,7,2,5,South East Wales
+W01001155,Rhondda Cynon Taf 002D,W06000016,Rhondda Cynon Taf,4,3,3,3,6,9,2,2,5,South East Wales
+W01001937,Ceredigion 001F,W06000008,Ceredigion,8,7,7,8,8,4,4,6,6,Mid and South West Wales
+W01001841,Cardiff 003A,W06000015,Cardiff,9,8,8,9,8,10,10,3,8,South East Wales
+W01000163,Conwy 009E,W06000003,Conwy,2,1,2,4,2,2,1,10,3,North Wales
+W01000857,Swansea 022E,W06000011,Swansea,5,4,4,4,9,6,5,5,8,Mid and South West Wales
+W01001068,The Vale of Glamorgan 009B,W06000014,Vale of Glamorgan,5,5,5,4,5,6,9,3,5,South East Wales
+W01000866,Swansea 019E,W06000011,Swansea,1,1,1,1,1,3,4,8,1,Mid and South West Wales
+W01001885,Cardiff 011D,W06000015,Cardiff,3,2,4,4,3,2,7,1,2,South East Wales
+W01001158,Rhondda Cynon Taf 028B,W06000016,Rhondda Cynon Taf,4,4,3,3,3,7,5,9,4,South East Wales
+W01000939,Neath Port Talbot 008D,W06000012,Neath Port Talbot,1,1,1,1,1,6,3,2,1,Mid and South West Wales
+W01001248,Rhondda Cynon Taf 016D,W06000016,Rhondda Cynon Taf,4,4,4,4,4,9,1,1,4,South East Wales
+W01000035,Isle of Anglesey 005E,W06000001,Isle of Anglesey,6,6,7,7,7,1,2,9,8,North Wales
+W01000105,Gwynedd 010C,W06000002,Gwynedd,6,7,7,6,4,9,2,4,6,North Wales
+W01000214,Denbighshire 002B,W06000004,Denbighshire,3,3,4,1,3,5,2,4,1,North Wales
+W01000108,Gwynedd 012D,W06000002,Gwynedd,6,5,6,6,6,8,4,7,3,North Wales
+W01000211,Denbighshire 012D,W06000004,Denbighshire,6,9,10,9,9,1,1,9,10,North Wales
+W01000186,Conwy 001E,W06000003,Conwy,2,3,3,2,2,4,5,4,1,North Wales
+W01000014,Isle of Anglesey 006C,W06000001,Isle of Anglesey,7,5,5,6,8,7,9,10,3,North Wales
+W01001131,The Vale of Glamorgan 008C,W06000014,Vale of Glamorgan,5,3,5,4,8,4,8,5,8,South East Wales
+W01000254,Flintshire 003B,W06000005,Flintshire,3,3,5,4,3,5,4,3,3,North Wales
+W01000234,Denbighshire 017G,W06000004,Denbighshire,2,1,2,1,2,3,7,9,4,North Wales
+W01000964,Neath Port Talbot 016F,W06000012,Neath Port Talbot,1,1,1,1,1,3,6,6,3,Mid and South West Wales
+W01000420,Wrexham 016E,W06000006,Wrexham,6,6,5,5,6,10,4,7,2,North Wales
+W01000263,Flintshire 017D,W06000005,Flintshire,3,2,3,3,3,4,8,9,4,North Wales
+W01001949,Cardiff 005F,W06000015,Cardiff,8,7,9,6,8,8,6,4,10,South East Wales
+W01000081,Gwynedd 005B,W06000002,Gwynedd,7,6,8,7,9,3,3,7,4,North Wales
+W01000382,Wrexham 012B,W06000006,Wrexham,2,2,2,2,2,6,8,10,1,North Wales
+W01000433,Powys 006A,W06000023,Powys,6,7,7,9,7,1,6,2,10,Mid and South West Wales
+W01001350,Caerphilly 009C,W06000018,Caerphilly,5,5,5,5,6,9,4,6,1,South East Wales
+W01001253,Rhondda Cynon Taf 023C,W06000016,Rhondda Cynon Taf,4,4,3,3,4,3,3,5,8,South East Wales
+W01000588,Pembrokeshire 010B,W06000009,Pembrokeshire,2,2,1,4,2,2,8,7,2,Mid and South West Wales
+W01000975,Bridgend 004A,W06000013,Bridgend,1,1,2,1,1,5,7,9,6,South East Wales
+W01000329,Flintshire 015D,W06000005,Flintshire,3,4,6,4,2,3,2,3,4,North Wales
+W01000348,Wrexham 006B,W06000006,Wrexham,3,3,4,3,3,6,3,10,3,North Wales
+W01001391,Caerphilly 006F,W06000018,Caerphilly,5,5,5,4,4,10,4,6,7,South East Wales
+W01001083,The Vale of Glamorgan 002B,W06000014,Vale of Glamorgan,10,10,10,10,10,2,10,6,10,South East Wales
+W01001567,Monmouthshire 005B,W06000021,Monmouthshire,5,7,6,7,6,1,1,4,6,South East Wales
+W01000072,Gwynedd 002B,W06000002,Gwynedd,8,7,7,9,9,6,3,10,7,North Wales
+W01000355,Wrexham 017B,W06000006,Wrexham,3,3,3,3,3,6,3,10,3,North Wales
+W01001086,The Vale of Glamorgan 006A,W06000014,Vale of Glamorgan,10,10,10,10,10,8,10,3,6,South East Wales
+W01000372,Wrexham 008C,W06000006,Wrexham,3,3,4,2,5,5,2,9,1,North Wales
+W01000604,Pembrokeshire 013E,W06000009,Pembrokeshire,2,2,3,2,1,4,5,7,5,Mid and South West Wales
+W01000084,Gwynedd 014D,W06000002,Gwynedd,8,9,9,10,8,1,2,9,10,North Wales
+W01001843,Cardiff 003C,W06000015,Cardiff,9,10,10,10,9,8,10,1,4,South East Wales
+W01000093,Gwynedd 006B,W06000002,Gwynedd,8,8,6,7,9,7,6,10,2,North Wales
+W01001055,Bridgend 007C,W06000013,Bridgend,1,2,2,1,1,7,5,6,5,South East Wales
+W01001278,Rhondda Cynon Taf 028E,W06000016,Rhondda Cynon Taf,4,4,5,3,2,9,3,4,4,South East Wales
+W01000688,Carmarthenshire 003B,W06000010,Carmarthenshire,3,3,3,6,4,1,2,7,10,Mid and South West Wales
+W01000442,Powys 004A,W06000023,Powys,6,8,9,8,8,1,3,7,9,Mid and South West Wales
+W01001913,Newport 020F,W06000022,Newport,9,9,10,10,8,8,9,1,4,South East Wales
+W01001290,Merthyr Tydfil 007A,W06000024,Merthyr Tydfil,4,4,4,3,3,4,3,6,7,South East Wales
+W01000670,Carmarthenshire 018A,W06000010,Carmarthenshire,2,2,1,3,2,6,4,7,5,Mid and South West Wales
+W01000232,Denbighshire 017B,W06000004,Denbighshire,7,4,6,3,7,9,9,10,7,North Wales
+W01000714,Carmarthenshire 013D,W06000010,Carmarthenshire,3,3,2,3,4,9,7,2,4,Mid and South West Wales
+W01000188,Conwy 002D,W06000003,Conwy,8,7,7,8,7,5,9,8,6,North Wales
+W01000893,Neath Port Talbot 003A,W06000012,Neath Port Talbot,3,4,3,4,3,6,3,2,6,Mid and South West Wales
+W01001725,Cardiff 032D,W06000015,Cardiff,5,10,10,10,2,3,1,1,7,South East Wales
+W01000060,Gwynedd 015B,W06000002,Gwynedd,5,7,8,8,8,1,1,5,9,North Wales
+W01001311,Merthyr Tydfil 002F,W06000024,Merthyr Tydfil,4,5,5,3,5,7,1,5,5,South East Wales
+W01000789,Swansea 016E,W06000011,Swansea,2,2,2,2,2,7,2,3,4,Mid and South West Wales
+W01001330,Caerphilly 018A,W06000018,Caerphilly,4,3,4,3,4,8,5,8,6,South East Wales
+W01000524,Ceredigion 005B,W06000008,Ceredigion,6,6,7,8,8,1,3,4,10,Mid and South West Wales
+W01000094,Gwynedd 012B,W06000002,Gwynedd,9,7,8,10,9,6,5,9,8,North Wales
+W01000811,Swansea 008B,W06000011,Swansea,2,3,2,2,2,6,3,4,2,Mid and South West Wales
+W01000251,Flintshire 013A,W06000005,Flintshire,7,5,6,6,6,10,7,7,6,North Wales
+W01000271,Flintshire 006C,W06000005,Flintshire,8,7,8,8,8,3,2,9,8,North Wales
+W01001219,Rhondda Cynon Taf 018C,W06000016,Rhondda Cynon Taf,1,1,1,1,1,6,2,2,3,South East Wales
+W01001280,Rhondda Cynon Taf 017E,W06000016,Rhondda Cynon Taf,1,1,1,1,1,2,3,5,5,South East Wales
+W01000106,Gwynedd 010D,W06000002,Gwynedd,9,9,9,9,9,6,8,9,3,North Wales
+W01001335,Caerphilly 005B,W06000018,Caerphilly,4,5,6,7,5,2,1,7,4,South East Wales
+W01000322,Flintshire 014E,W06000005,Flintshire,8,7,5,7,6,10,10,9,9,North Wales
+W01000272,Flintshire 006D,W06000005,Flintshire,9,10,9,9,9,2,5,6,9,North Wales
+W01001087,The Vale of Glamorgan 006B,W06000014,Vale of Glamorgan,10,9,10,10,10,10,9,1,8,South East Wales
+W01001288,Rhondda Cynon Taf 014G,W06000016,Rhondda Cynon Taf,1,1,1,2,2,4,3,2,3,South East Wales
+W01001042,Bridgend 004D,W06000013,Bridgend,3,4,3,3,4,9,1,7,6,South East Wales
+W01000066,Gwynedd 010A,W06000002,Gwynedd,5,7,7,7,9,1,1,6,10,North Wales
+W01000584,Pembrokeshire 014C,W06000009,Pembrokeshire,6,6,7,8,7,1,6,9,9,Mid and South West Wales
+W01000283,Flintshire 008E,W06000005,Flintshire,7,7,8,6,4,9,4,6,3,North Wales
+W01001365,Caerphilly 012C,W06000018,Caerphilly,4,4,3,4,4,8,3,5,3,South East Wales
+W01000340,Flintshire 002C,W06000005,Flintshire,9,9,9,9,8,3,6,10,9,North Wales
+W01001079,The Vale of Glamorgan 012E,W06000014,Vale of Glamorgan,3,2,2,3,3,8,2,3,3,South East Wales
+W01000865,Swansea 019D,W06000011,Swansea,2,2,3,2,2,6,3,9,2,Mid and South West Wales
+W01000620,Pembrokeshire 016C,W06000009,Pembrokeshire,6,5,7,9,5,5,5,5,1,Mid and South West Wales
+W01001384,Caerphilly 002C,W06000018,Caerphilly,4,5,4,3,4,7,3,7,1,South East Wales
+W01000430,Powys 015A,W06000023,Powys,7,9,9,9,8,1,3,9,8,Mid and South West Wales
+W01001445,Blaenau Gwent 005C,W06000019,Blaenau Gwent,4,5,3,3,5,8,2,9,3,South East Wales
+W01000940,Neath Port Talbot 008E,W06000012,Neath Port Talbot,2,1,2,2,2,3,5,7,5,Mid and South West Wales
+W01000390,Wrexham 020C,W06000006,Wrexham,8,8,8,5,7,3,9,9,5,North Wales
+W01000960,Neath Port Talbot 017F,W06000012,Neath Port Talbot,2,2,2,2,2,6,5,5,4,Mid and South West Wales
+W01001162,Rhondda Cynon Taf 025A,W06000016,Rhondda Cynon Taf,3,2,3,3,4,5,5,6,3,South East Wales
+W01001528,Torfaen 010D,W06000020,Torfaen,4,5,4,5,4,6,4,3,1,South East Wales
+W01000097,Gwynedd 003D,W06000002,Gwynedd,5,4,4,5,7,7,4,8,3,North Wales
+W01000961,Neath Port Talbot 016C,W06000012,Neath Port Talbot,2,2,2,2,1,4,6,4,6,Mid and South West Wales
+W01001200,Rhondda Cynon Taf 014A,W06000016,Rhondda Cynon Taf,3,4,3,3,3,7,3,4,3,South East Wales
+W01001243,Rhondda Cynon Taf 030E,W06000016,Rhondda Cynon Taf,3,3,2,2,6,6,7,4,4,South East Wales
+W01001760,Cardiff 046B,W06000015,Cardiff,4,4,5,4,5,8,2,1,3,South East Wales
+W01000994,Bridgend 001D,W06000013,Bridgend,2,2,2,1,2,4,4,5,4,South East Wales
+W01000451,Powys 012B,W06000023,Powys,7,7,8,8,7,1,9,7,9,Mid and South West Wales
+W01001326,Caerphilly 003B,W06000018,Caerphilly,1,1,1,2,2,7,1,7,1,South East Wales
+W01001265,Rhondda Cynon Taf 007A,W06000016,Rhondda Cynon Taf,3,3,2,2,5,8,2,2,7,South East Wales
+W01001312,Merthyr Tydfil 006E,W06000024,Merthyr Tydfil,3,3,2,3,3,4,3,3,3,South East Wales
+W01001150,Rhondda Cynon Taf 003B,W06000016,Rhondda Cynon Taf,2,3,2,3,2,6,1,2,1,South East Wales
+W01001339,Caerphilly 004D,W06000018,Caerphilly,1,1,1,1,1,2,5,9,1,South East Wales
+W01000424,Wrexham 012E,W06000006,Wrexham,5,6,6,5,3,8,3,10,2,North Wales
+W01001376,Caerphilly 001C,W06000018,Caerphilly,1,1,1,1,1,3,3,4,1,South East Wales
+W01001524,Torfaen 004D,W06000020,Torfaen,3,4,2,4,3,6,6,5,1,South East Wales
+W01001577,Monmouthshire 004E,W06000021,Monmouthshire,3,3,2,3,2,3,9,2,5,South East Wales
+W01000452,Powys 004B,W06000023,Powys,5,7,7,8,8,1,2,8,10,Mid and South West Wales
+W01000453,Powys 010B,W06000023,Powys,7,9,10,10,7,1,4,5,9,Mid and South West Wales
+W01001169,Rhondda Cynon Taf 004C,W06000016,Rhondda Cynon Taf,2,2,2,1,3,2,8,1,4,South East Wales
+W01001334,Caerphilly 005A,W06000018,Caerphilly,2,1,2,2,1,8,3,9,4,South East Wales
+W01001381,Caerphilly 010B,W06000018,Caerphilly,2,2,2,1,2,2,6,7,3,South East Wales
+W01001466,Blaenau Gwent 009C,W06000019,Blaenau Gwent,2,3,2,3,1,3,1,2,2,South East Wales
+W01001480,Blaenau Gwent 003E,W06000019,Blaenau Gwent,2,2,1,1,3,3,6,5,4,South East Wales
+W01001617,Newport 003A,W06000022,Newport,1,1,1,2,1,4,7,5,1,South East Wales
+W01000709,Carmarthenshire 004D,W06000010,Carmarthenshire,6,7,6,8,8,1,1,6,10,Mid and South West Wales
+W01001496,Torfaen 004B,W06000020,Torfaen,2,3,2,3,1,2,2,2,2,South East Wales
+W01000794,Swansea 010A,W06000011,Swansea,6,6,7,5,8,6,6,3,1,Mid and South West Wales
+W01001666,Newport 010B,W06000022,Newport,1,1,2,2,1,3,5,2,1,South East Wales
+W01001869,Cardiff 038A,W06000015,Cardiff,3,3,4,1,4,7,2,1,3,South East Wales
+W01000522,Ceredigion 010B,W06000008,Ceredigion,5,7,7,8,8,1,1,10,9,Mid and South West Wales
+W01001765,Cardiff 044B,W06000015,Cardiff,2,3,4,2,5,7,1,1,3,South East Wales
+W01001790,Cardiff 023F,W06000015,Cardiff,4,3,4,4,4,7,3,2,5,South East Wales
+W01000559,Pembrokeshire 001B,W06000009,Pembrokeshire,5,6,8,7,6,1,1,7,8,Mid and South West Wales
+W01001698,Cardiff 036E,W06000015,Cardiff,1,2,3,2,2,5,1,1,3,South East Wales
+W01001768,Cardiff 044E,W06000015,Cardiff,2,1,4,2,3,7,1,1,4,South East Wales
+W01001872,Cardiff 038B,W06000015,Cardiff,2,2,3,3,4,7,1,1,3,South East Wales
+W01000274,Flintshire 007B,W06000005,Flintshire,2,2,2,1,2,5,3,4,1,North Wales
+W01000278,Flintshire 007D,W06000005,Flintshire,2,2,2,1,2,5,4,6,3,North Wales
+W01000802,Swansea 007D,W06000011,Swansea,6,4,3,4,7,7,9,9,5,Mid and South West Wales
+W01000288,Flintshire 004A,W06000005,Flintshire,2,2,3,2,1,5,3,6,1,North Wales
+W01000576,Pembrokeshire 011D,W06000009,Pembrokeshire,5,6,6,6,5,2,5,2,9,Mid and South West Wales
+W01001816,Cardiff 009B,W06000015,Cardiff,4,2,3,5,4,8,4,2,4,South East Wales
+W01000594,Pembrokeshire 012E,W06000009,Pembrokeshire,2,2,2,3,2,6,4,5,2,Mid and South West Wales
+W01001898,Merthyr Tydfil 008F,W06000024,Merthyr Tydfil,3,4,3,4,3,1,9,9,5,South East Wales
+W01000693,Carmarthenshire 008C,W06000010,Carmarthenshire,5,5,4,6,6,2,8,8,7,Mid and South West Wales
+W01000707,Carmarthenshire 025D,W06000010,Carmarthenshire,2,2,2,1,1,6,4,4,5,Mid and South West Wales
+W01000474,Powys 020B,W06000023,Powys,7,9,9,8,8,1,5,6,8,Mid and South West Wales
+W01001096,The Vale of Glamorgan 007E,W06000014,Vale of Glamorgan,5,4,4,4,5,7,4,3,5,South East Wales
+W01000375,Wrexham 003B,W06000006,Wrexham,9,8,8,8,8,7,8,8,3,North Wales
+W01000394,Wrexham 016A,W06000006,Wrexham,8,10,10,9,7,1,6,8,4,North Wales
+W01000900,Neath Port Talbot 014C,W06000012,Neath Port Talbot,2,2,1,1,2,6,6,6,6,Mid and South West Wales
+W01001902,Powys 017G,W06000023,Powys,3,3,3,3,3,2,8,10,5,Mid and South West Wales
+W01001024,Bridgend 003C,W06000013,Bridgend,2,2,2,2,2,4,2,8,5,South East Wales
+W01000497,Powys 005D,W06000023,Powys,7,9,9,9,7,1,3,6,10,Mid and South West Wales
+W01001100,The Vale of Glamorgan 010C,W06000014,Vale of Glamorgan,10,9,8,9,9,9,10,6,9,South East Wales
+W01001141,Rhondda Cynon Taf 005E,W06000016,Rhondda Cynon Taf,2,2,2,3,2,4,1,4,5,South East Wales
+W01000444,Powys 002A,W06000023,Powys,9,9,8,10,8,2,7,10,10,Mid and South West Wales
+W01001212,Rhondda Cynon Taf 008D,W06000016,Rhondda Cynon Taf,2,2,2,2,2,5,7,5,7,South East Wales
+W01001129,The Vale of Glamorgan 004F,W06000014,Vale of Glamorgan,6,5,7,6,5,5,3,4,6,South East Wales
+W01000395,Wrexham 016B,W06000006,Wrexham,8,6,7,4,7,5,8,10,8,North Wales
+W01001268,Rhondda Cynon Taf 007D,W06000016,Rhondda Cynon Taf,2,2,2,3,1,7,2,1,4,South East Wales
+W01000503,Powys 020C,W06000023,Powys,7,9,10,10,10,1,4,3,10,Mid and South West Wales
+W01000476,Powys 005C,W06000023,Powys,9,9,9,8,9,5,3,7,10,Mid and South West Wales
+W01001103,The Vale of Glamorgan 010D,W06000014,Vale of Glamorgan,10,9,10,9,9,10,10,8,9,South East Wales
+W01000548,Ceredigion 001D,W06000008,Ceredigion,7,6,7,6,8,2,9,8,8,Mid and South West Wales
+W01001195,Rhondda Cynon Taf 030C,W06000016,Rhondda Cynon Taf,6,6,5,5,6,4,7,8,7,South East Wales
+W01001156,Rhondda Cynon Taf 003E,W06000016,Rhondda Cynon Taf,10,10,9,9,10,10,10,10,9,South East Wales
+W01001390,Caerphilly 006E,W06000018,Caerphilly,10,9,8,8,9,10,10,5,6,South East Wales
+W01000786,Swansea 007C,W06000011,Swansea,9,9,7,8,8,8,6,8,8,Mid and South West Wales
+W01000578,Pembrokeshire 014B,W06000009,Pembrokeshire,7,7,7,9,8,1,8,8,9,Mid and South West Wales
+W01001946,Cardiff 049C,W06000015,Cardiff,3,2,3,3,2,3,6,5,2,South East Wales
+W01000800,Swansea 006C,W06000011,Swansea,9,9,9,8,9,8,10,2,9,Mid and South West Wales
+W01000819,Swansea 009C,W06000011,Swansea,9,8,7,8,7,7,10,8,7,Mid and South West Wales
+W01001699,Cardiff 049A,W06000015,Cardiff,1,1,3,1,4,3,1,1,2,South East Wales
+W01001204,Rhondda Cynon Taf 006A,W06000016,Rhondda Cynon Taf,6,6,6,6,5,4,8,7,2,South East Wales
+W01001147,Rhondda Cynon Taf 004A,W06000016,Rhondda Cynon Taf,5,5,5,5,7,5,6,2,5,South East Wales
+W01001833,Cardiff 033D,W06000015,Cardiff,4,4,4,7,9,7,1,1,3,South East Wales
+W01000208,Denbighshire 016C,W06000004,Denbighshire,4,7,5,6,7,1,1,6,2,North Wales
+W01000298,Flintshire 001B,W06000005,Flintshire,3,3,3,3,3,2,4,8,7,North Wales
+W01001358,Caerphilly 006C,W06000018,Caerphilly,2,2,2,2,1,3,8,6,3,South East Wales
+W01001465,Blaenau Gwent 009B,W06000019,Blaenau Gwent,2,2,1,2,3,2,5,3,3,South East Wales
+W01000238,Denbighshire 006C,W06000004,Denbighshire,4,3,4,4,4,8,2,7,3,North Wales
+W01000438,Powys 012A,W06000023,Powys,4,5,3,5,5,1,9,8,9,Mid and South West Wales
+W01001529,Torfaen 003B,W06000020,Torfaen,2,3,2,3,3,7,4,2,2,South East Wales
+W01001708,Cardiff 045D,W06000015,Cardiff,1,1,1,1,2,5,5,4,2,South East Wales
+W01001538,Torfaen 009D,W06000020,Torfaen,2,1,2,3,1,5,6,4,3,South East Wales
+W01001618,Newport 003B,W06000022,Newport,2,2,1,2,1,4,8,4,1,South East Wales
+W01001512,Torfaen 005C,W06000020,Torfaen,10,10,10,9,9,9,10,4,10,South East Wales
+W01001241,Rhondda Cynon Taf 026D,W06000016,Rhondda Cynon Taf,6,6,6,7,5,5,3,3,10,South East Wales
+W01000445,Powys 015C,W06000023,Powys,8,9,8,9,8,1,4,9,10,Mid and South West Wales
+W01001740,Cardiff 039D,W06000015,Cardiff,1,1,1,1,1,3,3,3,3,South East Wales
+W01000485,Powys 011F,W06000023,Powys,8,8,8,7,8,2,9,5,10,Mid and South West Wales
+W01001766,Cardiff 044C,W06000015,Cardiff,2,2,5,2,2,7,1,1,5,South East Wales
+W01000392,Wrexham 003E,W06000006,Wrexham,3,3,3,1,2,5,5,10,4,North Wales
+W01001291,Merthyr Tydfil 003A,W06000024,Merthyr Tydfil,6,5,5,5,6,4,9,9,8,South East Wales
+W01000499,Powys 003B,W06000023,Powys,3,4,4,4,3,5,2,9,2,Mid and South West Wales
+W01000557,Pembrokeshire 014A,W06000009,Pembrokeshire,8,8,9,8,8,1,6,8,10,Mid and South West Wales
+W01001029,Bridgend 019A,W06000013,Bridgend,9,8,7,9,10,3,10,9,10,South East Wales
+W01001053,Bridgend 018E,W06000013,Bridgend,9,9,8,9,9,5,10,10,10,South East Wales
+W01000030,Isle of Anglesey 003D,W06000001,Isle of Anglesey,2,2,2,2,2,5,6,10,3,North Wales
+W01000982,Bridgend 016C,W06000013,Bridgend,7,5,6,6,7,10,8,3,6,South East Wales
+W01000610,Pembrokeshire 016A,W06000009,Pembrokeshire,8,8,8,7,8,2,9,5,8,Mid and South West Wales
+W01001373,Caerphilly 022C,W06000018,Caerphilly,5,6,6,6,7,9,2,1,2,South East Wales
+W01001638,Newport 016C,W06000022,Newport,10,10,10,10,10,9,10,6,7,South East Wales
+W01001028,Bridgend 014D,W06000013,Bridgend,7,6,5,6,9,7,8,3,2,South East Wales
+W01000842,Swansea 005D,W06000011,Swansea,8,7,7,5,6,5,7,9,9,Mid and South West Wales
+W01001059,The Vale of Glamorgan 015A,W06000014,Vale of Glamorgan,9,8,6,9,9,9,10,8,7,South East Wales
+W01001076,The Vale of Glamorgan 004B,W06000014,Vale of Glamorgan,7,6,7,6,6,6,2,5,7,South East Wales
+W01001383,Caerphilly 010D,W06000018,Caerphilly,5,4,5,4,6,8,3,2,2,South East Wales
+W01000672,Carmarthenshire 027E,W06000010,Carmarthenshire,4,5,5,5,6,1,1,5,8,Mid and South West Wales
+W01000938,Neath Port Talbot 008C,W06000012,Neath Port Talbot,8,7,5,6,8,9,7,7,7,Mid and South West Wales
+W01001030,Bridgend 019B,W06000013,Bridgend,8,7,5,6,10,10,9,6,5,South East Wales
+W01001727,Cardiff 014A,W06000015,Cardiff,10,10,8,9,10,9,10,5,6,South East Wales
+W01001369,Caerphilly 012D,W06000018,Caerphilly,6,6,6,6,6,4,7,4,5,South East Wales
+W01001047,Bridgend 018D,W06000013,Bridgend,8,6,5,6,9,8,8,8,6,South East Wales
+W01001370,Caerphilly 023A,W06000018,Caerphilly,6,6,6,4,7,6,8,3,3,South East Wales
+W01001124,The Vale of Glamorgan 005C,W06000014,Vale of Glamorgan,8,7,7,8,9,10,2,5,6,South East Wales
+W01000912,Neath Port Talbot 010A,W06000012,Neath Port Talbot,4,3,3,3,6,9,2,4,6,Mid and South West Wales
+W01001411,Caerphilly 017A,W06000018,Caerphilly,5,5,4,5,5,9,4,3,4,South East Wales
+W01001499,Torfaen 011C,W06000020,Torfaen,7,6,6,6,5,10,10,6,6,South East Wales
+W01001257,Rhondda Cynon Taf 019D,W06000016,Rhondda Cynon Taf,8,7,5,6,9,8,7,7,9,South East Wales
+W01001625,Newport 001C,W06000022,Newport,7,8,8,9,10,7,8,1,1,South East Wales
+W01001078,The Vale of Glamorgan 004D,W06000014,Vale of Glamorgan,9,8,8,8,9,9,8,5,9,South East Wales
+W01001085,The Vale of Glamorgan 002D,W06000014,Vale of Glamorgan,9,10,10,10,10,2,10,8,10,South East Wales
+W01001728,Cardiff 014B,W06000015,Cardiff,10,10,10,10,10,10,10,4,10,South East Wales
+W01001818,Cardiff 009D,W06000015,Cardiff,7,4,7,6,6,9,5,2,8,South East Wales
+W01001534,Torfaen 012C,W06000020,Torfaen,6,5,5,5,6,5,9,4,5,South East Wales
+W01000658,Carmarthenshire 010C,W06000010,Carmarthenshire,3,4,2,4,4,5,6,2,5,Mid and South West Wales
+W01001113,The Vale of Glamorgan 003A,W06000014,Vale of Glamorgan,9,10,10,10,10,1,6,6,7,South East Wales
+W01001379,Caerphilly 013C,W06000018,Caerphilly,8,6,6,6,7,10,10,5,8,South East Wales
+W01001540,Torfaen 004E,W06000020,Torfaen,6,7,6,5,6,8,2,6,3,South East Wales
+W01001409,Caerphilly 016C,W06000018,Caerphilly,8,7,7,7,8,8,5,6,3,South East Wales
+W01001840,Cardiff 007D,W06000015,Cardiff,7,6,6,6,6,8,10,2,4,South East Wales
+W01001442,Blaenau Gwent 001C,W06000019,Blaenau Gwent,8,8,7,7,8,10,6,4,3,South East Wales
+W01000083,Gwynedd 015D,W06000002,Gwynedd,7,9,10,10,10,1,1,9,8,North Wales
+W01001783,Cardiff 026E,W06000015,Cardiff,10,9,10,10,10,10,10,3,9,South East Wales
+W01001795,Cardiff 002B,W06000015,Cardiff,10,10,10,10,10,10,10,3,10,South East Wales
+W01001564,Monmouthshire 003D,W06000021,Monmouthshire,6,7,6,7,8,2,9,3,4,South East Wales
+W01001123,The Vale of Glamorgan 005B,W06000014,Vale of Glamorgan,9,8,8,9,10,9,7,7,6,South East Wales
+W01001412,Caerphilly 017B,W06000018,Caerphilly,5,5,4,5,6,10,7,2,2,South East Wales
+W01001127,The Vale of Glamorgan 001B,W06000014,Vale of Glamorgan,9,10,9,10,10,2,9,10,9,South East Wales
+W01001846,Cardiff 006C,W06000015,Cardiff,10,10,10,10,10,6,10,2,10,South East Wales
+W01000681,Carmarthenshire 011B,W06000010,Carmarthenshire,3,3,3,4,4,2,6,1,6,Mid and South West Wales
+W01001613,Newport 011C,W06000022,Newport,6,6,7,6,7,10,2,1,6,South East Wales
+W01000115,Gwynedd 003E,W06000002,Gwynedd,7,7,7,9,9,2,2,7,5,North Wales
+W01001563,Monmouthshire 003C,W06000021,Monmouthshire,8,5,7,7,7,8,9,8,10,South East Wales
+W01001569,Monmouthshire 003E,W06000021,Monmouthshire,8,8,7,8,8,2,7,9,7,South East Wales
+W01001847,Cardiff 006D,W06000015,Cardiff,10,10,10,10,10,9,10,2,10,South East Wales
+W01001218,Rhondda Cynon Taf 018B,W06000016,Rhondda Cynon Taf,4,4,4,5,4,9,3,2,4,South East Wales
+W01001836,Cardiff 030B,W06000015,Cardiff,6,7,8,7,10,8,1,2,3,South East Wales
+W01001849,Cardiff 004A,W06000015,Cardiff,10,10,9,10,10,7,9,3,10,South East Wales
+W01001855,Cardiff 042A,W06000015,Cardiff,1,1,3,1,3,4,1,1,3,South East Wales
+W01001850,Cardiff 012C,W06000015,Cardiff,10,10,10,10,10,10,10,2,8,South East Wales
+W01001521,Torfaen 007C,W06000020,Torfaen,5,4,4,4,4,9,7,3,3,South East Wales
+W01001284,Rhondda Cynon Taf 015E,W06000016,Rhondda Cynon Taf,9,9,8,6,7,6,10,8,10,South East Wales
+W01000881,Swansea 029C,W06000011,Swansea,3,2,1,4,7,6,8,9,5,Mid and South West Wales
+W01001579,Monmouthshire 001E,W06000021,Monmouthshire,8,9,7,9,10,3,9,2,4,South East Wales
+W01001871,Cardiff 037B,W06000015,Cardiff,1,1,1,1,1,4,2,1,1,South East Wales
+W01001608,Newport 008B,W06000022,Newport,8,8,7,8,7,10,6,1,6,South East Wales
+W01001873,Cardiff 038C,W06000015,Cardiff,1,1,2,1,3,5,1,1,2,South East Wales
+W01001021,Bridgend 014A,W06000013,Bridgend,3,3,3,3,4,4,2,3,1,South East Wales
+W01001557,Monmouthshire 001C,W06000021,Monmouthshire,5,5,4,5,8,7,4,3,1,South East Wales
+W01001611,Newport 011A,W06000022,Newport,5,4,5,7,6,9,2,1,4,South East Wales
+W01001907,Powys 001G,W06000023,Powys,6,8,10,10,7,1,2,7,10,Mid and South West Wales
+W01000335,Flintshire 009D,W06000005,Flintshire,2,2,3,2,1,5,6,8,3,North Wales
+W01001675,Newport 007A,W06000022,Newport,5,6,6,6,6,9,2,1,4,South East Wales
+W01001897,Powys 020D,W06000023,Powys,8,9,9,9,9,1,8,5,8,Mid and South West Wales
+W01001874,Cardiff 038D,W06000015,Cardiff,1,1,1,1,1,2,1,1,1,South East Wales
+W01000483,Powys 009C,W06000023,Powys,2,2,2,2,2,3,5,5,2,Mid and South West Wales
+W01001880,Cardiff 013B,W06000015,Cardiff,1,1,1,1,1,3,8,1,4,South East Wales
+W01000638,Carmarthenshire 007B,W06000010,Carmarthenshire,2,2,2,3,2,3,6,6,6,Mid and South West Wales
+W01000187,Conwy 002C,W06000003,Conwy,1,1,1,1,2,3,6,7,1,North Wales
+W01001270,Rhondda Cynon Taf 010B,W06000016,Rhondda Cynon Taf,4,4,4,5,6,9,4,1,3,South East Wales
+W01001904,Powys 018G,W06000023,Powys,8,10,10,10,10,1,3,7,8,Mid and South West Wales
+W01001340,Caerphilly 020A,W06000018,Caerphilly,9,9,9,7,8,7,9,5,8,South East Wales
+W01000128,Conwy 009C,W06000003,Conwy,7,5,5,6,9,9,5,10,3,North Wales
+W01000099,Gwynedd 005C,W06000002,Gwynedd,8,7,8,7,10,2,5,10,8,North Wales
+W01001896,Cardiff 020E,W06000015,Cardiff,10,10,10,10,10,10,6,3,6,South East Wales
+W01001057,Bridgend 006B,W06000013,Bridgend,3,3,3,1,4,7,8,3,4,South East Wales
+W01001912,Newport 020E,W06000022,Newport,6,9,8,6,9,1,10,1,4,South East Wales
+W01000659,Carmarthenshire 026A,W06000010,Carmarthenshire,2,2,2,2,1,2,1,2,2,Mid and South West Wales
+W01000255,Flintshire 015A,W06000005,Flintshire,8,7,9,8,6,8,6,3,4,North Wales
+W01001405,Caerphilly 011E,W06000018,Caerphilly,4,3,4,5,4,6,7,5,5,South East Wales
+W01000733,Carmarthenshire 026E,W06000010,Carmarthenshire,1,1,1,1,1,3,3,2,1,Mid and South West Wales
+W01001413,Caerphilly 017C,W06000018,Caerphilly,4,4,4,3,3,6,4,2,3,South East Wales
+W01001517,Torfaen 006D,W06000020,Torfaen,9,9,9,7,8,9,6,4,7,South East Wales
+W01000196,Denbighshire 012B,W06000004,Denbighshire,10,9,9,7,8,10,6,10,8,North Wales
+W01000486,Powys 011G,W06000023,Powys,8,6,7,6,8,6,7,9,6,Mid and South West Wales
+W01000215,Denbighshire 002C,W06000004,Denbighshire,10,9,8,9,9,8,8,10,9,North Wales
+W01001518,Torfaen 006E,W06000020,Torfaen,9,9,8,8,8,7,9,5,8,South East Wales
+W01001545,Monmouthshire 001A,W06000021,Monmouthshire,9,9,7,9,10,5,9,3,9,South East Wales
+W01001572,Monmouthshire 011A,W06000021,Monmouthshire,9,8,7,8,9,10,10,2,7,South East Wales
+W01000729,Carmarthenshire 018C,W06000010,Carmarthenshire,2,2,2,2,1,5,5,7,7,Mid and South West Wales
+W01000734,Carmarthenshire 026F,W06000010,Carmarthenshire,1,2,1,2,1,4,1,3,1,Mid and South West Wales
+W01001809,Cardiff 017A,W06000015,Cardiff,5,6,5,4,5,4,3,3,8,South East Wales
+W01001558,Monmouthshire 002C,W06000021,Monmouthshire,4,4,3,4,6,3,7,7,4,South East Wales
+W01000812,Swansea 008C,W06000011,Swansea,1,1,1,2,3,5,2,4,1,Mid and South West Wales
+W01001622,Newport 003F,W06000022,Newport,4,5,4,2,3,6,8,6,2,South East Wales
+W01001706,Cardiff 041B,W06000015,Cardiff,4,4,3,4,5,8,4,1,4,South East Wales
+W01001817,Cardiff 009C,W06000015,Cardiff,5,5,6,2,6,8,7,1,8,South East Wales
+W01001792,Cardiff 005B,W06000015,Cardiff,4,3,3,5,5,4,5,3,5,South East Wales
+W01001624,Newport 001B,W06000022,Newport,9,10,10,10,10,10,10,1,7,South East Wales
+W01000896,Neath Port Talbot 013C,W06000012,Neath Port Talbot,1,1,1,1,1,2,3,9,5,Mid and South West Wales
+W01001635,Newport 016A,W06000022,Newport,9,9,7,8,10,7,10,4,6,South East Wales
+W01000622,Pembrokeshire 008E,W06000009,Pembrokeshire,8,9,8,10,8,1,7,5,7,Mid and South West Wales
+W01001657,Newport 020C,W06000022,Newport,9,10,10,10,10,3,10,1,4,South East Wales
+W01001772,Cardiff 021A,W06000015,Cardiff,9,9,8,8,10,9,7,1,9,South East Wales
+W01000642,Carmarthenshire 008B,W06000010,Carmarthenshire,8,8,7,5,9,5,9,5,5,Mid and South West Wales
+W01000962,Neath Port Talbot 016D,W06000012,Neath Port Talbot,1,1,1,1,1,3,4,4,4,Mid and South West Wales
+W01000762,Swansea 013C,W06000011,Swansea,2,1,2,2,1,5,4,5,1,Mid and South West Wales
+W01001064,The Vale of Glamorgan 013B,W06000014,Vale of Glamorgan,1,2,1,1,2,4,8,5,5,South East Wales
+W01001173,Rhondda Cynon Taf 020B,W06000016,Rhondda Cynon Taf,1,1,1,1,1,5,4,9,4,South East Wales
+W01000790,Swansea 016F,W06000011,Swansea,2,3,3,3,3,4,1,3,4,Mid and South West Wales
+W01001209,Rhondda Cynon Taf 008A,W06000016,Rhondda Cynon Taf,1,1,1,1,1,2,2,7,5,South East Wales
+W01001802,Cardiff 007A,W06000015,Cardiff,4,4,4,4,4,7,7,1,2,South East Wales
+W01001300,Merthyr Tydfil 008B,W06000024,Merthyr Tydfil,1,1,1,2,1,2,5,9,2,South East Wales
+W01001308,Merthyr Tydfil 008D,W06000024,Merthyr Tydfil,1,1,1,1,1,2,1,7,3,South East Wales
+W01001421,Caerphilly 022E,W06000018,Caerphilly,1,1,1,1,1,3,4,1,1,South East Wales
+W01000805,Swansea 028D,W06000011,Swansea,10,10,10,10,10,8,10,10,10,Mid and South West Wales
+W01000823,Swansea 031A,W06000011,Swansea,10,10,10,10,10,8,10,9,10,Mid and South West Wales
+W01000426,Powys 021A,W06000023,Powys,5,6,4,4,7,5,6,4,7,Mid and South West Wales
+W01000183,Conwy 008E,W06000003,Conwy,7,6,6,7,8,10,3,10,4,North Wales
+W01000826,Swansea 031D,W06000011,Swansea,10,10,9,10,10,5,9,10,7,Mid and South West Wales
+W01000103,Gwynedd 005D,W06000002,Gwynedd,6,6,6,7,8,2,5,10,6,North Wales
+W01000529,Ceredigion 007A,W06000008,Ceredigion,5,5,6,9,7,1,2,7,9,Mid and South West Wales
+W01000849,Swansea 021A,W06000011,Swansea,2,2,3,1,3,3,2,7,3,Mid and South West Wales
+W01000206,Denbighshire 013C,W06000004,Denbighshire,7,9,7,8,9,2,1,9,10,North Wales
+W01001235,Rhondda Cynon Taf 021F,W06000016,Rhondda Cynon Taf,3,2,4,2,4,4,7,3,5,South East Wales
+W01000797,Swansea 010B,W06000011,Swansea,8,7,5,6,7,9,9,6,8,Mid and South West Wales
+W01000517,Ceredigion 002D,W06000008,Ceredigion,6,8,7,7,9,3,1,9,1,Mid and South West Wales
+W01001473,Blaenau Gwent 003B,W06000019,Blaenau Gwent,1,1,1,1,1,2,7,5,1,South East Wales
+W01001336,Caerphilly 004A,W06000018,Caerphilly,3,4,2,2,5,6,6,8,2,South East Wales
+W01000538,Ceredigion 005C,W06000008,Ceredigion,6,8,8,7,8,1,2,7,9,Mid and South West Wales
+W01000543,Ceredigion 011C,W06000008,Ceredigion,5,7,7,9,8,1,1,5,8,Mid and South West Wales
+W01000941,Neath Port Talbot 012B,W06000012,Neath Port Talbot,2,2,2,4,2,4,6,7,3,Mid and South West Wales
+W01000647,Carmarthenshire 002A,W06000010,Carmarthenshire,5,7,7,10,7,1,1,5,9,Mid and South West Wales
+W01001659,Newport 018A,W06000022,Newport,1,1,1,1,1,3,1,1,1,South East Wales
+W01000028,Isle of Anglesey 001D,W06000001,Isle of Anglesey,4,5,5,6,5,1,2,7,9,North Wales
+W01001662,Newport 018D,W06000022,Newport,1,1,1,1,2,3,2,3,1,South East Wales
+W01001015,Bridgend 002B,W06000013,Bridgend,2,2,2,1,3,3,5,5,5,South East Wales
+W01001692,Newport 011E,W06000022,Newport,1,2,3,2,1,6,1,1,1,South East Wales
+W01001704,Cardiff 041A,W06000015,Cardiff,1,1,1,1,1,2,4,3,4,South East Wales
+W01001739,Cardiff 039C,W06000015,Cardiff,1,1,1,1,1,3,2,2,2,South East Wales
+W01001762,Cardiff 046D,W06000015,Cardiff,1,1,1,1,2,4,1,1,5,South East Wales
+W01001192,Rhondda Cynon Taf 031B,W06000016,Rhondda Cynon Taf,2,2,2,1,2,8,7,5,8,South East Wales
+W01001857,Cardiff 042C,W06000015,Cardiff,1,1,1,1,2,4,2,1,1,South East Wales
+W01001436,Blaenau Gwent 008B,W06000019,Blaenau Gwent,2,3,1,4,2,7,1,4,1,South East Wales
+W01001883,Cardiff 016C,W06000015,Cardiff,1,1,1,2,1,4,3,2,2,South East Wales
+W01000240,Denbighshire 004E,W06000004,Denbighshire,1,1,1,1,1,2,1,5,1,North Wales
+W01001362,Caerphilly 003C,W06000018,Caerphilly,3,4,2,3,4,7,3,6,3,South East Wales
+W01000801,Swansea 006D,W06000011,Swansea,1,1,1,1,1,4,7,6,4,Mid and South West Wales
+W01000832,Swansea 011B,W06000011,Swansea,1,1,1,1,1,3,8,6,1,Mid and South West Wales
+W01001830,Cardiff 033B,W06000015,Cardiff,2,3,3,2,5,4,1,1,5,South East Wales
+W01000086,Gwynedd 008B,W06000002,Gwynedd,4,5,7,7,7,1,1,7,5,North Wales
+W01000862,Swansea 019A,W06000011,Swansea,1,1,1,1,1,2,4,8,2,Mid and South West Wales
+W01000934,Neath Port Talbot 008A,W06000012,Neath Port Talbot,1,1,1,1,1,4,3,1,2,Mid and South West Wales
+W01001061,The Vale of Glamorgan 015C,W06000014,Vale of Glamorgan,5,5,4,4,6,4,5,4,2,South East Wales
+W01000138,Conwy 008A,W06000003,Conwy,4,3,2,4,6,3,7,10,4,North Wales
+W01000318,Flintshire 016F,W06000005,Flintshire,2,2,3,2,1,5,8,9,3,North Wales
+W01000689,Carmarthenshire 003C,W06000010,Carmarthenshire,6,7,7,8,8,1,2,8,8,Mid and South West Wales
+W01000589,Pembrokeshire 012A,W06000009,Pembrokeshire,4,3,4,4,3,6,7,5,5,Mid and South West Wales
+W01001781,Cardiff 026C,W06000015,Cardiff,9,7,6,9,10,10,7,2,5,South East Wales
+W01001062,The Vale of Glamorgan 013A,W06000014,Vale of Glamorgan,8,7,7,8,9,10,1,5,6,South East Wales
+W01001535,Torfaen 012D,W06000020,Torfaen,8,6,6,6,7,5,10,8,9,South East Wales
+W01001092,The Vale of Glamorgan 007B,W06000014,Vale of Glamorgan,5,4,4,4,6,6,8,6,6,South East Wales
+W01001430,Caerphilly 015B,W06000018,Caerphilly,5,5,6,3,5,6,3,7,4,South East Wales
+W01001542,Monmouthshire 009A,W06000021,Monmouthshire,8,9,9,9,9,2,7,6,8,South East Wales
+W01001486,Torfaen 002E,W06000020,Torfaen,5,5,4,4,6,8,6,5,2,South East Wales
+W01001612,Newport 011B,W06000022,Newport,5,5,5,5,5,9,2,1,4,South East Wales
+W01000507,Ceredigion 009A,W06000008,Ceredigion,7,8,7,9,9,1,2,10,9,Mid and South West Wales
+W01001686,Newport 014C,W06000022,Newport,5,4,5,4,7,9,3,3,1,South East Wales
+W01001824,Cardiff 029C,W06000015,Cardiff,5,7,6,6,9,9,1,1,4,South East Wales
+W01000701,Carmarthenshire 001C,W06000010,Carmarthenshire,6,7,7,8,6,1,3,8,9,Mid and South West Wales
+W01000879,Swansea 029A,W06000011,Swansea,10,10,10,9,10,10,9,9,9,Mid and South West Wales
+W01001008,Bridgend 011B,W06000013,Bridgend,10,10,8,8,9,6,10,6,9,South East Wales
+W01001796,Cardiff 002C,W06000015,Cardiff,9,8,8,9,8,10,10,3,9,South East Wales
+W01001116,The Vale of Glamorgan 005A,W06000014,Vale of Glamorgan,10,10,10,10,10,10,7,4,9,South East Wales
+W01001133,The Vale of Glamorgan 008E,W06000014,Vale of Glamorgan,10,10,10,9,10,9,9,7,9,South East Wales
+W01001224,Rhondda Cynon Taf 031D,W06000016,Rhondda Cynon Taf,10,10,10,10,10,10,10,4,10,South East Wales
+W01001427,Caerphilly 024F,W06000018,Caerphilly,10,10,10,10,10,10,10,4,9,South East Wales
+W01001552,Monmouthshire 004A,W06000021,Monmouthshire,10,10,10,10,10,5,10,3,10,South East Wales
+W01001586,Monmouthshire 007D,W06000021,Monmouthshire,10,9,9,10,10,10,10,5,8,South East Wales
+W01001597,Monmouthshire 006F,W06000021,Monmouthshire,10,10,10,10,10,9,10,2,10,South East Wales
+W01000963,Neath Port Talbot 016E,W06000012,Neath Port Talbot,1,1,1,1,1,3,5,7,4,Mid and South West Wales
+W01001174,Rhondda Cynon Taf 020C,W06000016,Rhondda Cynon Taf,1,1,1,1,1,3,7,7,3,South East Wales
+W01001266,Rhondda Cynon Taf 007B,W06000016,Rhondda Cynon Taf,1,1,1,2,1,3,6,2,4,South East Wales
+W01001345,Caerphilly 021C,W06000018,Caerphilly,1,1,1,1,1,3,5,8,3,South East Wales
+W01001530,Torfaen 003C,W06000020,Torfaen,1,1,1,1,1,3,6,6,1,South East Wales
+W01001955,Swansea 025F,W06000011,Swansea,1,1,1,1,3,2,10,3,1,Mid and South West Wales
+W01001715,Cardiff 035B,W06000015,Cardiff,8,7,7,9,10,9,3,3,8,South East Wales
+W01000336,Flintshire 009E,W06000005,Flintshire,1,1,2,2,1,4,2,4,1,North Wales
+W01001797,Cardiff 005C,W06000015,Cardiff,9,8,8,8,8,10,9,3,6,South East Wales
+W01000606,Pembrokeshire 015B,W06000009,Pembrokeshire,1,1,1,2,1,3,5,7,1,Mid and South West Wales
+W01001822,Cardiff 029A,W06000015,Cardiff,8,6,7,8,10,8,8,1,6,South East Wales
+W01001395,Caerphilly 023C,W06000018,Caerphilly,3,3,4,3,4,6,4,1,4,South East Wales
+W01000685,Carmarthenshire 001A,W06000010,Carmarthenshire,4,5,4,6,7,1,1,8,7,Mid and South West Wales
+W01000592,Pembrokeshire 012D,W06000009,Pembrokeshire,2,1,2,3,1,4,7,10,5,Mid and South West Wales
+W01000884,Neath Port Talbot 017A,W06000012,Neath Port Talbot,1,1,1,2,1,4,3,1,1,Mid and South West Wales
+W01001905,Powys 018H,W06000023,Powys,8,10,10,10,10,1,5,8,9,Mid and South West Wales
+W01000992,Bridgend 001B,W06000013,Bridgend,1,1,1,1,1,4,1,8,5,South East Wales
+W01001306,Merthyr Tydfil 003D,W06000024,Merthyr Tydfil,6,7,6,6,8,5,4,5,2,South East Wales
+W01000156,Conwy 004B,W06000003,Conwy,8,6,6,8,10,7,9,7,6,North Wales
+W01001562,Monmouthshire 003B,W06000021,Monmouthshire,6,6,5,7,6,1,5,6,7,South East Wales
+W01001017,Bridgend 002C,W06000013,Bridgend,7,6,6,5,7,10,5,7,2,South East Wales
+W01000403,Wrexham 018C,W06000006,Wrexham,8,9,10,9,9,1,7,8,10,North Wales
+W01001932,Gwynedd 014E,W06000002,Gwynedd,5,8,9,10,9,1,1,9,10,North Wales
+W01001337,Caerphilly 004B,W06000018,Caerphilly,4,4,3,4,5,10,3,6,1,South East Wales
+W01000836,Swansea 011E,W06000011,Swansea,2,2,2,2,1,3,7,9,3,Mid and South West Wales
+W01001179,Rhondda Cynon Taf 023B,W06000016,Rhondda Cynon Taf,1,2,1,1,1,3,6,8,5,South East Wales
+W01000895,Neath Port Talbot 013B,W06000012,Neath Port Talbot,2,2,1,2,3,8,3,2,4,Mid and South West Wales
+W01001049,Bridgend 008C,W06000013,Bridgend,2,2,2,2,1,6,5,4,5,South East Wales
+W01001418,Caerphilly 008E,W06000018,Caerphilly,2,3,3,2,2,4,4,3,1,South East Wales
+W01001408,Caerphilly 016B,W06000018,Caerphilly,3,3,4,3,2,3,5,5,3,South East Wales
+W01001525,Torfaen 003A,W06000020,Torfaen,2,2,3,2,1,7,6,8,1,South East Wales
+W01001669,Newport 009A,W06000022,Newport,10,10,10,10,10,7,10,6,10,South East Wales
+W01000457,Powys 002B,W06000023,Powys,8,9,10,10,9,1,9,1,10,Mid and South West Wales
+W01001733,Cardiff 019B,W06000015,Cardiff,10,10,10,10,10,9,8,2,10,South East Wales
+W01001820,Cardiff 006A,W06000015,Cardiff,9,8,8,9,10,6,9,3,8,South East Wales
+W01001934,Ceredigion 002F,W06000008,Ceredigion,9,9,9,8,9,3,4,7,6,Mid and South West Wales
+W01001819,Cardiff 014D,W06000015,Cardiff,10,9,9,10,10,9,9,6,9,South East Wales
+W01000494,Powys 015E,W06000023,Powys,8,8,7,7,9,2,6,9,7,Mid and South West Wales
+W01001848,Cardiff 012B,W06000015,Cardiff,10,10,10,10,10,10,8,3,9,South East Wales
+W01001852,Cardiff 004B,W06000015,Cardiff,10,10,10,10,10,10,9,1,8,South East Wales
+W01001853,Cardiff 004C,W06000015,Cardiff,10,10,10,9,10,10,9,3,10,South East Wales
+W01001916,Rhondda Cynon Taf 027G,W06000016,Rhondda Cynon Taf,10,10,10,10,9,10,10,8,10,South East Wales
+W01001948,Cardiff 006E,W06000015,Cardiff,10,10,10,10,10,10,10,6,7,South East Wales
+W01000092,Gwynedd 001E,W06000002,Gwynedd,9,10,10,10,10,5,1,10,6,North Wales
+W01001954,Cardiff 006F,W06000015,Cardiff,10,10,8,10,10,10,10,5,10,South East Wales
+W01000008,Isle of Anglesey 008A,W06000001,Isle of Anglesey,10,9,9,9,10,10,8,9,10,North Wales
+W01000260,Flintshire 017B,W06000005,Flintshire,9,8,8,7,7,9,8,9,8,North Wales
+W01001203,Rhondda Cynon Taf 009D,W06000016,Rhondda Cynon Taf,1,1,1,1,1,3,5,6,4,South East Wales
+W01000050,Gwynedd 003A,W06000002,Gwynedd,5,5,5,8,8,2,2,5,4,North Wales
+W01001448,Blaenau Gwent 002C,W06000019,Blaenau Gwent,3,4,2,4,5,10,4,5,1,South East Wales
+W01001862,Cardiff 042D,W06000015,Cardiff,2,3,5,3,4,3,1,1,2,South East Wales
+W01000554,Pembrokeshire 009A,W06000009,Pembrokeshire,8,8,7,9,9,1,8,8,10,Mid and South West Wales
+W01001401,Caerphilly 011A,W06000018,Caerphilly,4,4,3,5,3,4,8,4,4,South East Wales
+W01001003,Bridgend 015D,W06000013,Bridgend,8,9,8,6,9,4,8,5,4,South East Wales
+W01001433,Caerphilly 013E,W06000018,Caerphilly,4,5,4,4,6,10,2,1,1,South East Wales
+W01000257,Flintshire 015C,W06000005,Flintshire,10,10,10,9,9,9,9,4,10,North Wales
+W01000285,Flintshire 013D,W06000005,Flintshire,10,10,10,10,10,10,10,6,5,North Wales
+W01000302,Flintshire 013F,W06000005,Flintshire,10,9,9,10,9,9,9,10,9,North Wales
+W01000369,Wrexham 020F,W06000006,Wrexham,9,8,8,8,8,10,9,9,5,North Wales
+W01000512,Ceredigion 002A,W06000008,Ceredigion,9,10,10,8,10,5,2,5,6,Mid and South West Wales
+W01000396,Wrexham 020H,W06000006,Wrexham,10,10,10,10,10,10,10,9,9,North Wales
+W01000397,Wrexham 020I,W06000006,Wrexham,10,10,10,10,10,9,10,8,10,North Wales
+W01001566,Monmouthshire 005A,W06000021,Monmouthshire,4,7,3,9,9,1,3,5,6,South East Wales
+W01001647,Newport 015F,W06000022,Newport,4,5,6,7,6,2,6,1,1,South East Wales
+W01000834,Swansea 011D,W06000011,Swansea,2,1,2,2,1,3,7,8,4,Mid and South West Wales
+W01000942,Neath Port Talbot 012C,W06000012,Neath Port Talbot,2,2,1,2,1,2,6,8,6,Mid and South West Wales
+W01001489,Torfaen 001C,W06000020,Torfaen,3,4,3,4,2,6,2,3,1,South East Wales
+W01001680,Newport 007E,W06000022,Newport,6,5,7,6,6,10,3,1,3,South East Wales
+W01001238,Rhondda Cynon Taf 022C,W06000016,Rhondda Cynon Taf,1,1,1,1,1,2,4,4,2,South East Wales
+W01001428,Caerphilly 001E,W06000018,Caerphilly,1,1,1,1,1,3,7,3,1,South East Wales
+W01000096,Gwynedd 003C,W06000002,Gwynedd,5,4,5,5,6,4,6,7,3,North Wales
+W01000993,Bridgend 001C,W06000013,Bridgend,2,1,1,1,2,6,4,5,5,South East Wales
+W01001453,Blaenau Gwent 008D,W06000019,Blaenau Gwent,1,2,1,2,1,3,3,9,2,South East Wales
+W01001610,Newport 015C,W06000022,Newport,3,2,5,3,1,8,5,2,1,South East Wales
+W01001469,Blaenau Gwent 005F,W06000019,Blaenau Gwent,1,1,1,1,1,3,6,8,2,South East Wales
+W01001906,Powys 001F,W06000023,Powys,6,8,8,10,9,1,2,7,10,Mid and South West Wales
+W01001560,Monmouthshire 006C,W06000021,Monmouthshire,8,10,10,10,10,1,3,2,5,South East Wales
+W01001800,Cardiff 005D,W06000015,Cardiff,4,3,4,2,5,5,3,4,6,South East Wales
+W01000189,Conwy 015F,W06000003,Conwy,5,8,8,10,8,1,1,8,9,North Wales
+W01001510,Torfaen 005A,W06000020,Torfaen,7,6,5,7,6,8,5,4,6,South East Wales
+W01001114,The Vale of Glamorgan 008A,W06000014,Vale of Glamorgan,10,10,10,10,10,9,10,5,10,South East Wales
+W01000710,Carmarthenshire 021D,W06000010,Carmarthenshire,9,8,8,8,9,6,10,3,8,Mid and South West Wales
+W01000795,Swansea 006A,W06000011,Swansea,9,8,7,7,9,10,10,5,2,Mid and South West Wales
+W01001583,Monmouthshire 007B,W06000021,Monmouthshire,8,9,10,10,10,1,2,4,8,South East Wales
+W01001115,The Vale of Glamorgan 008B,W06000014,Vale of Glamorgan,9,8,8,9,10,6,8,7,10,South East Wales
+W01000427,Powys 011A,W06000023,Powys,5,7,8,8,7,1,1,9,9,Mid and South West Wales
+W01000531,Ceredigion 010C,W06000008,Ceredigion,5,5,5,7,6,1,6,9,8,Mid and South West Wales
+W01001117,The Vale of Glamorgan 014B,W06000014,Vale of Glamorgan,9,7,7,7,8,8,8,8,8,South East Wales
+W01001159,Rhondda Cynon Taf 028C,W06000016,Rhondda Cynon Taf,10,8,8,10,10,9,10,6,9,South East Wales
+W01001125,The Vale of Glamorgan 005D,W06000014,Vale of Glamorgan,9,9,8,8,10,10,5,4,5,South East Wales
+W01000194,Denbighshire 011A,W06000004,Denbighshire,4,4,2,3,6,10,2,10,2,North Wales
+W01000930,Neath Port Talbot 011D,W06000012,Neath Port Talbot,2,2,2,1,1,6,3,5,7,Mid and South West Wales
+W01000537,Ceredigion 008D,W06000008,Ceredigion,5,5,6,9,7,1,1,8,10,Mid and South West Wales
+W01001682,Newport 006C,W06000022,Newport,3,3,4,4,4,3,8,2,5,South East Wales
+W01000542,Ceredigion 011F,W06000008,Ceredigion,4,7,7,7,7,1,1,3,9,Mid and South West Wales
+W01000112,Gwynedd 008D,W06000002,Gwynedd,3,4,5,6,5,1,1,7,5,North Wales
+W01001667,Newport 010C,W06000022,Newport,1,1,1,1,1,2,4,2,4,South East Wales
+W01000071,Gwynedd 003B,W06000002,Gwynedd,6,5,6,6,7,3,2,10,7,North Wales
+W01000646,Carmarthenshire 003A,W06000010,Carmarthenshire,4,5,5,7,7,1,1,9,6,Mid and South West Wales
+W01000159,Conwy 014B,W06000003,Conwy,6,8,9,8,7,1,1,9,10,North Wales
+W01000539,Ceredigion 005D,W06000008,Ceredigion,5,7,8,7,9,1,1,7,10,Mid and South West Wales
+W01000380,Wrexham 004D,W06000006,Wrexham,7,7,5,2,8,9,10,7,9,North Wales
+W01001514,Torfaen 006A,W06000020,Torfaen,9,9,8,6,8,10,7,6,4,South East Wales
+W01001600,Newport 012A,W06000022,Newport,10,10,10,10,10,8,9,3,6,South East Wales
+W01001543,Monmouthshire 009B,W06000021,Monmouthshire,9,9,9,10,10,2,10,5,7,South East Wales
+W01001573,Monmouthshire 011B,W06000021,Monmouthshire,9,9,10,10,9,4,8,2,5,South East Wales
+W01001731,Cardiff 008B,W06000015,Cardiff,10,9,9,10,10,9,7,3,9,South East Wales
+W01001732,Cardiff 019A,W06000015,Cardiff,10,10,10,10,10,10,7,2,9,South East Wales
+W01001734,Cardiff 019C,W06000015,Cardiff,10,10,10,10,10,10,9,4,10,South East Wales
+W01001735,Cardiff 019D,W06000015,Cardiff,10,9,10,10,10,9,9,3,8,South East Wales
+W01001736,Cardiff 008C,W06000015,Cardiff,10,10,10,9,10,10,9,2,10,South East Wales
+W01001578,Monmouthshire 009C,W06000021,Monmouthshire,9,9,9,7,10,3,9,3,10,South East Wales
+W01001827,Cardiff 024C,W06000015,Cardiff,10,9,10,10,10,8,9,3,10,South East Wales
+W01000249,Flintshire 014A,W06000005,Flintshire,10,10,10,9,10,10,10,8,8,North Wales
+W01000344,Wrexham 007B,W06000006,Wrexham,10,10,9,8,10,8,9,7,8,North Wales
+W01000570,Pembrokeshire 005C,W06000009,Pembrokeshire,1,1,1,1,1,2,7,9,3,Mid and South West Wales
+W01000864,Swansea 019C,W06000011,Swansea,1,1,1,1,1,3,3,5,2,Mid and South West Wales
+W01000991,Bridgend 001A,W06000013,Bridgend,1,1,1,1,1,2,6,7,1,South East Wales
+W01000464,Powys 011D,W06000023,Powys,7,8,10,10,8,1,3,7,10,Mid and South West Wales
+W01000484,Powys 011E,W06000023,Powys,7,8,9,10,8,1,2,7,7,Mid and South West Wales
+W01000506,Ceredigion 005A,W06000008,Ceredigion,7,5,6,7,8,9,3,6,4,Mid and South West Wales
+W01000475,Powys 001E,W06000023,Powys,6,8,9,10,8,1,2,7,10,Mid and South West Wales
+W01001275,Rhondda Cynon Taf 013C,W06000016,Rhondda Cynon Taf,2,2,2,2,1,5,1,3,4,South East Wales
+W01000725,Carmarthenshire 011D,W06000010,Carmarthenshire,5,5,4,4,6,6,7,3,9,Mid and South West Wales
+W01001616,Newport 005C,W06000022,Newport,8,8,7,7,7,7,6,2,6,South East Wales
+W01001623,Newport 001A,W06000022,Newport,8,8,8,8,10,10,6,1,4,South East Wales
+W01000744,Swansea 016B,W06000011,Swansea,2,2,3,3,2,3,2,3,1,Mid and South West Wales
+W01001251,Rhondda Cynon Taf 024C,W06000016,Rhondda Cynon Taf,1,1,1,1,2,3,5,9,6,South East Wales
+W01000626,Carmarthenshire 013B,W06000010,Carmarthenshire,3,2,2,3,5,9,7,3,1,Mid and South West Wales
+W01001046,Bridgend 018C,W06000013,Bridgend,3,3,2,3,7,7,2,9,3,South East Wales
+W01001071,The Vale of Glamorgan 009D,W06000014,Vale of Glamorgan,3,4,4,4,4,7,4,1,2,South East Wales
+W01001694,Cardiff 036A,W06000015,Cardiff,1,2,4,1,2,5,1,1,1,South East Wales
+W01001697,Cardiff 036D,W06000015,Cardiff,2,2,3,3,3,5,1,1,2,South East Wales
+W01001835,Cardiff 033F,W06000015,Cardiff,1,1,1,1,3,4,6,1,1,South East Wales
+W01000631,Carmarthenshire 024D,W06000010,Carmarthenshire,1,1,1,1,1,2,6,5,2,Mid and South West Wales
+W01001205,Rhondda Cynon Taf 006B,W06000016,Rhondda Cynon Taf,3,4,2,3,6,3,4,4,4,South East Wales
+W01000885,Neath Port Talbot 017B,W06000012,Neath Port Talbot,1,2,1,1,1,3,6,1,1,Mid and South West Wales
+W01001679,Newport 007D,W06000022,Newport,8,8,8,8,8,10,5,1,2,South East Wales
+W01000477,Powys 012D,W06000023,Powys,6,8,9,9,8,1,3,7,9,Mid and South West Wales
+W01000886,Neath Port Talbot 017C,W06000012,Neath Port Talbot,1,1,1,1,1,4,2,2,2,Mid and South West Wales
+W01000958,Neath Port Talbot 016B,W06000012,Neath Port Talbot,1,1,1,1,1,4,5,6,4,Mid and South West Wales
+W01000967,Neath Port Talbot 019C,W06000012,Neath Port Talbot,1,2,1,1,1,9,5,2,3,Mid and South West Wales
+W01000612,Pembrokeshire 003C,W06000009,Pembrokeshire,7,7,5,8,9,2,6,10,7,Mid and South West Wales
+W01001693,Newport 013E,W06000022,Newport,1,2,2,1,2,4,1,1,1,South East Wales
+W01001274,Rhondda Cynon Taf 013B,W06000016,Rhondda Cynon Taf,1,1,1,1,1,2,2,4,1,South East Wales
+W01001206,Rhondda Cynon Taf 006C,W06000016,Rhondda Cynon Taf,3,3,3,1,5,7,4,9,4,South East Wales
+W01000830,Swansea 011A,W06000011,Swansea,1,1,1,1,1,2,7,8,1,Mid and South West Wales
+W01001031,Bridgend 018A,W06000013,Bridgend,10,10,9,9,10,4,10,10,10,South East Wales
+W01001770,Cardiff 018B,W06000015,Cardiff,8,8,9,7,10,8,8,4,1,South East Wales
+W01001548,Monmouthshire 001B,W06000021,Monmouthshire,7,9,9,9,10,1,2,6,10,South East Wales
+W01001640,Newport 004B,W06000022,Newport,9,10,10,10,9,2,10,4,8,South East Wales
+W01001891,Cardiff 020C,W06000015,Cardiff,7,6,6,7,8,8,7,2,6,South East Wales
+W01001089,The Vale of Glamorgan 006D,W06000014,Vale of Glamorgan,10,10,10,10,9,8,10,1,9,South East Wales
+W01001419,Caerphilly 021D,W06000018,Caerphilly,7,7,7,8,10,1,7,5,2,South East Wales
+W01001130,The Vale of Glamorgan 005F,W06000014,Vale of Glamorgan,10,10,10,10,10,10,7,3,8,South East Wales
+W01000914,Neath Port Talbot 010C,W06000012,Neath Port Talbot,2,2,2,2,1,2,6,5,7,Mid and South West Wales
+W01001394,Caerphilly 023B,W06000018,Caerphilly,10,10,10,10,9,9,7,5,9,South East Wales
+W01000418,Wrexham 020E,W06000006,Wrexham,8,8,8,9,8,1,7,6,9,North Wales
+W01001293,Merthyr Tydfil 004B,W06000024,Merthyr Tydfil,3,4,3,3,5,5,4,3,2,South East Wales
+W01001645,Newport 015D,W06000022,Newport,4,4,6,5,3,7,2,1,3,South East Wales
+W01001353,Caerphilly 007B,W06000018,Caerphilly,3,3,2,3,3,7,7,6,2,South East Wales
+W01001641,Newport 004C,W06000022,Newport,9,10,9,9,10,4,10,3,7,South East Wales
+W01001402,Caerphilly 011B,W06000018,Caerphilly,3,3,2,2,5,3,5,5,3,South East Wales
+W01000443,Powys 015B,W06000023,Powys,8,9,10,10,9,1,6,6,9,Mid and South West Wales
+W01000449,Powys 011C,W06000023,Powys,8,8,7,8,6,6,5,7,5,Mid and South West Wales
+W01001549,Monmouthshire 007A,W06000021,Monmouthshire,8,10,10,10,10,1,5,6,10,South East Wales
+W01000551,Ceredigion 010E,W06000008,Ceredigion,6,6,6,8,6,1,7,10,9,Mid and South West Wales
+W01000553,Pembrokeshire 011A,W06000009,Pembrokeshire,6,7,8,7,6,1,8,4,10,Mid and South West Wales
+W01001344,Caerphilly 020C,W06000018,Caerphilly,6,5,5,4,6,10,6,4,4,South East Wales
+W01000603,Pembrokeshire 013D,W06000009,Pembrokeshire,4,5,4,5,5,6,5,3,3,Mid and South West Wales
+W01000924,Neath Port Talbot 011C,W06000012,Neath Port Talbot,2,2,2,3,2,4,5,2,7,Mid and South West Wales
+W01001460,Blaenau Gwent 007E,W06000019,Blaenau Gwent,3,4,3,5,6,3,2,6,1,South East Wales
+W01001347,Caerphilly 005C,W06000018,Caerphilly,6,5,5,5,6,8,5,4,2,South East Wales
+W01001821,Cardiff 024A,W06000015,Cardiff,9,9,10,7,10,8,8,2,10,South East Wales
+W01001513,Torfaen 005D,W06000020,Torfaen,10,10,8,9,9,8,10,4,7,South East Wales
+W01001730,Cardiff 008A,W06000015,Cardiff,10,10,10,10,10,10,10,2,9,South East Wales
+W01001769,Cardiff 018A,W06000015,Cardiff,10,10,10,10,10,10,9,3,10,South East Wales
+W01001475,Blaenau Gwent 003D,W06000019,Blaenau Gwent,5,6,5,5,7,6,2,2,1,South East Wales
+W01001774,Cardiff 018D,W06000015,Cardiff,10,10,10,10,10,10,7,3,9,South East Wales
+W01001892,Cardiff 020D,W06000015,Cardiff,10,10,10,10,10,8,8,2,9,South East Wales
+W01000370,Wrexham 020G,W06000006,Wrexham,10,9,10,9,9,9,7,9,4,North Wales
+W01000197,Denbighshire 012C,W06000004,Denbighshire,9,8,8,7,8,5,8,8,9,North Wales
+W01001603,Newport 012C,W06000022,Newport,5,5,4,6,9,7,4,2,1,South East Wales
+W01001516,Torfaen 006C,W06000020,Torfaen,3,3,3,2,4,2,8,6,6,South East Wales
+W01001924,Carmarthenshire 026H,W06000010,Carmarthenshire,1,1,1,2,1,3,3,2,1,Mid and South West Wales
+W01001649,Newport 004D,W06000022,Newport,5,7,6,7,6,1,8,1,2,South East Wales
+W01001658,Newport 020D,W06000022,Newport,8,8,8,7,9,8,10,1,5,South East Wales
+W01000541,Ceredigion 008E,W06000008,Ceredigion,5,7,7,8,9,1,1,7,10,Mid and South West Wales
+W01000867,Swansea 019F,W06000011,Swansea,1,1,1,1,1,3,3,8,3,Mid and South West Wales
+W01001410,Caerphilly 016D,W06000018,Caerphilly,3,4,3,3,4,5,8,3,3,South East Wales
+W01001431,Caerphilly 015C,W06000018,Caerphilly,6,6,5,5,6,4,6,8,5,South East Wales
+W01001696,Cardiff 036C,W06000015,Cardiff,1,1,1,1,1,4,1,1,1,South East Wales
+W01001462,Blaenau Gwent 006A,W06000019,Blaenau Gwent,5,5,3,4,7,4,5,9,3,South East Wales
+W01001568,Monmouthshire 005C,W06000021,Monmouthshire,7,9,10,10,10,1,4,5,10,South East Wales
+W01000204,Denbighshire 013B,W06000004,Denbighshire,9,10,10,10,10,2,4,9,10,North Wales
+W01001864,Cardiff 022B,W06000015,Cardiff,8,8,8,7,8,9,5,3,5,South East Wales
+W01000367,Wrexham 014B,W06000006,Wrexham,9,9,9,7,9,8,9,8,4,North Wales
+W01001935,Ceredigion 003E,W06000008,Ceredigion,8,8,9,8,9,6,2,3,5,Mid and South West Wales
+W01000366,Wrexham 014A,W06000006,Wrexham,6,5,6,4,4,8,3,9,6,North Wales
+W01001922,Cardiff 032E,W06000015,Cardiff,5,10,10,9,2,3,1,1,5,South East Wales
+W01001110,The Vale of Glamorgan 011D,W06000014,Vale of Glamorgan,9,10,10,10,10,3,6,7,7,South East Wales
+W01001587,Monmouthshire 008C,W06000021,Monmouthshire,6,6,5,6,8,8,3,2,2,South East Wales
+W01001695,Cardiff 036B,W06000015,Cardiff,2,3,6,3,1,2,1,1,2,South East Wales
+W01001594,Monmouthshire 007E,W06000021,Monmouthshire,7,8,9,9,10,1,2,8,9,South East Wales
+W01001823,Cardiff 029B,W06000015,Cardiff,9,10,10,10,10,10,5,1,7,South East Wales
+W01000446,Powys 015D,W06000023,Powys,9,7,8,8,9,8,5,10,7,Mid and South West Wales
+W01001605,Newport 014A,W06000022,Newport,3,3,3,3,7,7,1,2,3,South East Wales
+W01001590,Monmouthshire 009D,W06000021,Monmouthshire,9,10,10,10,10,1,10,4,6,South East Wales
+W01000417,Wrexham 020D,W06000006,Wrexham,10,10,10,9,10,4,8,7,10,North Wales
+W01001595,Monmouthshire 007F,W06000021,Monmouthshire,8,10,10,10,10,1,4,8,10,South East Wales
+W01001585,Monmouthshire 007C,W06000021,Monmouthshire,10,10,10,10,10,9,10,6,10,South East Wales
+W01001938,Swansea 025E,W06000011,Swansea,6,9,7,9,4,3,9,4,1,Mid and South West Wales
+W01001004,Bridgend 009A,W06000013,Bridgend,3,3,3,2,6,9,5,1,4,South East Wales
+W01000873,Swansea 026C,W06000011,Swansea,7,9,9,7,10,4,1,7,5,Mid and South West Wales
+W01001602,Newport 012B,W06000022,Newport,10,9,9,9,10,9,8,4,9,South East Wales
+W01000921,Neath Port Talbot 011B,W06000012,Neath Port Talbot,1,1,1,1,1,4,8,5,4,Mid and South West Wales
+W01001887,Cardiff 020A,W06000015,Cardiff,10,10,10,10,10,10,8,3,7,South East Wales
+W01001045,Bridgend 019D,W06000013,Bridgend,3,4,2,4,6,9,3,1,2,South East Wales
+W01001941,Cardiff 032G,W06000015,Cardiff,6,10,10,10,9,2,1,1,1,South East Wales
