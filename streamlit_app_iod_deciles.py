@@ -530,7 +530,7 @@ def streamlit_iod():
 pwd = st.sidebar.text_input("Password:", type="password")
 # st.secrets reads it in from the toml folder, and then runs the streamlit_asq function if the password matches.
 if pwd == st.secrets["PASSWORD"]:
-    streamlit_asq()
+    streamlit_iod()
 elif pwd == "":
     pass
 else:
