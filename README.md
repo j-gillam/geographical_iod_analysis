@@ -1,6 +1,6 @@
 # **Geographical IoD Analysis**
 
-This repository provides the open source data and code for the making of a streamlit app. 
+This repository provides the open source data and code for the making of a streamlit app exploring the Indices of Deprivation (IoD). 
 
 To load the streamlit app locally use the following steps:
 
