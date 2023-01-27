@@ -44,8 +44,7 @@ with st.sidebar:
         ],
         icons=["house", "geo-alt", 
         "kanban", "geo-alt",
-        "geo_alt",
-        "kanban"
+        "geo-alt", "kanban"
         ],
         default_index=0,
         orientation="vertical",
@@ -176,7 +175,7 @@ def streamlit_iod():
         geodata_la = get_english_la_shapefiles_2019()
 
         # For the LA Breakdown page:
-        if choose == "LA Breakdown":
+        if choose == "English LA Breakdown":
 
             # Altair selections (allows you to select a local authority):
             la_select = alt.selection_single(fields=["lad19nm"])
@@ -364,7 +363,7 @@ def streamlit_iod():
                 use_container_width=True,
             )
         # Comparing different Local Authorities
-        elif choose == "LA Comparison":
+        elif choose == "English LA Comparison":
             st.title("Comparing the IoD for Local Authorities in England")
             st.markdown(
                 """
@@ -413,7 +412,7 @@ def streamlit_iod():
                 use_container_width=True,
             )
 
-        elif choose == "LSOA Breakdown":
+        elif choose == "English LSOA Breakdown":
             st.title("Lower Super Output Areas in England, broken down by IoD Decile")
             st.markdown(
                 """
