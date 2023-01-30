@@ -8,11 +8,12 @@ from PIL import Image
 from getters.english_la_iod_data_2019 import get_english_la_iod_2019
 from getters.english_lsoa_iod_data_2019 import get_english_lsoa_iod_2019
 from getters.la_shapefiles_2019 import get_english_la_shapefiles_2019
+from getters.english_wales_comparison_iod_2019 import get_english_wales_lsoa_iod_2019
 from getters.lsoa_shapefiles_2011 import (
-    get_english_lsoa_shapefiles_2011
+    get_english_lsoa_shapefiles_2011, get_welsh_lsoa_shapefiles_2011
 )
+from getters.welsh_lsoa_iod_data_2019 import get_welsh_lsoa_iod_2019
 from utils.utils_preprocessing import preprocess_strings
-import geopandas as gpd
 import os
 
 
@@ -122,7 +123,7 @@ if choose == "About":
     st.markdown("The Welsh IoD's [IN PROGRESS]")
 
 
-# As we want it to be password protected, this creates a function which means the rest of the app can only run if you've typed the password in.
+# In order to password protect the rest of the app, put the rest of the code insidea a function. 
 def streamlit_iod():
     # Sets a spinner so we know that the report is updating as we change the user selections.
     with st.spinner("Updating Report..."):
@@ -144,23 +145,14 @@ def streamlit_iod():
 
         # Possible IoD domains you want to look at.
         if "iod_filter" not in st.session_state:
-            st.session_state.iod_filter = [
-                "Index of Multiple Deprivation (IMD)",
-                "Income Deprivation",
-                "Employment Deprivation",
-                "Education, Skills and Training",
-                "Health Deprivation and Disability",
-                "Crime",
-                "Barriers to Housing and Services",
-                "Living Environment Deprivation",
-                "Income Deprivation Affecting Children Index (IDACI)",
-                "Income Deprivation Affecting Older People Index (IDAOPI)",
-            ]
+            st.session_state.iod_filter = iod_names
         # Loading in the IoD data at LA and LSOA level (query to insure we are only looking at the English Regions).
         data = get_english_la_iod_2019().query("region_name in @st.session_state.region_filter")
         lsoa_data = get_english_lsoa_iod_2019().query(
             "region_name in @st.session_state.region_filter"
         )
+        data_wales = get_welsh_lsoa_iod_2019()
+        data_welsh_english = get_english_wales_lsoa_iod_2019()
 
         la_melt = (
             pd.melt(
@@ -173,6 +165,7 @@ def streamlit_iod():
         )
 
         geodata_la = get_english_la_shapefiles_2019()
+        geodata_lsoa_wales = get_welsh_lsoa_shapefiles_2011()
 
         # For the LA Breakdown page:
         if choose == "English LA Breakdown":
@@ -228,9 +221,9 @@ def streamlit_iod():
                     tooltip=[alt.Tooltip("lad19nm:N", title="Local Authority")]
                     + [
                         alt.Tooltip(
-                            f"{ind}:O", title=f"{name}" + " (Decile)", format="1.2f"
+                            f"{ind}:O", title=name, format="1.2f"
                         )
-                        for ind, name in zip(iod_indices, iod_names)
+                        for ind, name in zip(iod_indices, iod_tooltip)
                     ],
                 )
                 .add_selection(la_select)
@@ -303,9 +296,9 @@ def streamlit_iod():
                     tooltip=[alt.Tooltip("lad19nm:N", title="Local Authority")]
                     + [
                         alt.Tooltip(
-                            f"{ind}:O", title=f"{name}" + " (Decile)", format="1.2f"
+                            f"{ind}:O", title=name, format="1.2f"
                         )
-                        for ind, name in zip(iod_indices, iod_names)
+                        for ind, name in zip(iod_indices, iod_tooltip)
                     ],
                 )
                 .add_selection(la_select, la_select_all)
@@ -498,13 +491,106 @@ def streamlit_iod():
                     tooltip=[alt.Tooltip("lsoa11nm:N", title="LSOA")]
                     + [
                         alt.Tooltip(
-                            f"{ind}:O", title=f"{name}" + " (Decile)", format="1.2f"
+                            f"{ind}:O", title=name, format="1.2f"
                         )
-                        for ind, name in zip(iod_indices, iod_names)
+                        for ind, name in zip(iod_indices, iod_tooltip)
                     ],
                     opacity=alt.condition(lsoa_select, alt.value(1), alt.value(0.2)),
                 )
                 .add_selection(lsoa_select)
+                .project(type="identity", reflectY=True)
+                .properties(width=500,height=500)
+            )
+            st.altair_chart(
+                choro_lsoa.configure_legend(
+                    labelLimit=0,
+                    titleLimit=0,
+                    titleFontSize=13,
+                    labelFontSize=13,
+                    symbolStrokeWidth=1.5,
+                    symbolSize=150,
+                )
+                .configure_view(strokeWidth=0)
+                .configure_axis(
+                    labelLimit=0,
+                    titleLimit=0,
+                ),
+                use_container_width=True,
+            )
+        elif choose == "Welsh LSOA Breakdown":
+        
+            st.title("Lower Super Output Areas in Wales, broken down by IoD Decile")
+            st.markdown(
+                """
+            By selecting a region of Wales, an IoD and a Local Authority (LA), this map shows the breakdown at Lower Super Output Area (LSOA).
+
+            You can click on each LSOA to highlight it, double-click to remove the selection and hover over the map to see the deciles.
+            """
+            )
+            # Choose the colour palette:
+            colour_choice = st.selectbox(
+                "Choose a colour palette for the maps:",
+                options=list(colour_palettes.keys()),
+            )
+            # Select box to pick the region you wish to look at.
+            region_selection = st.selectbox(
+                "Choose a region of Wales:",
+                options=sorted(data_wales.region_name.unique()),
+                key="region_lsoas_wales",
+            )
+            welsh_las_to_plot = list(data_wales[data_wales["region_name"] == region_selection].lad19nm.unique())
+            wiod_selection = st.selectbox(
+                "Choose IoD Decile to view on the map:",
+                options=wiod_names,
+                key="iod",
+            )
+            welsh_la_selection = st.selectbox(
+                "Choose a local authority from the region chosen above to see the LSOA breakdown:",
+                sorted(welsh_las_to_plot),
+            )
+
+            welsh_lsoas_to_plot = list(data_wales[data_wales.lad19nm == welsh_la_selection].lsoa11nm)
+            lsoa_select_wales = alt.selection_single(fields=["lsoa11nm"])
+            color_lsoa_wales = alt.condition(
+                lsoa_select_wales,
+                alt.Color(
+                    f"{wiod_dict[wiod_selection]}:O",
+                    scale=colour_palettes[colour_choice],
+                    title=f"{wiod_selection}",
+                    legend=alt.Legend(orient="top"),
+                ),
+                alt.value("lightgray"),
+            )
+            choro_lsoa = (
+                alt.Chart(geodata_lsoa_wales)
+                .mark_geoshape(
+                    stroke="black",
+                )
+                .transform_lookup(
+                    lookup="properties.lsoa11nm",
+                    from_=alt.LookupData(
+                        data_wales,
+                        "lsoa11nm",
+                        ["lsoa11cd", "lsoa11nm", "lad19cd", "lad19nm"] + wiod_indices,
+                    ),
+                )
+                .transform_filter(
+                    alt.FieldOneOfPredicate(
+                        field="properties.lsoa11nm", oneOf=welsh_lsoas_to_plot
+                    )
+                )
+                .encode(
+                    color=color_lsoa_wales,
+                    tooltip=[alt.Tooltip("lsoa11nm:N", title="LSOA")]
+                    + [
+                        alt.Tooltip(
+                            f"{ind}:O", title=name, format="1.2f"
+                        )
+                        for ind, name in zip(wiod_indices, wiod_tooltip)
+                    ],
+                    opacity=alt.condition(lsoa_select_wales, alt.value(1), alt.value(0.2)),
+                )
+                .add_selection(lsoa_select_wales)
                 .project(type="identity", reflectY=True)
             )
             st.altair_chart(
@@ -523,6 +609,199 @@ def streamlit_iod():
                 ),
                 use_container_width=True,
             )
+        if choose=='Comparing Welsh and English IoD':
+            st.title("Comparing IoD Deciles in England and Wales, by Lower Super Output Area (LSOA)")
+            st.markdown(
+            """
+            The open source comparison dataset published is comprised of the domains; Income, Employment, 
+            Income Deprivation Affecting Children Index (IDACI) and Income Deprivation Affecting Older People Index (IDAOPI) only.
+            
+            This figure allows you to compare a Local Authority (LA) in Wales to one in England for each IoD. 
+            You can select a region of England and an LA to produce a map which shows the breakdown at Lower Super Output Area (LSOA).
+            Similary you can select an LA from Wales to show the LSOA breakdown.
+
+            You can hold shift and click on LSOA's from England and Wales. Selecting the LSOA's on the map will will show them on the bar chart 
+            below to compare the deciles. You can ouble-click to remove the all the selections and hover over the map to see the deciles.
+            """
+            )
+            # Choose the colour palette:
+            colour_choice = st.selectbox(
+                "Choose a colour palette for the maps:",
+                options=list(colour_palettes.keys()),
+            )
+            iod_combined_selection = st.selectbox(
+                "Choose IoD Decile to view on the map:",
+                options=iod_combined_names,
+            )
+            # Select box to pick the region you wish to look at.
+            region_selection = st.selectbox(
+                "Choose a region of England:",
+                options=sorted(st.session_state.region_filter),
+                key="region_lsoas",
+            )
+            las_to_plot = list(data_welsh_english[data_welsh_english["region_name"] == region_selection].lad19nm.unique())
+            data_lsoa = data_welsh_english[data_welsh_english.region_name == region_selection]
+            la_selection = st.selectbox(
+                "Choose a local authority from the region chosen above to compare the LSOA breakdown:",
+                sorted(las_to_plot),
+            )
+            welsh_la_selection = st.selectbox(
+                "Choose a local authority from Wales to compare the LSOA breakdown:",
+                sorted(data_wales.lad19nm.unique()),
+            )
+            # Dataset is larger than 5000, so we partition it into two smaller datasets.
+            las_to_split = [
+                "Brighton and Hove",
+                "Medway",
+                "Milton Keynes",
+                "Southampton",
+                "Portsmouth",
+            ]
+            if la_selection in las_to_split:
+                filter_data_lsoa = data_lsoa[data_lsoa.lad19nm.isin(las_to_split)]
+            else:
+                filter_data_lsoa = data_lsoa[~data_lsoa.lad19nm.isin(las_to_split)]
+
+            lsoas_to_plot = list(data_welsh_english[data_welsh_english.lad19nm == la_selection].lsoa11nm)
+            region_dict = dict(
+                zip(
+                    st.session_state.region_filter,
+                    preprocess_strings(pd.Series(st.session_state.region_filter)),
+                )
+            )
+            geodata_lsoa = get_english_lsoa_shapefiles_2011(region_dict[region_selection])
+            lsoa_select_multi = alt.selection_multi(fields=["lsoa11nm"])
+            lsoa_select_multi_empty = alt.selection_multi(fields=["lsoa11nm"], empty='none')
+            color_lsoa = alt.condition(
+                lsoa_select_multi,
+                alt.Color(
+                    f"{iod_combined_dict[iod_combined_selection]}:O",
+                    scale=colour_palettes[colour_choice],
+                    title=f"{iod_combined_selection}",
+                    legend=alt.Legend(orient="top"),
+                ),
+                alt.value("lightgray"),
+            )
+            choro_lsoa = (
+                alt.Chart(geodata_lsoa)
+                .mark_geoshape(
+                    stroke="black",
+                )
+                .transform_lookup(
+                    lookup="properties.lsoa11nm",
+                    from_=alt.LookupData(
+                        filter_data_lsoa,
+                        "lsoa11nm",
+                        ["lsoa11cd", "lsoa11nm", "lad19cd", "lad19nm"] + iod_combined_indices,
+                    ),
+                )
+                .transform_filter(
+                    alt.FieldOneOfPredicate(
+                        field="properties.lsoa11nm", oneOf=lsoas_to_plot
+                    )
+                )
+                .encode(
+                    color=color_lsoa,
+                    tooltip=[alt.Tooltip("lsoa11nm:N", title="LSOA")]
+                    + [
+                        alt.Tooltip(
+                            f"{ind}:O", title=name, format="1.2f"
+                        )
+                        for ind, name in zip(iod_combined_indices, iod_combined_tooltip)
+                    ],
+                    opacity=alt.condition(lsoa_select_multi, alt.value(1), alt.value(0.2)),
+                )
+                .add_selection(lsoa_select_multi,lsoa_select_multi_empty)
+                .project(type="identity", reflectY=True)
+                .properties(width=500,height=500,title=la_selection)
+            )
+
+            welsh_lsoas_to_plot = list(data_welsh_english[data_welsh_english.lad19nm == welsh_la_selection].lsoa11nm)
+
+            wales_data_comp = data_welsh_english[data_welsh_english.lsoa11nm.isin(welsh_lsoas_to_plot)]
+            lsoa_select_wales_multi = alt.selection_multi(fields=["lsoa11nm"])
+            lsoa_select_wales_multi_empty = alt.selection_multi(fields=["lsoa11nm"],empty='none')
+            color_lsoa_wales = alt.condition(
+                lsoa_select_wales_multi,
+                alt.Color(
+                    f"{iod_combined_dict[iod_combined_selection]}:O",
+                    scale=colour_palettes[colour_choice],
+                    title=f"{iod_combined_selection}",
+                    legend=alt.Legend(orient="top"),
+                ),
+                alt.value("lightgray"),
+            )
+            choro_lsoa_wales = (
+                alt.Chart(geodata_lsoa_wales)
+                .mark_geoshape(
+                    stroke="black",
+                )
+                .transform_lookup(
+                    lookup="properties.lsoa11nm",
+                    from_=alt.LookupData(
+                        wales_data_comp,
+                        "lsoa11nm",
+                        ["lsoa11cd", "lsoa11nm", "lad19cd", "lad19nm"] + iod_combined_indices,
+                    ),
+                )
+                .transform_filter(
+                    alt.FieldOneOfPredicate(
+                        field="properties.lsoa11nm", oneOf=welsh_lsoas_to_plot
+                    )
+                )
+                .encode(
+                    color=color_lsoa_wales,
+                    tooltip=[alt.Tooltip("lsoa11nm:N", title="LSOA")]
+                    + [
+                        alt.Tooltip(
+                            f"{ind}:O", title=name, format="1.2f"
+                        )
+                        for ind, name in zip(iod_combined_indices, iod_combined_tooltip)
+                    ],
+                    opacity=alt.condition(lsoa_select_wales_multi, alt.value(1), alt.value(0.2)),
+                )
+                .add_selection(lsoa_select_wales_multi,lsoa_select_wales_multi_empty)
+                .project(type="identity", reflectY=True)
+                .properties(title=welsh_la_selection)
+            )
+            choro_combined = alt.hconcat(choro_lsoa,choro_lsoa_wales)
+
+            bar_chart = (
+                alt.Chart(data_welsh_english)
+                .mark_bar(color=NESTA_COLOURS[1])
+                .encode(
+                    x=alt.X(
+                        f"{iod_combined_dict[iod_combined_selection]}:Q",
+                        title=f"{iod_combined_selection}",
+                        scale=alt.Scale(domain=[0, 10]),
+                        axis=alt.Axis(tickMinStep=1),
+                    ),
+                    y=alt.Y(
+                        "lsoa11nm:N",
+                        title="LSOA Name",
+                    ),
+                )
+                .transform_filter(lsoa_select_multi_empty | lsoa_select_wales_multi_empty)
+                .properties(width=400, height=400)
+            )
+
+            st.altair_chart(
+                alt.vconcat(choro_combined,bar_chart, center=True).configure_legend(
+                    labelLimit=0,
+                    titleLimit=0,
+                    titleFontSize=13,
+                    labelFontSize=13,
+                    symbolStrokeWidth=1.5,
+                    symbolSize=150,
+                )
+                .configure_view(strokeWidth=0)
+                .configure_axis(
+                    labelLimit=0,
+                    titleLimit=0,
+                ),
+                use_container_width=True,
+            )
+
 
 
 # This adds on the password protection
