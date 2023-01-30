@@ -61,6 +61,15 @@ colour_palettes = {
     'Winter' : alt.Scale(domain=domain,range=winter_palette,reverse=True)
 }
 
+spring_cmap = plt.cm.get_cmap('YlGnBu',10)
+autumn_cmap = plt.cm.get_cmap('plasma_r',10)
+colour_palettes_folium = {
+    'Spring' : [pltcol.rgb2hex(spring_cmap(domain)[i]) for i in range(10)],
+    'Summer' : summer_palette,
+    'Autumn' : [pltcol.rgb2hex(autumn_cmap(domain)[i]) for i in range(10)],
+    'Winter' : winter_palette.reverse()
+}
+
 wiod_indices = [
     'wimd_deciles',
     'wimd_income_domain_deciles', 
