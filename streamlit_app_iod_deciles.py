@@ -120,7 +120,21 @@ if choose == "About":
         f"<div> These open datasets can be found on the <a href= {text_open_data}> Open Data Community </a> and from <a href= {text_geography}> Open Geography Portal </a> . See <a href= {github_repo}> here </a> for the github repository with the linked datasets and streamlit code for this app.</div>",
         unsafe_allow_html=True,
     )
-    st.markdown("The Welsh IoD's [IN PROGRESS]")
+    st.markdown("""
+    The Welsh Indices of Deprivation consider slightly different categories and look at LSOA level only. 
+    The rank is reported with a rank of 1 for the most deprived area. We have converted these ranks to deciles.
+    """)
+    wales_iod_graphic = Image.open(f"{current_dir}/images/wales_iod_graphic.png")
+    text_wales_iod = "https://www.gov.wales/sites/default/files/statistics-and-research/2019-11/welsh-index-multiple-deprivation-2019-results-infographic-207.pdf"
+    st.image(wales_iod_graphic)
+    st.markdown(
+        f"<div style='text-align: center;'>Taken from the Welsh GOV infographic <a href={text_wales_iod}> here</a>. </div>",
+        unsafe_allow_html=True,
+    )
+    text_combined_data = "https://www.gov.uk/government/statistics/indices-of-deprivation-2019-income-and-employment-domains-combined-for-england-and-wales"
+    st.markdown(
+        f"<div> Due to the differences in considerations for the Indices, the Welsh IoD's are not directly comparable. However, a different dataset has been published <a href= {text_combined_data}> here </a> which reports on the Income, Employment, IDACI and IDAOPI indices for both Wales and England combined. </div>",
+        unsafe_allow_html=True)
 
 
 # In order to password protect the rest of the app, put the rest of the code insidea a function. 
@@ -620,7 +634,7 @@ def streamlit_iod():
             You can select a region of England and an LA to produce a map which shows the breakdown at Lower Super Output Area (LSOA).
             Similary you can select an LA from Wales to show the LSOA breakdown.
 
-            You can hold shift and click on LSOA's from England and Wales. Selecting the LSOA's on the map will will show them on the bar chart 
+            You can hold shift and click on LSOA's from England and Wales. Selecting the LSOA's on the map will show them on the bar chart 
             below to compare the deciles. You can ouble-click to remove the all the selections and hover over the map to see the deciles.
             """
             )
