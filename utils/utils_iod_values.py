@@ -28,6 +28,19 @@ iod_names = [
     "Income Deprivation Affecting Older People Index (IDAOPI)",
 ]
 
+iod_tooltip = [
+    "IMD",
+    "Income",
+    "Employment",
+    "Education",
+    "Health and Disability",
+    "Crime",
+    "Barriers to Housing",
+    "Living Environment",
+    "IDACI",
+    "IDAOPI",
+]
+
 # Creating Dictionaries to link the two indices,
 iod_dict = dict(zip(iod_names, iod_indices))
 iod_dict_inv = dict(zip(iod_indices, iod_names))
@@ -47,3 +60,66 @@ colour_palettes = {
     'Autumn' : alt.Scale(domain=domain,scheme='plasma',reverse=True),
     'Winter' : alt.Scale(domain=domain,range=winter_palette,reverse=True)
 }
+
+wiod_indices = [
+    'wimd_deciles',
+    'wimd_income_domain_deciles', 
+    'wimd_employment_domain_deciles',
+    'wimd_education_domain_deciles',
+    'wimd_health_domain_deciles', 
+    'wimd_access_to_services_domain_deciles', 
+    'wimd_housing_domain_deciles',
+    'wimd_community_safety_domain_deciles',
+    'wimd_physical_environment_domain_deciles'
+]
+
+wiod_names = [
+    "Welsh Index of Multiple Deprivation (WIMD)",
+    "Income Domain",
+    "Employment Domain",
+    "Education Domain",
+    "Health Domain",
+    "Access to Services Domain",
+    "Housing Domain",
+    "Community Safety Domain",
+    "Physical Environment Domain",
+]
+wiod_tooltip = [
+    "WIMD",
+    "Income",
+    "Employment",
+    "Education",
+    "Health",
+    "Access to Services",
+    "Housing",
+    "Community Safety",
+    "Physical Environment",
+]
+# Creating Dictionaries to link the two indices,
+wiod_dict = dict(zip(wiod_names, wiod_indices))
+wiod_dict_inv = dict(zip(wiod_indices, wiod_names))
+
+iod_combined_indices = [
+    'income_domain_decile', 
+    'idaci_decile', 
+    'idaopi_decile',
+    'employment_domain_decile'
+]
+
+iod_combined_names = [
+    "Income Domain",
+    "Income Deprivation Affecting Children Index (IDACI)",
+    "Income Deprivation Affecting Older People Index (IDAOPI)",
+    "Employment Domain"
+]
+
+iod_combined_tooltip = [
+    "Income",
+    'IDACI',
+    'IDAOPI',
+    "Employment"
+
+]
+# Creating Dictionaries to link the two indices,
+iod_combined_dict = dict(zip(iod_combined_names, iod_combined_indices))
+iod_combined_dict_inv = dict(zip(iod_combined_indices, iod_combined_names))
